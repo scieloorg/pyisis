@@ -1,0 +1,47 @@
+Services
+========
+  
+ * CRUD (Create, Retrieve, Update, Delete)
+
+  - Create
+    + Importing
+
+  - Retrieve 
+    + Sorting
+    + Browsing
+    + Exporting
+
+ * Search
+
+ * Access Control
+
+
+Protocols
+=========
+
+ * HTTP/Rest
+
+ * HTTP/OAI-PMH
+
+ * FTP
+
+ * SOAP/WSDL
+
+
+
+Plugins
+=======
+
+           | Protocol Handler |
+   CONFIG  | ---------------- | METADATA
+           | Req/Resp parser  |
+           | ---------------- |
+           | Engine handler   |
+           | ---------------- |
+           | DB driver        |
+
+
+ * GTW enumerates plugins
+    - install protocol handlers
+    - install data backend drivers
+

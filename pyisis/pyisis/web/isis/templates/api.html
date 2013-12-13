@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block BODY %}
+<h1><a href="/web">ISIS-NBP Demo</a> &gt; {{title}}</h1>
+
+<h3 style="margin-left:20px;">Available Web Services:</h3>
+
+<ul>
+
+  <li><u>/web/restapi/</u></li> 
+  <p>CRUD REST API</p> 
+  
+  <li><u>/web/xmlrpc/</u></li>
+  <p>CRUD XMLRPC API.</p> 
+  <pre>Use <i>system.listMethods()</i> to get methods list.</pre>
+
+</ul>
+
+{% endblock %}
+

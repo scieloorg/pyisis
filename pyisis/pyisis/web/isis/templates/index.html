@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block BODY %}
+<h1>{{title}}</h1>
+
+<h3 style="margin-left:20px;">Available URL Services:</h3>
+
+<ul>
+  <li><a href="/web/restclient/">/web/restclient/</a></li>
+  <p>Web client to access REST API Server.</p>
+  
+  <li><a href="/web/pftclient/">/web/pftclient/</a></li>
+  <p>Formatting language commands.</p>
+    
+  <li><a href="/web/actionlet/">/web/actionlet/</a></li>
+  <p>Actionlets allow access to collection, database, records and fields from url, ex.:</p>
+  
+  <dl>
+    <dt>Record</dt>
+    <dd><a href="/web/actionlet/sample/cds/1">/web/actionlet/sample/cds/1</a></dd>
+    
+    <dt>Field</dt>
+    <dd><a href="/web/actionlet/sample/cds/1/26">/web/actionlet/sample/cds/1/26</a></dd>
+    
+    <dt>Subfield</dt>
+    <dd><a href="/web/actionlet/sample/cds/1/26/a">/web/actionlet/sample/cds/1/26/a</a></dd>
+    
+    <dt>Collection</dt>
+    <dd><a href="/web/actionlet/sample">/web/actionlet/sample</a></dd>
+    
+    <dt>Database</dt>
+    <dd><a href="/web/actionlet/sample/cds">/web/actionlet/sample/cds</a></dd>
+  </dl>
+       
+  <p></p>
+  
+  <li><a href="/web/api/">/web/api/</a></li>
+  <p>APIs for Web developers</p>
+</ul>
+
+{% endblock %}
+

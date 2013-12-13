@@ -1,0 +1,23 @@
+[Breakpoint 0]
+Enabled=true
+Temporary=false
+Text=r1.c:15
+
+[Breakpoint 1]
+Enabled=true
+File=src/cirec.c
+Line=122
+Temporary=false
+
+[General]
+DebuggerCmdStr=
+DriverName=GDB
+FileVersion=1
+OptionsSelected=
+ProgramArgs=xcds
+TTYLevel=7
+WorkingDirectory=/mnt/gpr/r/projetos/Bireme/isis-nbp/src/trunk/pycisis/tests
+
+[Memory]
+ColumnWidths=80,0
+NumExprs=0

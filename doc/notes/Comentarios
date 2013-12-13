@@ -1,0 +1,10 @@
+dbxopt_fatal (int) reponsavel pelos traps.
+ - traduzir as chamdas de fatal
+ - vide a1.c (ou chamar superman)
+
+dbxopt_fatal =0 antes de cada dbxopen (para evitar o fatal,
+                e transformar fatal em excecao)
+
+pyisis - fazer seek ao inves de ler o padding byte a byte
+
+Examinar mkxref.c

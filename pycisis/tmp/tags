@@ -1,0 +1,1991 @@
+ABNORMAL	cisis.h	2132;"	d
+absent	cisis.h	/^   escape_seq, u_cond, print_mfn, load_mfn, absent, present, contains,$/;"	e	enum:ins
+ACCLEVEL	cisis.h	2526;"	d
+ACCLEVEL	cisis.h	2758;"	d
+ACCLEVEL	cisis.h	2863;"	d
+ACTIVE	cisis.h	1578;"	d
+add	cisis.h	/^   long  add;$/;"	m	struct:intermediate_code
+align4	cisis.h	/^    long align4;                        \/* 4-byte alignment *\/$/;"	m	struct:b7hitbuf
+ALLOC	cisis.h	388;"	d
+ALLOC	cisis.h	401;"	d
+ALLOC	cisis.h	409;"	d
+ALLOC	cisis.h	419;"	d
+ALLOC	cisis.h	429;"	d
+ALLOC	cisis.h	439;"	d
+ALLOMAXV	cisis.h	377;"	d
+ALLOMAXV	cisis.h	387;"	d
+ALLOMAXV	cisis.h	397;"	d
+ALLOMAXV	cisis.h	399;"	d
+ALLOMAXV	cisis.h	408;"	d
+ALLOMAXV	cisis.h	421;"	d
+ALLOMAXV	cisis.h	431;"	d
+ALLOMAXV	cisis.h	441;"	d
+ALLONULL	cisis.h	379;"	d
+ALLONULL	cisis.h	390;"	d
+ALLONULL	cisis.h	403;"	d
+ALLONULL	cisis.h	411;"	d
+ALLONULL	cisis.h	422;"	d
+ALLONULL	cisis.h	432;"	d
+ALLONULL	cisis.h	442;"	d
+ALLOPARM	cisis.h	378;"	d
+ALLOPARM	cisis.h	389;"	d
+ALLOPARM	cisis.h	402;"	d
+ALLOPARM	cisis.h	410;"	d
+ALLOPARM	cisis.h	420;"	d
+ALLOPARM	cisis.h	430;"	d
+ALLOPARM	cisis.h	440;"	d
+and2gf	cisis.h	/^   int and2gf;$/;"	m	struct:__anon6
+and_op	cisis.h	/^   neq_op, lss_op, gtr_op, leq_op, geq_op, eql_op, or_op, and_op, not_op,$/;"	e	enum:ins
+ansiactab	cirun.h	/^unsigned char ansiactab[] = {$/;"	v
+ANSI	cisis.h	99;"	d
+ansimctab	cirun.h	/^unsigned char ansimctab[256]= \/* convert=ansi *\/ \/* asc2ansi *\/$/;"	v
+ansiuctab	cirun.h	/^unsigned char ansiuctab[256]=$/;"	v
+arabmctab	cirun.h	/^unsigned char arabmctab[256]= \/* convert=arab *\/ \/* 708_1256 *\/$/;"	v
+area	cisis.h	/^    UBYTE area[1];                      \/* buffer - via ALLOC() *\/$/;"	m	struct:b6hitbuf
+area	cisis.h	/^    UBYTE area[1];                      \/* buffer - via ALLOC() *\/$/;"	m	struct:b7hitbuf
+b40trace	cidbx.c	/^int b40trace=0;                 \/* b40 RUXTRACE runtime switch *\/$/;"	v
+B4DELADD	cisis.h	2786;"	d
+B4EDIT1	cisis.h	2787;"	d
+B4UPLEN	cisis.h	2785;"	d
+b50trace	cidbx.c	/^int b50trace=0;                 \/* b50 RUXTRACE runtime switch *\/$/;"	v
+B5DELADD	cisis.h	2890;"	d
+B5EDIT1	cisis.h	2891;"	d
+B5RE_10	cisis.h	2903;"	d
+B5RE_18	cisis.h	2904;"	d
+B5RE_1	cisis.h	2899;"	d
+B5RE_28	cisis.h	2905;"	d
+B5RE_2	cisis.h	2900;"	d
+B5RE_3	cisis.h	2901;"	d
+B5RE_4	cisis.h	2902;"	d
+B5RE_53	cisis.h	2898;"	d
+B5RE_PFX	cisis.h	2906;"	d
+B5RE_SET	cisis.h	2907;"	d
+B5RE_X1	cisis.h	2897;"	d
+B5RE_X2	cisis.h	2895;"	d
+B5RE_X3	cisis.h	2896;"	d
+B5UPLEN	cisis.h	2889;"	d
+B6HITBUF	cisis.h	/^} B6HITBUF;$/;"	t	typeref:struct:b6hitbuf
+b6hitbuf	cisis.h	/^typedef struct b6hitbuf {$/;"	s
+b70trace	cidbx.c	/^int b70trace=0;                 \/* b70 RUXTRACE runtime switch *\/$/;"	v
+b71error	cisis.h	/^   int b71error;$/;"	m	struct:__anon6
+b71jumper	cisis.h	/^   jmp_buf b71jumper;$/;"	m	struct:__anon6
+b7batchp	cisis.h	/^   char *b7batchp;                 \/* fldupdat *\/$/;"	m	struct:__anon6
+b7bufferp	cisis.h	/^   B7HITBUF *b7bufferp;$/;"	m	struct:__anon6
+b7_CIB7	cisis.h	/^} b7_CIB7;$/;"	t	typeref:struct:__anon6
+B7DELADD	cisis.h	2529;"	d
+B7EDIT1	cisis.h	2530;"	d
+B7EE_PFX	cisis.h	2549;"	d
+B7EE_X2	cisis.h	2548;"	d
+b7error	cisis.h	/^   int b7error;$/;"	m	struct:__anon6
+b7errxy	cisis.h	/^   char b7errxy[MAXERRL+1];       \/* static *\/$/;"	m	struct:__anon6
+b7fd	cisis.h	/^   int b7fd;$/;"	m	struct:__anon6
+b7_gidbnp	cisis.h	/^   char *b7_gidbnp;$/;"	m	struct:__anon6
+B7HITBUF	cisis.h	/^} B7HITBUF;$/;"	t	typeref:struct:b7hitbuf
+b7hitbuf	cisis.h	/^typedef struct b7hitbuf {$/;"	s
+B7HITLIST	cisis.h	/^} B7HITLIST;$/;"	t	typeref:struct:b7hitlist
+b7hitlist	cisis.h	/^typedef struct b7hitlist {$/;"	s
+B7HITLISTLONG	cisis.h	2577;"	d
+B7HITLISTSH	cisis.h	/^} B7HITLISTSH;$/;"	t	typeref:struct:b7hitlistshort
+B7HITLISTSHORT	cisis.h	2578;"	d
+b7hitlistshort	cisis.h	/^typedef struct b7hitlistshort {$/;"	s
+b7itrm	cisis.h	/^   long b7itrm;$/;"	m	struct:__anon6
+b7objp	cisis.h	/^   char *b7objp;$/;"	m	struct:__anon6
+b7_pfxdbn	cisis.h	/^   char b7_pfxdbn[CIMPL+1];$/;"	m	struct:__anon6
+b7_pfxlen	cisis.h	/^   FFI b7_pfxlen;$/;"	m	struct:__anon6
+b7_pfxmdl	cisis.h	/^   FFI b7_pfxmdl;$/;"	m	struct:__anon6
+b7_pfxmsg	cisis.h	/^   char b7_pfxmsg[LE2+1];$/;"	m	struct:__anon6
+b7_pfxopx	cisis.h	/^   char b7_pfxopx[LE2+LE2+1];$/;"	m	struct:__anon6
+b7_pfxtwx	cisis.h	/^   char b7_pfxtwx[CIMPL+1];$/;"	m	struct:__anon6
+B7RE_10	cisis.h	2542;"	d
+B7RE_18	cisis.h	2543;"	d
+B7RE_1	cisis.h	2538;"	d
+B7RE_28	cisis.h	2544;"	d
+B7RE_2	cisis.h	2539;"	d
+B7RE_3	cisis.h	2540;"	d
+B7RE_4	cisis.h	2541;"	d
+B7RE_53	cisis.h	2537;"	d
+b7recp	cisis.h	/^   RECSTRU *b7recp;                \/* current recp *\/$/;"	m	struct:__anon6
+B7RE_PFX	cisis.h	2545;"	d
+B7RE_SET	cisis.h	2546;"	d
+B7RE_X1	cisis.h	2536;"	d
+B7RE_X2	cisis.h	2534;"	d
+B7RE_X3	cisis.h	2535;"	d
+b7rootmsg	cisis.h	/^   int b7rootmsg;$/;"	m	struct:__anon6
+b7setno1	cisis.h	/^   long b7setno1;$/;"	m	struct:__anon6
+b7setno	cisis.h	/^   long b7setno;$/;"	m	struct:__anon6
+b7tell	cisis.h	/^   long b7tell;$/;"	m	struct:__anon6
+b7tw2mh	cisis.h	/^   int b7tw2mh;$/;"	m	struct:__anon6
+B7UPLEN	cisis.h	2528;"	d
+BAD_ALLOC	cisis.h	366;"	d
+BAD_ALLOC	cisis.h	373;"	d
+basead	cisis.h	/^    unsigned char basead[5];$/;"	m	struct:isohstru
+basep	cisis.h	/^    char    *basep;             \/* area addr *\/$/;"	m	struct:nxstru
+begin	cisis.h	/^   set_true_rep, set_false_rep, test_rep, begin, end,$/;"	e	enum:ins
+beg_init_not_rep	cisis.h	/^   beg_init_not_rep,$/;"	e	enum:ins
+beg_init_rep	cisis.h	/^   beg_init_rep,$/;"	e	enum:ins
+begin_rep_gr	cisis.h	/^   begin_rep_gr, end_rep_gr, test_occ, print_field, d_dummy, n_dummy,$/;"	e	enum:ins
+BIGREC	cisis.h	164;"	d
+bitmask	cidbx.c	/^unsigned char bitmask[8] = { 0x80,0x40,0x20,0x10,0x08,0x04,0x02,0x01 };$/;"	v
+BITSTRING	cisis.h	1895;"	d
+block	cisis.h	/^    long block;                         \/* block number *\/$/;"	m	struct:b6hitbuf
+block	cisis.h	/^    long block;                         \/* block number *\/$/;"	m	struct:b7hitbuf
+breakins	cisis.h	/^   continueins,breakins,$/;"	e	enum:ins
+BRME	cisis.h	52;"	d
+BRMXCPU	cisis.h	53;"	d
+BUFFUPL	cisis.h	2207;"	d
+bufsiz	cisis.h	/^    long bufsiz;                        \/* buffer size *\/$/;"	m	struct:b6hitbuf
+bufsiz	cisis.h	/^    long bufsiz;                        \/* buffer size *\/$/;"	m	struct:b7hitbuf
+bugadddel	cidbx.c	/^int bugadddel=1;                \/* 13\/03\/94 *\/$/;"	v
+BX0CDROM	cisis.h	2728;"	d
+BX0CDROM	cisis.h	2838;"	d
+BY8RMASK	cisis.h	1158;"	d
+BY8SHIFT	cisis.h	1157;"	d
+C1	cisis.h	1880;"	d
+C1	cisis.h	1891;"	d
+C2	cisis.h	1881;"	d
+C2	cisis.h	1892;"	d
+cat_beg	cisis.h	/^   cat_beg, cat_end,$/;"	e	enum:ins
+cat_end	cisis.h	/^   cat_beg, cat_end,$/;"	e	enum:ins
+cc_offset	cisis.h	/^    long     cc_offset;         \/* .cnt SEEK_SET offset *\/$/;"	m	struct:invmap
+CDCS4320	cisis.h	54;"	d
+CDMDL	cisis.h	161;"	d
+CGIClass	cisis.h	/^class _YOURCLASS CGIClass;       \/* Para substituir def da struct *\/$/;"	v	typeref:class:_YOURCLASS
+cgitrace	cidbx.c	/^int cgitrace=0;                 \/* cicgi trace *\/$/;"	v
+CHAR	cisis.h	338;"	d
+ciahcgi	cirun.h	/^char *ciahcgi=NULL;                      \/* \/\/global H2000 cgi data *\/   \/* WTFUN support                   \/\/init in cisisx.c = dbxciset(cipfile) *\/$/;"	v
+CIAOTWCT	cisisx.c	362;"	d	file:
+CIAPI	cisis.h	146;"	d
+ciapip	cisis.h	/^   void *ciapip;$/;"	m	struct:__anon6
+ciawtfp	cirun.h	/^WTFUN_ARRAY *ciawtfp=NULL;               \/* \/\/global WTFUN_ARRAY *\/      \/* WTFUN support - w*.?, ser?.c    \/\/init in cisisx.c = dbxciset(cipfile) *\/$/;"	v
+CIB64	cisis.h	158;"	d
+CIB71	cisis.h	155;"	d
+CIB7HITLIST	cisis.h	2469;"	d
+CIB7TMPNULL	cisis.h	2472;"	d
+CICGI	cisis.h	170;"	d
+CICGI_ENTRY	cisis.h	/^} CICGI_ENTRY;$/;"	t	typeref:struct:__anon7
+CICGI_MAXENTRIES	cisis.h	3465;"	d
+CICGI_MAXENTRIES	cisis.h	3470;"	d
+CICGI_NAMESIZE	cisis.h	3464;"	d
+CICGI_NAMESIZE	cisis.h	3469;"	d
+CICGI_VALSIZE	cisis.h	3463;"	d
+CICGI_VALSIZE	cisis.h	3468;"	d
+CICGI_WORDSIZE	cisis.h	3466;"	d
+CICGI_WORDSIZE	cisis.h	3471;"	d
+cicopyr	cidbx.c	64;"	d	file:
+CICPP	cisis.h	62;"	d
+CICPP	cisis.h	65;"	d
+CICPP	cisis.h	68;"	d
+CICPP	cisis.h	71;"	d
+CIDBX_CISISX_SOURCE	cidbx.c	272;"	d	file:
+CIDBX_SOURCE	cidbx.c	19;"	d	file:
+CIFFI	cisis.h	179;"	d
+CIIFLFIX	cisis.h	3337;"	d
+CIIFU	cisis.h	/^class _YOURCLASS CIIFU;       \/* Para substituir def da struct *\/$/;"	v	typeref:class:_YOURCLASS
+CIMPL	cisis.h	458;"	d
+CIMPL	cisis.h	460;"	d
+CIMPL	cisis.h	463;"	d
+CINEWCPP	cisis.h	362;"	d
+ci_offset	cisis.h	/^    long     ci_offset;         \/* .ifp SEEK_SET offset *\/$/;"	m	struct:invmap
+CIPAR	cisis.h	232;"	d
+CIPAR	cisis.h	265;"	d
+CIPARIC	cisis.h	233;"	d
+CIPARIC	cisis.h	266;"	d
+cipmstxl	cidbx.c	/^int cipmstxl=0;                 \/* extended .mst capacity *\/$/;"	v
+cipmstxl	cidbx.c	/^int cipmstxl=4;                 \/* extended .mst capacity *\/$/;"	v
+cipnetws	cidbx.c	/^int cipnetws=MONONETS;          \/* MULTI default operation *\/$/;"	v
+CIREAD	cisis.h	475;"	d
+CIREAD	cisis.h	488;"	d
+CIREAD	cisis.h	496;"	d
+CIREAD	cisis.h	502;"	d
+CIREAD	cisis.h	519;"	d
+CIREC_SOURCE	cirec.c	7;"	d	file:
+CISIS_H	cisis.h	28;"	d
+cisis_methods	cisismodule.c	/^static PyMethodDef cisis_methods[] = {$/;"	v	file:
+cisis_read	cisismodule.c	/^cisis_read(PyObject *self, PyObject *args)$/;"	f	file:
+CISISX	cisis.h	/^class _YOURCLASS CISISX;$/;"	v	typeref:class:_YOURCLASS
+cistderr	cidbx.c	222;"	d	file:
+cistderr	cidbx.c	/^FILE *cistderr=stderr;      \/* 20\/05\/98 (Asael!) *\/$/;"	v
+citype_beg	cisis.h	/^      citype_beg,citype_end,                       $/;"	e	enum:ins
+citype_end	cisis.h	/^      citype_beg,citype_end,                       $/;"	e	enum:ins
+CIUPD_CISISX_SOURCE	ciupd.c	82;"	d	file:
+CIWRITE	cisis.h	476;"	d
+CIWRITE	cisis.h	489;"	d
+CIWRITE	cisis.h	497;"	d
+CIWRITE	cisis.h	503;"	d
+CIWRITE	cisis.h	520;"	d
+CIWTF	cisis.h	186;"	d
+CIWTF	cisis.h	188;"	d
+CI_XMLELEM	cisis.h	3033;"	d
+cl_offset	cisis.h	/^    long     cl_offset[2];      \/* .l0x SEEK_SET offset *\/$/;"	m	struct:invmap
+CLOSE	cidbx.c	/^int CLOSE(fd)$/;"	f
+CLOSE	cisis.h	474;"	d
+CLOSE	cisis.h	487;"	d
+CLOSE	cisis.h	495;"	d
+CLOSE	cisis.h	501;"	d
+CLOSE	cisis.h	518;"	d
+CLOSFCHR	cisis.h	2310;"	d
+CLOSFCHR	cisis.h	2314;"	d
+CLOSFCHR	cisis.h	2318;"	d
+CNBSIZ	cisis.h	1935;"	d
+CNBUNI	cisis.h	1943;"	d
+CNBUNI	cisis.h	1949;"	d
+cn	cisis.h	/^    CNSTRU   cn[2];             \/* .cnt recs *\/$/;"	m	struct:invmap
+CNLI	cisis.h	216;"	d
+CNLI	cisis.h	252;"	d
+cn_offset	cisis.h	/^    long     cn_offset[2];      \/* .n0x SEEK_SET offset *\/$/;"	m	struct:invmap
+cnopn	cisis.h	/^    int      cnopn;             \/* =dbxopen(.cnt) *\/$/;"	m	struct:invmap
+cnopw	cisis.h	/^    int      cnopw;             \/* dbxopenw\/w(.cnt) *\/$/;"	m	struct:invmap
+CNSTRU	cisis.h	/^} CNSTRU;$/;"	t	typeref:struct:cnstru
+cnstru	cisis.h	/^typedef struct cnstru {$/;"	s
+CNTK	cisis.h	708;"	d
+CNTN	cisis.h	707;"	d
+cntread	cisisx.c	51;"	d	file:
+CNTSTRING	cisis.h	1897;"	d
+CNV_PCBINUM	cisis.h	57;"	d
+cnv_pcbuff	cidbx.c	/^char cnv_pcbuff[MAXMFRL];	\/* PC data representation (swapped) *\/$/;"	v
+CNV_PCFILES	cisis.h	56;"	d
+CNVTRACE	cidbx.c	98;"	d	file:
+CONST	cisis.h	537;"	d
+CONST	cisis.h	539;"	d
+contains	cisis.h	/^   escape_seq, u_cond, print_mfn, load_mfn, absent, present, contains,$/;"	e	enum:ins
+continueins	cisis.h	/^   continueins,breakins,$/;"	e	enum:ins
+ConvertBuffer	cidbx.c	/^int ConvertBuffer(char *buffer,$/;"	f
+ConvertCNT_REC	cidbx.c	/^int ConvertCNT_REC(char *buffer)$/;"	f
+ConvertIFP_BLKCTL	cidbx.c	/^int ConvertIFP_BLKCTL(char *buffer,$/;"	f
+ConvertIFP_PSTHDR	cidbx.c	/^int ConvertIFP_PSTHDR(char *buffer)$/;"	f
+ConvertL01_REC	cidbx.c	/^int ConvertL01_REC(char *buffer)$/;"	f
+ConvertL02_REC	cidbx.c	/^int ConvertL02_REC(char *buffer)$/;"	f
+ConvertMST_CTLSTRUCT	cidbx.c	/^int ConvertMST_CTLSTRUCT(char *buffer)$/;"	f
+ConvertMST_DIR	cidbx.c	/^int ConvertMST_DIR(char *buffer,$/;"	f
+ConvertMST_LEADER	cidbx.c	/^int ConvertMST_LEADER(char *buffer,$/;"	f
+ConvertN01_REC	cidbx.c	/^int ConvertN01_REC(char *buffer)$/;"	f
+ConvertN02_REC	cidbx.c	/^int ConvertN02_REC(char *buffer)$/;"	f
+ConvertXRF_PTR	cidbx.c	/^int ConvertXRF_PTR(char *buffer)$/;"	f
+ConvertXRF_REC	cidbx.c	/^int ConvertXRF_REC(char *buffer)$/;"	f
+coreleft	cidbx.c	66;"	d	file:
+CORELEFT	cigiz.c	1529;"	d	file:
+CORELEFT	cigiz.c	95;"	d	file:
+CORELEFT	cisis.h	392;"	d
+CORELEFT	cisis.h	405;"	d
+CORELEFT	cisis.h	413;"	d
+CORELEFT	cisis.h	424;"	d
+CORELEFT	cisis.h	434;"	d
+CORELEFT	cisis.h	444;"	d
+CREAT	cisis.h	472;"	d
+CREAT	cisis.h	481;"	d
+CREAT	cisis.h	493;"	d
+CREAT	cisis.h	499;"	d
+CREAT	cisis.h	516;"	d
+CRLF	cisis.h	103;"	d
+CRLF	cisis.h	105;"	d
+c_spac	cisis.h	/^   x_spac, c_spac, slash_spac, n_sigx_spac, n_sign_spac, percent_spac,$/;"	e	enum:ins
+cx1extp	cidbx.c	/^char *cx1extp = ".cnt";                         \/* invsetup\/trmisis0 *\/$/;"	v
+date_mktime_beg	cisis.h	/^   date_mktime_beg, date_mktime_end, \/* AOT *\/$/;"	e	enum:ins
+date_mktime_end	cisis.h	/^   date_mktime_beg, date_mktime_end, \/* AOT *\/$/;"	e	enum:ins
+datex_beg	cisis.h	/^   datex_beg,datex_end, \/* AOT *\/$/;"	e	enum:ins
+datex_end	cisis.h	/^   datex_beg,datex_end, \/* AOT *\/$/;"	e	enum:ins
+DBGTRACE	cidbx.c	101;"	d	file:
+DBIci_offset	cisis.h	1044;"	d
+DBIcl_offset	cisis.h	1043;"	d
+DBIcn	cisis.h	1036;"	d
+DBIcn_offset	cisis.h	1042;"	d
+DBIcnopn	cisis.h	1019;"	d
+DBIcnopw	cisis.h	1029;"	d
+DBIifl1p	cisis.h	1015;"	d
+DBIifl2p	cisis.h	1016;"	d
+DBIiflxn	cisis.h	1017;"	d
+DBIiflzx	cisis.h	1018;"	d
+DBIifopn	cisis.h	1025;"	d
+DBIifopn	cisis.h	1027;"	d
+DBIifopv	cisis.h	1035;"	d
+DBIifopw	cisis.h	1034;"	d
+DBIiybasep	cisis.h	1040;"	d
+DBIl1opn	cisis.h	1022;"	d
+DBIl1opw	cisis.h	1032;"	d
+DBIl2opn	cisis.h	1023;"	d
+DBIl2opw	cisis.h	1033;"	d
+DBIlybasep	cisis.h	1039;"	d
+DBIn1opn	cisis.h	1020;"	d
+DBIn1opw	cisis.h	1030;"	d
+DBIn2opn	cisis.h	1021;"	d
+DBIn2opw	cisis.h	1031;"	d
+DBInx	cisis.h	1037;"	d
+DBInybasep	cisis.h	1038;"	d
+dbname_beg	cisis.h	/^   dbname_beg, dbname_end,load_float,$/;"	e	enum:ins
+dbname_end	cisis.h	/^   dbname_beg, dbname_end,load_float,$/;"	e	enum:ins
+dbxcdcip	cidbx.c	/^char *dbxcdcip = NULL;          \/* dbxcipar() input data *\/$/;"	v
+dbxcikey	cidbx.c	/^char dbxcikey[BUFSIZ];          \/* dbxcipar() actual file name *\/$/;"	v
+dbxcinet	cisisx.c	32;"	d	file:
+dbxcipar	cisisx.c	44;"	d	file:
+dbxcipfp	cidbx.c	/^FILE *dbxcipfp = NULL;          \/* dbxcipar() input parameter file pointer *\/$/;"	v
+dbxcipok	cidbx.c	/^int dbxcipok = 0;               \/* dbxcipar() found *\/$/;"	v
+dbxciset	cisisx.c	43;"	d	file:
+Dbx_dealloc	cisismodule.c	/^Dbx_dealloc(DbxObject *self)$/;"	f	file:
+DBXdelxx	cisis.h	938;"	d
+dbxdelxx	cisis.h	/^    int        dbxdelxx;          \/* flag data entry lock *\/$/;"	m	struct:dbxstru
+dbxewlrc	cidbx.c	/^int dbxewlrc = 0;               \/* dbxflock()\/dbxwlock() error action *\/$/;"	v
+DBXewlxx	cisis.h	939;"	d
+dbxewlxx	cisis.h	/^    int        dbxewlxx;          \/* flag exclusive write lock *\/$/;"	m	struct:dbxstru
+dbxflock	cidbx.c	30;"	d	file:
+dbxfloff	cidbx.c	/^long dbxfloff=0L;		\/* dbxflock()\/dbxulock() - offset *\/$/;"	v
+dbxfloff	cidbx.c	/^long dbxfloff=MSBSIZ;		\/* dbxflock()\/dbxulock() - offset = blk #2 *\/$/;"	v
+dbxfloop	cidbx.c	/^int dbxfloop = INT_MAX;         \/* dbxflock() - #retries *\/$/;"	v
+dbxfloop	cidbx.c	/^int dbxfloop = SHRT_MAX;         \/* dbxflock() - #retries *\/$/;"	v
+dbxflsiz	cidbx.c	/^long dbxflsiz=MSBSIZ;		\/* dbxflock()\/dbxulock() - length *\/$/;"	v
+dbxflush	cidbx.c	42;"	d	file:
+Dbx_getattr	cisismodule.c	/^Dbx_getattr(DbxObject *self, char *name)$/;"	f	file:
+DBXgicip	cisis.h	928;"	d
+dbxgicip	cisis.h	/^    char      *dbxgicip;          \/* extended .mst capacity *\/$/;"	m	struct:dbxstru
+dbxgiexn	cidbx.c	/^int   dbxgiexn[] = { 1,2,$/;"	v
+dbxgiext	cidbx.c	/^char *dbxgiext[] = {$/;"	v
+dbxgikey	cidbx.c	/^char dbxgikey[BUFSIZ];         \/* dbxgipar() actual file name *\/$/;"	v
+dbxgipar	cisisx.c	45;"	d	file:
+DBXiflush	cisis.h	935;"	d
+dbxiflush	cisis.h	/^    int        dbxiflush;         \/* invflush() flag *\/$/;"	m	struct:dbxstru
+DBXiflxx	cisis.h	944;"	d
+dbxiflxx	cisis.h	/^    int        dbxiflxx;          \/* dbx samel *\/$/;"	m	struct:dbxstru
+DBXifmap	cisis.h	943;"	d
+dbxifmap	cisis.h	/^    INVMAP    *dbxifmap;          \/* .cnt, .n0x, .l0x, .ifp *\/$/;"	m	struct:dbxstru
+DBXiinit	cisis.h	958;"	d
+dbxiinit	cisis.h	/^    int        dbxiinit;          \/* ifupdat() init *\/$/;"	m	struct:dbxstru
+dbxilock	cisisx.c	33;"	d	file:
+dbxiloop	cidbx.c	/^int dbxiloop = INT_MAX;         \/* dbxilock() - #retries *\/$/;"	v
+dbxiloop	cidbx.c	/^int dbxiloop = SHRT_MAX;         \/* dbxilock() - #retries *\/$/;"	v
+Dbx_init	cisismodule.c	/^Dbx_init(DbxObject *self, PyObject *args, PyObject *kwargs)$/;"	f	file:
+dbxinit	cisisx.c	34;"	d	file:
+dbxinvmp	cidbx.c	51;"	d	file:
+DBXipadd	cisis.h	963;"	d
+dbxipadd	cisis.h	/^    long       dbxipadd[2];       \/* ifupdat() added lk1\/lk2 posts *\/$/;"	m	struct:dbxstru
+DBXipdel	cisis.h	964;"	d
+dbxipdel	cisis.h	/^    long       dbxipdel[2];       \/* ifupdat() deleted lk1\/lk2 posts *\/$/;"	m	struct:dbxstru
+DBXirang	cisis.h	961;"	d
+dbxirang	cisis.h	/^    long       dbxirang;          \/* ifupdat() tell parameter *\/$/;"	m	struct:dbxstru
+DBXirecs	cisis.h	962;"	d
+dbxirecs	cisis.h	/^    long       dbxirecs;          \/* ifupdat() records updated *\/$/;"	m	struct:dbxstru
+DBXitell	cisis.h	960;"	d
+dbxitell	cisis.h	/^    long       dbxitell;          \/* ifupdat() tell parameter *\/$/;"	m	struct:dbxstru
+DBXitrac	cisis.h	959;"	d
+dbxitrac	cisis.h	/^    int        dbxitrac;          \/* ifupdat() trace parameter *\/$/;"	m	struct:dbxstru
+DBXmclose	cisis.h	934;"	d
+dbxmclose	cisis.h	/^    int        dbxmclose;         \/* mstclose() flag *\/$/;"	m	struct:dbxstru
+Dbx_methods	cisismodule.c	/^static PyMethodDef Dbx_methods[] = {$/;"	v	file:
+DBXmflush	cisis.h	933;"	d
+dbxmflush	cisis.h	/^    int        dbxmflush;         \/* mstflush() flag *\/$/;"	m	struct:dbxstru
+DBXmsibp	cisis.h	926;"	d
+dbxmsibp	cisis.h	/^    MSSTRU    *dbxmsibp;          \/* ptr .mst ibuf *\/$/;"	m	struct:dbxstru
+DBXmsmfn	cisis.h	942;"	d
+dbxmsmfn	cisis.h	/^    long       dbxmsmfn;          \/* mstsetup() .mst nxtmfn *\/$/;"	m	struct:dbxstru
+DBXmsopn	cisis.h	921;"	d
+dbxmsopn	cisis.h	/^    int        dbxmsopn;          \/* =dbxopen(.mst) *\/$/;"	m	struct:dbxstru
+DBXmsopv	cisis.h	924;"	d
+dbxmsopv	cisis.h	/^    int        dbxmsopv;          \/* dbxflock\/dbxulock(.mst) *\/$/;"	m	struct:dbxstru
+DBXmsopw	cisis.h	923;"	d
+dbxmsopw	cisis.h	/^    int        dbxmsopw;          \/* dbxopenw\/w(.mst) *\/$/;"	m	struct:dbxstru
+DBXMSTXL	cisis.h	168;"	d
+DBXmstxl	cisis.h	931;"	d
+dbxmstxl	cisis.h	/^    int        dbxmstxl;          \/* extended .mst capacity *\/$/;"	m	struct:dbxstru
+DBXmsyyp	cisis.h	946;"	d
+dbxmsyyp	cisis.h	/^    char      *dbxmsyyp;          \/* all .mst blocks *\/$/;"	m	struct:dbxstru
+DBXmxtmp	cisis.h	940;"	d
+dbxmxtmp	cisis.h	/^    int        dbxmxtmp;          \/* mx() tmpseq master file *\/$/;"	m	struct:dbxstru
+DBXname	cisis.h	919;"	d
+dbxname	cisis.h	/^    char       dbxname[CIMPL+1];  \/* dbname + .ext + NULL *\/$/;"	m	struct:dbxstru
+DBXnetws	cisis.h	937;"	d
+dbxnetws	cisis.h	/^    int        dbxnetws;          \/* type of network support *\/$/;"	m	struct:dbxstru
+DbxObject_Check	cisismodule.c	25;"	d	file:
+DbxObject	cisismodule.c	/^} DbxObject;$/;"	t	typeref:struct:__anon1	file:
+dbxopenc	cisisx.c	39;"	d	file:
+dbxopen	cisisx.c	37;"	d	file:
+dbxopenw	cisisx.c	38;"	d	file:
+dbxopt_errno	cidbx.c	/^int dbxopt_errno = 1;           \/* dbxopen() - dbname\/errno msg before fatal *\/$/;"	v
+dbxopt_fatal	cidbx.c	/^int dbxopt_fatal = 1;           \/* dbxopen() - fatal when file doesn't exist *\/$/;"	v
+dbxopt_iflush	cidbx.c	/^int dbxopt_iflush = 0;          \/* term() - flush lasttrmread if != dbname *\/$/;"	v
+dbxopt_mclose	cidbx.c	/^int dbxopt_mclose = 0;          \/* record() - close lastrecread if != dbname *\/$/;"	v
+dbxopt_mflush	cidbx.c	/^int dbxopt_mflush = 0;          \/* record() - flush lastrecread if != dbname *\/$/;"	v
+dbxopt_ordwr	cidbx.c	/^int dbxopt_ordwr = O_RDONLY;    \/* dbxopen() - O_RDWR \/ O_RDONLY *\/$/;"	v
+dbxopt_ordwr	cidbx.c	/^int dbxopt_ordwr = O_RDONLY;    \/* dbxopen() *\/$/;"	v
+dbxordwr	cidbx.c	/^int dbxordwr = 0;               \/* dbxopen() - dbxopt_ordwr & O_RDWR *\/$/;"	v
+dbxp	cisismodule.c	/^	DBXSTRU *dbxp;$/;"	m	struct:__anon1	file:
+Dbx_read	cisismodule.c	/^Dbx_read(DbxObject *self, PyObject *args)$/;"	f	file:
+dbxsleep	cidbx.c	/^int dbxsleep = 0;               \/* dbxilock() seconds to sleep *\/$/;"	v
+dbxsrchp	cisisx.c	36;"	d	file:
+dbxstorp	cisisx.c	35;"	d	file:
+DBXSTRU	cidbx.c	/^DBXSTRU :: DBXSTRU(CISISX *parm_cisisxp)$/;"	f	class:DBXSTRU
+DBXSTRU	cisis.h	/^class _YOURCLASS DBXSTRU;       \/* Para substituir def da struct *\/$/;"	v	typeref:class:_YOURCLASS
+DBXSTRU	cisis.h	/^} DBXSTRU;$/;"	t	typeref:struct:dbxstru
+dbxstru	cisis.h	/^typedef struct dbxstru {$/;"	s
+DBXSTRU	cisis.h	/^typedef void DBXSTRU;$/;"	t
+dbxtmpnm	cisisx.c	50;"	d	file:
+DBXTRAC0	cidbx.c	95;"	d	file:
+DBXTRAC1	cidbx.c	96;"	d	file:
+DBXTRAC2	cidbx.c	97;"	d	file:
+DBXTRACE	cidbx.c	100;"	d	file:
+dbxtrace	cidbx.c	/^int dbxtrace=0;                 \/* dbxopen\/dbxcipar trace *\/$/;"	v
+DBXTRACw	cidbx.c	94;"	d	file:
+Dbx_Type	cisismodule.c	/^static PyTypeObject Dbx_Type = {$/;"	v	file:
+Dbx_Type	cisismodule.c	/^static PyTypeObject Dbx_Type;$/;"	v	file:
+dbxuclos	cidbx.c	/^int dbxuclos = 1;               \/* dbxulock() - close\/reopen *\/$/;"	v
+dbxulock	cidbx.c	31;"	d	file:
+DBXvderp	cisis.h	955;"	d
+dbxvderp	cisis.h	/^    VDECPSTRU *dbxvderp;          \/* decod processing *\/$/;"	m	struct:dbxstru
+DBXvgzrp	cisis.h	948;"	d
+dbxvgzrp	cisis.h	/^    VGIZPSTRU *dbxvgzrp;          \/* gizmo processing *\/$/;"	m	struct:dbxstru
+dbxwlock	cidbx.c	33;"	d	file:
+dbxwloop	cidbx.c	/^int dbxwloop = INT_MAX;         \/* dbxwlock() - #retries *\/$/;"	v
+dbxwloop	cidbx.c	/^int dbxwloop = SHRT_MAX;         \/* dbxwlock() - #retries *\/$/;"	v
+DBXxpn01	cisis.h	951;"	d
+dbxxpn01	cisis.h	/^    int        dbxxpn01;          \/* expand processing *\/$/;"	m	struct:dbxstru
+DBXxpn02	cisis.h	952;"	d
+dbxxpn02	cisis.h	/^    int        dbxxpn02;          \/* expand processing *\/$/;"	m	struct:dbxstru
+DBXxribp	cisis.h	925;"	d
+dbxxribp	cisis.h	/^    XRSTRU    *dbxxribp;          \/* ptr .xrf ibuf *\/$/;"	m	struct:dbxstru
+DBXxropn	cisis.h	920;"	d
+dbxxropn	cisis.h	/^    int        dbxxropn;          \/* =dbxopen(.xrf) *\/$/;"	m	struct:dbxstru
+DBXxropw	cisis.h	922;"	d
+dbxxropw	cisis.h	/^    int        dbxxropw;          \/* dbxopenw\/w(.xrf) *\/$/;"	m	struct:dbxstru
+DBXxryyp	cisis.h	945;"	d
+dbxxryyp	cisis.h	/^    char      *dbxxryyp;          \/* all .xrf blocks *\/$/;"	m	struct:dbxstru
+ddbnp	cisis.h	/^    unsigned char *ddbnp;$/;"	m	struct:vdecpstru
+d_dummy	cisis.h	/^   begin_rep_gr, end_rep_gr, test_occ, print_field, d_dummy, n_dummy,$/;"	e	enum:ins
+decflush	cisisx.c	47;"	d	file:
+DECOTAG1	cisis.h	1687;"	d
+DECOTAG2	cisis.h	1688;"	d
+DECOTAG3	cisis.h	1689;"	d
+DECOTAG4	cisis.h	1690;"	d
+dectrace	cidbx.c	/^int dectrace=0;                 \/* decoread()\/recdeco() runtime switch  *\/$/;"	v
+DELETED	cisis.h	1579;"	d
+DELOCK	cisis.h	1563;"	d
+dir_entry	cisis.h	/^typedef struct dir_entry {$/;"	s
+DIRlen	cisis.h	1416;"	d
+DIRlen	cisis.h	1441;"	d
+DIRpos	cisis.h	1415;"	d
+DIRpos	cisis.h	1440;"	d
+DIRSTRU	cisis.h	/^} DIRSTRU;$/;"	t	typeref:struct:dir_entry
+DIRtag	cisis.h	1414;"	d
+DIRtag	cisis.h	1439;"	d
+DISTRACE	cisis.h	2617;"	d
+divide_op	cisis.h	/^   plus_op, minus_op, times_op, divide_op,$/;"	e	enum:ins
+DOS32BITS	cisis.h	42;"	d
+drdlm	cisis.h	/^    unsigned char drdlm;$/;"	m	struct:vdecpstru
+drng1	cisis.h	/^    UWORD drng1[MAXDECR];$/;"	m	struct:vdecpstru
+drng2	cisis.h	/^    UWORD drng2[MAXDECR];$/;"	m	struct:vdecpstru
+drngs	cisis.h	/^    int drngs;$/;"	m	struct:vdecpstru
+dsfld	cisis.h	/^    unsigned char dsfld[MAXDECX];$/;"	m	struct:vdecpstru
+dsflds	cisis.h	/^    int dsflds;$/;"	m	struct:vdecpstru
+dsfldv	cisis.h	/^    long dsfldv[MAXDECX];$/;"	m	struct:vdecpstru
+dsfldx	cisis.h	/^    unsigned char dsfldx[MAXDECX];$/;"	m	struct:vdecpstru
+dummy	cisis.h	/^   dummy, jumpf, jumpt, jump, pre_cond, pre_r_lit, pre_r_lit_plus,$/;"	e	enum:ins
+duptop	cisis.h	/^   duptop,  \/* duplicar topo pilha *\/$/;"	e	enum:ins
+eattrib_beg	cisis.h	/^      eattrib_beg,eattrib_end,sattrib_beg,sattrib_end,$/;"	e	enum:ins
+eattrib_end	cisis.h	/^      eattrib_beg,eattrib_end,sattrib_beg,sattrib_end,$/;"	e	enum:ins
+end	cisis.h	/^   set_true_rep, set_false_rep, test_rep, begin, end,$/;"	e	enum:ins
+end_else	cisis.h	/^   init_if, end_then, end_else, fi, val_beg, val_end,$/;"	e	enum:ins
+end_init_not_rep	cisis.h	/^   end_init_not_rep,$/;"	e	enum:ins
+end_init_rep	cisis.h	/^   end_init_rep,$/;"	e	enum:ins
+end_rep_gr	cisis.h	/^   begin_rep_gr, end_rep_gr, test_occ, print_field, d_dummy, n_dummy,$/;"	e	enum:ins
+end_select	cisis.h	/^   end_select,$/;"	e	enum:ins
+end_then	cisis.h	/^   init_if, end_then, end_else, fi, val_beg, val_end,$/;"	e	enum:ins
+eql_op	cisis.h	/^   neq_op, lss_op, gtr_op, leq_op, geq_op, eql_op, or_op, and_op, not_op,$/;"	e	enum:ins
+ErrorObject	cisismodule.c	/^static PyObject *ErrorObject;$/;"	v	file:
+ERRTRACE	cisis.h	2837;"	d
+escape_seq	cisis.h	/^   escape_seq, u_cond, print_mfn, load_mfn, absent, present, contains,$/;"	e	enum:ins
+EWLOCK	cisis.h	1565;"	d
+fatal	cisisx.c	41;"	d	file:
+fatal_errcod	cisisx.c	/^int     fatal_errcod = 1;                       \/* cisis fatal() error code *\/$/;"	v
+fatal_iomsg	cisisx.c	/^char    fatal_iomsg[MAXFATML+1] = { "" };       \/* cisis fatal() flag\/msg *\/$/;"	v
+fatal_jumper	cisisx.c	/^jmp_buf fatal_jumper;                           \/* cisis fatal() longjmp() *\/$/;"	v
+FATRAP	cisis.h	173;"	d
+FATRAP	cisis.h	175;"	d
+f_beg	cisis.h	/^   l_beg, l_end, s_beg, s_end, fmt_beg, fmt_end, f_beg, f_end, str_cat,$/;"	e	enum:ins
+f_end	cisis.h	/^   l_beg, l_end, s_beg, s_end, fmt_beg, fmt_end, f_beg, f_end, str_cat,$/;"	e	enum:ins
+FFI	cisis.h	347;"	d
+FFI	cisis.h	350;"	d
+fi	cisis.h	/^   init_if, end_then, end_else, fi, val_beg, val_end,$/;"	e	enum:ins
+fieldn	cirec.c	15;"	d	file:
+FIELDP	cisis.h	1549;"	d
+fieldx	cirec.c	16;"	d	file:
+fillerXm0mftype	cisis.h	/^    UWORD      fillerXm0mftype;$/;"	m	struct:m0stru
+fillerXm1mfrl	cisis.h	/^             UWORD      fillerXm1mfrl;$/;"	m	struct:m1stru
+FLDTRACE	cirec.c	945;"	d	file:
+fldupdat	cirec.c	26;"	d	file:
+fldupdat	ciupd.c	/^char *fldupdat(irec,batchp)                                           \/*$/;"	f
+FLDUPXB5	cisis.h	2864;"	d
+fmt_beg	cisis.h	/^   l_beg, l_end, s_beg, s_end, fmt_beg, fmt_end, f_beg, f_end, str_cat,$/;"	e	enum:ins
+FMT_CODE	cisis.h	/^} FMT_CODE;$/;"	t	typeref:struct:lista
+FMT_CODE	cisis.h	/^typedef void FMT_CODE;$/;"	t
+FMT_CODX	cisis.h	3167;"	d
+FMT_CODX	cisis.h	3169;"	d
+FMT_CODX	cisis.h	3172;"	d
+fmt_end	cisis.h	/^   l_beg, l_end, s_beg, s_end, fmt_beg, fmt_end, f_beg, f_end, str_cat,$/;"	e	enum:ins
+fmt_fsiz	cidbx.c	/^long fmt_fsiz=MAXMFRL;               \/* fmt_inter() - to set max field length *\/$/;"	v
+fmtp	cisis.h	/^    FMT_CODX *fmtp;$/;"	m	struct:fst_code
+FMTSTRU	cisis.h	/^class _YOURCLASS FMTSTRU;       \/* Para substituir def da struct *\/$/;"	v	typeref:class:_YOURCLASS
+fmttrace	cidbx.c	/^int fmttrace=0;                 \/* fmt runtime switch *\/$/;"	v
+FORCE	cisis.h	1566;"	d
+forfut	cisis.h	/^    unsigned char forfut[2];$/;"	m	struct:isohstru
+forusr	cisis.h	/^    unsigned char forusr[3];$/;"	m	struct:isohstru
+FPCBSIZ	cisis.h	1163;"	d
+fpc_buffer	cidbx.c	/^char *fpc_buffer=NULL;          \/* fpccreat()\/fpcwrite()\/fpcclose() *\/$/;"	v
+fpcclose	cidbx.c	62;"	d	file:
+fpccreat	cidbx.c	60;"	d	file:
+fpc_fd	cidbx.c	/^int fpc_fd=0;                   \/* fpccreat()\/fpcwrite()\/fpcclose() *\/$/;"	v
+fpc_left	cidbx.c	/^FFI fpc_left=FPCBSIZ;           \/* fpccreat()\/fpcwrite()\/fpcclose() *\/$/;"	v
+fpcwrite	cidbx.c	61;"	d	file:
+FREE	cisis.h	391;"	d
+FREE	cisis.h	404;"	d
+FREE	cisis.h	412;"	d
+FREE	cisis.h	423;"	d
+FREE	cisis.h	433;"	d
+FREE	cisis.h	443;"	d
+freex	ciupd.c	1597;"	d	file:
+freex	ciupd.c	2105;"	d	file:
+FST_CODE	cisis.h	/^} FST_CODE;$/;"	t	typeref:struct:fst_code
+fst_code	cisis.h	/^typedef struct fst_code {$/;"	s
+FSTERR1	cisis.h	3196;"	d
+FSTERR2	cisis.h	3197;"	d
+FSTERR3	cisis.h	3198;"	d
+FSTERRF	cisis.h	3199;"	d
+FSTSTRU	cisis.h	/^class _YOURCLASS FSTSTRU;       \/* Para substituir def da struct *\/$/;"	v	typeref:class:_YOURCLASS
+fsttrace	cidbx.c	/^int fsttrace=0;                 \/* fst FSSTRACE runtime switch *\/$/;"	v
+FULLNETS	cisis.h	2203;"	d
+GCC	cisis.h	34;"	d
+gdbnp	cisis.h	/^    unsigned char *gdbnp;$/;"	m	struct:vgizpstru
+GEN_CORELEFT	cisis.h	529;"	d
+GEN_ISI	cisis.h	226;"	d
+GEN_ISI	cisis.h	259;"	d
+GEN_LABS	cisis.h	530;"	d
+GEN_MEMICMP	cisis.h	534;"	d
+GEN_STRREV	cisis.h	533;"	d
+GEN_STRSTR	cisis.h	531;"	d
+GEN_STRUPR	cisis.h	532;"	d
+GEN_UTL	cisis.h	227;"	d
+GEN_UTL	cisis.h	260;"	d
+geq_op	cisis.h	/^   neq_op, lss_op, gtr_op, leq_op, geq_op, eql_op, or_op, and_op, not_op,$/;"	e	enum:ins
+GETACUCTAB	cisisx.c	425;"	d	file:
+GETCHAR	cigiz.c	1000;"	d	file:
+GETCHAR	cigiz.c	1532;"	d	file:
+GETCHAR	cigiz.c	21;"	d	file:
+GETCHAR	cigiz.c	23;"	d	file:
+GETCHAR	cigiz.c	683;"	d	file:
+GETCHAR	cigiz.c	996;"	d	file:
+getenv_beg	cisis.h	/^   getenv_beg, getenv_end,$/;"	e	enum:ins
+getenv_end	cisis.h	/^   getenv_beg, getenv_end,$/;"	e	enum:ins
+GETX	cigiz.c	998;"	d	file:
+ghdrp	cisis.h	/^    GIZMSTRU *ghdrp[256];$/;"	m	struct:vgizpstru
+GIPAR	cisis.h	235;"	d
+GIPAR	cisis.h	238;"	d
+GIPAR	cisis.h	241;"	d
+GIPAR	cisis.h	267;"	d
+gizflush	cisisx.c	46;"	d	file:
+gizmalloc	cigiz.c	/^GIZMSTRU *gizmalloc(int n)$/;"	f
+gizmread	cigiz.c	/^int gizmread(CISISX * cisisxp,$/;"	f
+GIZMSTRU	cisis.h	/^} GIZMSTRU;$/;"	t	typeref:struct:gizmstru
+gizmstru	cisis.h	/^typedef struct gizmstru {$/;"	s
+GIZMTAG11	cisis.h	1640;"	d
+GIZMTAG1	cisis.h	1638;"	d
+GIZMTAG21	cisis.h	1641;"	d
+GIZMTAG2	cisis.h	1639;"	d
+grng1	cisis.h	/^    UWORD grng1[MAXGIZR];$/;"	m	struct:vgizpstru
+grng2	cisis.h	/^    UWORD grng2[MAXGIZR];$/;"	m	struct:vgizpstru
+grngs	cisis.h	/^    int grngs;$/;"	m	struct:vgizpstru
+gtr_op	cisis.h	/^   neq_op, lss_op, gtr_op, leq_op, geq_op, eql_op, or_op, and_op, not_op,$/;"	e	enum:ins
+hcase	cisis.h	/^    int  hcase;                         \/* BITSTRING or MFNSTRING (4 bytes) *\/$/;"	m	struct:b7hitbuf
+htype	cisis.h	/^    int  htype;                         \/* list of long or unsigned short mfn's *\/$/;"	m	struct:b7hitbuf
+icodes	cisis.h	/^    unsigned char icodes[4];$/;"	m	struct:isohstru
+idx	cisis.h	/^    LXIDXE   idx[1][TWORDF];    \/* gdb .l01 idx - samel *\/$/;"	m	struct:lxl1stru
+idx	cisis.h	/^    LXIDXE   idx[1][TWORDF];    \/* gdb .l02 idx - samel *\/$/;"	m	struct:lxl2stru
+IFBSIZ	cisis.h	684;"	d
+IFHDRINFOS	cisis.h	694;"	d
+IFHDRSIZ	cisis.h	1923;"	d
+ifl1p	cisis.h	/^    char    *ifl1p;             \/* .l01 block *\/$/;"	m	struct:invmap
+ifl2p	cisis.h	/^    char    *ifl2p;             \/* .l02 block *\/$/;"	m	struct:invmap
+IFLOADFUN	cisis.h	3386;"	d
+iflxn	cisis.h	/^    int      iflxn;             \/* #total *\/$/;"	m	struct:invmap
+iflzx	cisis.h	/^    int      iflzx;             \/* ztree *\/$/;"	m	struct:invmap
+IFMAXTIV	cisis.h	687;"	d
+IFNVSPLT	cisis.h	696;"	d
+ifopn	cisis.h	/^    int      ifopn;             \/* =dbxopen(.ifp) *\/$/;"	m	struct:invmap
+ifopn	cisis.h	/^    int      ifopn[MAXSAMEL];   \/* =dbxopen(.ifp) *\/$/;"	m	struct:invmap
+ifopv	cisis.h	/^    int      ifopv;             \/* dbxflock\/dbxulock(.ifp) *\/$/;"	m	struct:invmap
+ifopw	cisis.h	/^    int      ifopw;             \/* dbxopenw\/w(.ifp) *\/$/;"	m	struct:invmap
+ifpblk	cisis.h	/^    INFO     ifpblk;            \/* gdb .ifp blk order *\/$/;"	m	struct:ifpctrl
+ifpblk	cisis.h	/^    INFO     ifpblk;            \/* gdb .ifp blk order *\/$/;"	m	struct:ifpstru
+IFPCTRL	cisis.h	/^} IFPCTRL;$/;"	t	typeref:struct:ifpctrl
+ifpctrl	cisis.h	/^typedef struct ifpctrl {$/;"	s
+IFPHEAD	cisis.h	/^} IFPHEAD;$/;"	t	typeref:struct:ifphead
+ifphead	cisis.h	/^typedef struct ifphead {$/;"	s
+ifpnxtb	cisis.h	/^    INFO     ifpnxtb;           \/* gdb .ifp ifpnxtb *\/$/;"	m	struct:ifphead
+ifpnxtp	cisis.h	/^    INFO     ifpnxtp;           \/* gdb .ifp ifpnxtp *\/$/;"	m	struct:ifphead
+ifprec1	cisis.h	/^    INFO     ifprec1;           \/* gdb .ifp ifprec(1) *\/$/;"	m	struct:ifpctrl
+ifprec2	cisis.h	/^    INFO     ifprec2;           \/* gdb .ifp ifprec(2) *\/$/;"	m	struct:ifpctrl
+ifprec	cisis.h	/^    INFO     ifprec[IFMAXTIV];  \/* gdb .ifp data *\/$/;"	m	struct:ifpstru
+ifpsegc	cisis.h	/^    INFO     ifpsegc;           \/* gdb .ifp ifpsegc *\/$/;"	m	struct:ifphead
+ifpsegp	cisis.h	/^    INFO     ifpsegp;           \/* gdb .ifp ifpsegp *\/$/;"	m	struct:ifphead
+IFPSTINFOS	cisis.h	695;"	d
+IFPSTRU	cisis.h	/^} IFPSTRU;$/;"	t	typeref:struct:ifpstru
+ifpstru	cisis.h	/^typedef struct ifpstru {$/;"	s
+IFPSTSIZ	cisis.h	1933;"	d
+ifptotp	cisis.h	/^    INFO     ifptotp;           \/* gdb .ifp ifptotp *\/$/;"	m	struct:ifphead
+ifpx	cisis.h	/^    UCHR     ifpx[IFBSIZ];      \/* tlc .ifp data *\/$/;"	m	struct:ifpstru
+IFSHIFT	cisis.h	685;"	d
+IFUPCLOS	cisis.h	3282;"	d
+IFUPCORE	cisis.h	3280;"	d
+IFUPDATE	cisis.h	245;"	d
+IFUPDATE	cisis.h	270;"	d
+IFUPDICT	cisis.h	3277;"	d
+IFUPDXLD	cisis.h	3285;"	d
+IFUPDXUP	cisis.h	3284;"	d
+IFUPISIS	cisis.h	3278;"	d
+IFUPWRIT	cisis.h	3281;"	d
+ign_cond	cisis.h	/^        ign_cond, \/*12-03-99 ignore conditional lits without field selector *\/$/;"	e	enum:ins
+INCLOADX	cisisx.c	422;"	d	file:
+INCPRCCX	ciupd.c	21;"	d	file:
+INCPRECX	ciupd.c	17;"	d	file:
+INCPROCX	ciupd.c	12;"	d	file:
+INCPROCXT	ciupd.c	13;"	d	file:
+INCPRSSX	ciupd.c	25;"	d	file:
+indlen	cisis.h	/^    unsigned char indlen[1];$/;"	m	struct:isohstru
+info1	cisis.h	/^    INFO     info1;             \/* gdb .l0x idx info1 *\/$/;"	m	struct:lxidxe
+info2	cisis.h	/^    INFO     info2;             \/* gdb .l0x idx info2 *\/$/;"	m	struct:lxidxe
+info3	cisis.h	/^        INFO info3;             \/* tlc info3 - tot no of docs *\/$/;"	m	union:lxidxe::__anon5
+info3info4	cisis.h	/^    } info3info4;$/;"	m	struct:l1idxe	typeref:union:l1idxe::__anon3
+info3info4	cisis.h	/^    } info3info4;$/;"	m	struct:l2idxe	typeref:union:l2idxe::__anon4
+info3info4	cisis.h	/^    } info3info4;$/;"	m	struct:lxidxe	typeref:union:lxidxe::__anon5
+info4	cisis.h	/^        INFO info4;             \/* tlc info4 - posting type and etc *\/$/;"	m	union:lxidxe::__anon5
+INFO	cisis.h	691;"	d
+info	cisis.h	/^	pgm_node info;$/;"	m	struct:lista
+INFOSIZE	cisis.h	693;"	d
+initcisis	cisismodule.c	/^initcisis(void)$/;"	f
+init_if	cisis.h	/^   init_if, end_then, end_else, fi, val_beg, val_end,$/;"	e	enum:ins
+input_fld	cisis.h	/^   update_fld, input_fld, lw_beg, lw_end,$/;"	e	enum:ins
+ins	cisis.h	/^typedef enum ins {$/;"	g
+instr_beg	cisis.h	/^   instr_beg, instr_end,$/;"	e	enum:ins
+instr	cisis.h	/^   instruction_code  instr;$/;"	m	struct:intermediate_code
+instr_end	cisis.h	/^   instr_beg, instr_end,$/;"	e	enum:ins
+instruction_code	cisis.h	/^} instruction_code;$/;"	t	typeref:enum:ins
+INT	cisis.h	343;"	d
+INTELCPU	cisis.h	51;"	d
+intermediate_code	cisis.h	/^typedef struct intermediate_code {$/;"	s
+intvvalue	cisis.h	/^      intvvalue,strvvalue,$/;"	e	enum:ins
+invclose	cidbx.c	52;"	d	file:
+invflush	cidbx.c	53;"	d	file:
+INVMAP	cisis.h	/^} INVMAP;$/;"	t	typeref:struct:invmap
+invmap	cisis.h	/^typedef struct invmap {$/;"	s
+invsetup	cisisx.c	52;"	d	file:
+INVXBOOL	cisis.h	229;"	d
+INVXBOOL	cisis.h	262;"	d
+ioccins	cisis.h	/^   ioccins,$/;"	e	enum:ins
+ipatt	cisis.h	/^    unsigned char *ipatt;$/;"	m	struct:gizmstru
+irxarea	cisis.h	/^    char     irxarea[1];        \/* irx area  *\/$/;"	m	struct:irxstru
+irxbytes	cisis.h	/^    long     irxbytes;          \/* irx bytes *\/$/;"	m	struct:irxstru
+irxhits	cisis.h	/^    long     irxhits;$/;"	m	struct:irxstru
+IRXSTRU	cisis.h	/^} IRXSTRU;$/;"	t	typeref:struct:irxstru
+irxstru	cisis.h	/^typedef struct irxstru {$/;"	s
+isisactab	cirun.h	/^unsigned char isisactab[] = {$/;"	v
+isisuctab	cirun.h	54;"	d
+isisuctab	cirun.h	/^unsigned char isisuctab[256]=$/;"	v
+ISISUNISYS	cisis.h	95;"	d
+isiswctab	cirun.h	53;"	d
+isiswctab	cirun.h	/^unsigned char isiswctab[256];$/;"	v
+isiswctot	cirun.h	52;"	d
+isiswctot	cirun.h	/^int isiswctot=0;$/;"	v
+ISISXL512	cisis.h	213;"	d
+ISISXL	cisis.h	207;"	d
+ISISXL	cisis.h	209;"	d
+ISISXL	cisis.h	250;"	d
+isize	cisis.h	/^    short isize;$/;"	m	struct:gizmstru
+ISO_2709	cisis.h	/^class _YOURCLASS ISO_2709;       \/* Para substituir def da struct *\/$/;"	v	typeref:class:_YOURCLASS
+ISOBSIZ	cisis.h	2405;"	d
+ISODSIZE	cisis.h	2439;"	d
+ISODSTRU	cisis.h	/^} ISODSTRU;$/;"	t	typeref:struct:isodstru
+isodstru	cisis.h	/^typedef struct isodstru {$/;"	s
+ISOHSIZE	cisis.h	2438;"	d
+ISOHSTRU	cisis.h	/^} ISOHSTRU;$/;"	t	typeref:struct:isohstru
+isohstru	cisis.h	/^typedef struct isohstru {$/;"	s
+ISOLLEF	cisis.h	2407;"	d
+ISOLSCP	cisis.h	2408;"	d
+ISOXFS	cisis.h	2409;"	d
+ISOXFSMARC	cisis.h	2411;"	d
+ISOXGS	cisis.h	2410;"	d
+ISOXGSMARC	cisis.h	2412;"	d
+ISOXXSMARC	cisis.h	2413;"	d
+ISPACKED	cisis.h	113;"	d
+ISPACKED	cisis.h	117;"	d
+it	cisis.h	/^    int it;$/;"	m	struct:fst_code
+it	cisis.h	/^    UWORD      it;                \/* gdb .l01 it *\/$/;"	m	struct:lxl1stru
+it	cisis.h	/^    UWORD      it;                \/* gdb .l02 it *\/$/;"	m	struct:lxl2stru
+ix1extp	cidbx.c	/^char *ix1extp = ".ifp";                         \/* invsetup\/trmisis0 *\/$/;"	v
+ix1extp	cidbx.c	/^char *ix1extp = ".iyp";                         \/* invsetup\/trmisis0 *\/$/;"	v
+iy0extp	cidbx.c	/^char *iy0extp = ".iy0";                         \/* All IF into 1. To ALP, WL *\/$/;"	v
+iybasep	cisis.h	/^    char    *iybasep;           \/* all .ifp blocks *\/$/;"	m	struct:invmap
+jump	cisis.h	/^   dummy, jumpf, jumpt, jump, pre_cond, pre_r_lit, pre_r_lit_plus,$/;"	e	enum:ins
+jumpf	cisis.h	/^   dummy, jumpf, jumpt, jump, pre_cond, pre_r_lit, pre_r_lit_plus,$/;"	e	enum:ins
+jumpt	cisis.h	/^   dummy, jumpf, jumpt, jump, pre_cond, pre_r_lit, pre_r_lit_plus,$/;"	e	enum:ins
+KEEPDBX	ciupd.c	1497;"	d	file:
+key	cisis.h	/^    UCHR key[LE1];$/;"	m	struct:link1
+key	cisis.h	/^    UCHR key[LE2];$/;"	m	struct:link2
+key	cisis.h	/^    UCHR     key[TWORDF][LE1];  \/* gdb .l01 idx key *\/$/;"	m	struct:lxl1stru
+key	cisis.h	/^    UCHR     key[TWORDF][LE2];  \/* gdb .l02 idx key *\/$/;"	m	struct:lxl2stru
+L0STRU	cisis.h	/^} L0STRU;$/;"	t	typeref:struct:l0stru
+l0stru	cisis.h	/^typedef struct l0stru {$/;"	s
+L1BSIZ	cisis.h	1938;"	d
+L1BUNI	cisis.h	1946;"	d
+L1BUNI	cisis.h	1952;"	d
+L1IDXE	cisis.h	/^} L1IDXE;$/;"	t	typeref:struct:l1idxe
+l1idxe	cisis.h	/^typedef struct l1idxe {$/;"	s
+l1opn	cisis.h	/^    int      l1opn;             \/* =dbxopen(.l01) *\/$/;"	m	struct:invmap
+l1opw	cisis.h	/^    int      l1opw;             \/* dbxopenw\/w(.l01) *\/$/;"	m	struct:invmap
+L1STRU	cisis.h	/^} L1STRU;$/;"	t	typeref:struct:l1stru
+l1stru	cisis.h	/^typedef struct l1stru {$/;"	s
+L2BSIZ	cisis.h	1939;"	d
+L2BUNI	cisis.h	1947;"	d
+L2BUNI	cisis.h	1953;"	d
+L2IDXE	cisis.h	/^} L2IDXE;$/;"	t	typeref:struct:l2idxe
+l2idxe	cisis.h	/^typedef struct l2idxe {$/;"	s
+l2opn	cisis.h	/^    int      l2opn;             \/* =dbxopen(.l02) *\/$/;"	m	struct:invmap
+l2opw	cisis.h	/^    int      l2opw;             \/* dbxopenw\/w(.l02) *\/$/;"	m	struct:invmap
+L2STRU	cisis.h	/^} L2STRU;$/;"	t	typeref:struct:l2stru
+l2stru	cisis.h	/^typedef struct l2stru {$/;"	s
+lab	cisis.h	/^   label  lab;$/;"	m	struct:intermediate_code
+label	cisis.h	/^typedef int label;$/;"	t
+labs	cidbx.c	69;"	d	file:
+lastrecread	cirec.c	/^char lastrecread[CIMPL+1] = "";     \/* 950724 *\/$/;"	v
+l_beg	cisis.h	/^   l_beg, l_end, s_beg, s_end, fmt_beg, fmt_end, f_beg, f_end, str_cat,$/;"	e	enum:ins
+LE1	cisis.h	637;"	d
+LE1	cisis.h	644;"	d
+LE2	cisis.h	639;"	d
+LE2	cisis.h	641;"	d
+LE2	cisis.h	645;"	d
+LEADER	cisis.h	1299;"	d
+LEADER	cisis.h	1303;"	d
+LEADER	cisis.h	1306;"	d
+LEAFCNV_PCFILES	cisis.h	1141;"	d
+LEAFCNV_PCFILES	cisis.h	1143;"	d
+leafread	cisisx.c	54;"	d	file:
+leafunibuff	cidbx.c	/^UCHR leafunibuff[L2BSIZ];       \/* area para ler pagina de .l01\/.l02 *\/$/;"	v
+left_beg	cisis.h	/^   left_beg,left_end,$/;"	e	enum:ins
+left	cisis.h	/^    int      left;              \/* no of memo buffers still free *\/$/;"	m	struct:nxstru
+left_end	cisis.h	/^   left_beg,left_end,$/;"	e	enum:ins
+l_end	cisis.h	/^   l_beg, l_end, s_beg, s_end, fmt_beg, fmt_end, f_beg, f_end, str_cat,$/;"	e	enum:ins
+lenfld	cisis.h	/^    unsigned char lenfld[ISOLLEF];$/;"	m	struct:isodstru
+length	cisis.h	/^    unsigned char length[5];$/;"	m	struct:isohstru
+lenlef	cisis.h	/^    unsigned char lenlef[1];$/;"	m	struct:isohstru
+lenscp	cisis.h	/^    unsigned char lenscp[1];$/;"	m	struct:isohstru
+leq_op	cisis.h	/^   neq_op, lss_op, gtr_op, leq_op, geq_op, eql_op, or_op, and_op, not_op,$/;"	e	enum:ins
+LIND	cisis.h	200;"	d
+LIND	cisis.h	202;"	d
+LIND	cisis.h	251;"	d
+LINDLUX	cisis.h	166;"	d
+LINK1	cisis.h	/^} LINK1;$/;"	t	typeref:struct:link1
+link1	cisis.h	/^typedef struct link1 {$/;"	s
+LINK2	cisis.h	/^} LINK2;$/;"	t	typeref:struct:link2
+link2	cisis.h	/^typedef struct link2 {$/;"	s
+LINK_7544KEY	cisis.h	141;"	d
+lista	cisis.h	/^typedef struct lista {$/;"	s
+load_core	cisis.h	/^   print_core, print_maxmfn, load_core, load_maxmfn,$/;"	e	enum:ins
+load_date	cisis.h	/^   load_date, \/* print_date, *\/$/;"	e	enum:ins
+load_field_all	cisis.h	/^   load_field_all, load_field_occ, load_number, load_string,$/;"	e	enum:ins
+load_field_occ	cisis.h	/^   load_field_all, load_field_occ, load_number, load_string,$/;"	e	enum:ins
+loadfile	cisisx.c	48;"	d	file:
+load_float	cisis.h	/^   dbname_beg, dbname_end,load_float,$/;"	e	enum:ins
+load_maxmfn	cisis.h	/^   print_core, print_maxmfn, load_core, load_maxmfn,$/;"	e	enum:ins
+load_mfn	cisis.h	/^   escape_seq, u_cond, print_mfn, load_mfn, absent, present, contains,$/;"	e	enum:ins
+load_mstnam	cisis.h	/^   load_mstnam, \/* print_mstnam, *\/$/;"	e	enum:ins
+load_number	cisis.h	/^   load_field_all, load_field_occ, load_number, load_string,$/;"	e	enum:ins
+load_string	cisis.h	/^   load_field_all, load_field_occ, load_number, load_string,$/;"	e	enum:ins
+loadstw	cisisx.c	49;"	d	file:
+locfld	cisis.h	/^    unsigned char locfld[ISOLSCP];$/;"	m	struct:isodstru
+lss_op	cisis.h	/^   neq_op, lss_op, gtr_op, leq_op, geq_op, eql_op, or_op, and_op, not_op,$/;"	e	enum:ins
+LTXPAGES	cisis.h	756;"	d
+ltxpages	cisis.h	/^    long ltxpages[NTREE];$/;"	m	struct:invmap
+ltxthresh	cisis.h	/^    long ltxthresh;$/;"	m	struct:invmap
+ltxvpagp	cisis.h	/^    N0STRU *ltxvpagp[NTREE][1+LTXPAGES];$/;"	m	struct:invmap
+LUXPAGES	cisis.h	757;"	d
+luxpages	cisis.h	/^    long luxpages[NTREE];$/;"	m	struct:invmap
+luxthresh	cisis.h	/^    long luxthresh;$/;"	m	struct:invmap
+luxvpagp	cisis.h	/^    L0STRU *luxvpagp[NTREE][1+LUXPAGES];$/;"	m	struct:invmap
+lvxfplog	cisis.h	/^    FILE *lvxfplog;$/;"	m	struct:invmap
+lvxiflind	cisis.h	/^    int  lvxiflind;$/;"	m	struct:invmap
+LVXIYPBS	cisis.h	759;"	d
+lvxmaxmfn	cisis.h	/^    long lvxmaxmfn;$/;"	m	struct:invmap
+LVXPAGES	cisis.h	758;"	d
+lvxpages	cisis.h	/^    long lvxpages;$/;"	m	struct:invmap
+lvxvpagp	cisis.h	/^    char *lvxvpagp[1+LVXPAGES];$/;"	m	struct:invmap
+lw_beg	cisis.h	/^   update_fld, input_fld, lw_beg, lw_end,$/;"	e	enum:ins
+lw_end	cisis.h	/^   update_fld, input_fld, lw_beg, lw_end,$/;"	e	enum:ins
+lx12extp	cidbx.c	/^char *lx12extp[NTREE] = { ".l01", ".l02" };     \/* invsetup\/trmisis0 *\/$/;"	v
+lx12extp	cidbx.c	/^char *lx12extp[NTREE] = { ".ly1", ".ly2" };     \/* invsetup\/trmisis0 *\/$/;"	v
+lxbsiz	cidbx.c	/^int lxbsiz[NTREE] = { L1BSIZ, L2BSIZ };         \/* use it *\/$/;"	v
+LXIDXE	cisis.h	/^} LXIDXE;$/;"	t	typeref:struct:lxidxe
+lxidxe	cisis.h	/^typedef struct lxidxe {$/;"	s
+LXL1STRU	cisis.h	/^} LXL1STRU;$/;"	t	typeref:struct:lxl1stru
+lxl1stru	cisis.h	/^typedef struct lxl1stru {$/;"	s
+LXL2STRU	cisis.h	/^} LXL2STRU;$/;"	t	typeref:struct:lxl2stru
+lxl2stru	cisis.h	/^typedef struct lxl2stru {$/;"	s
+lybasep	cisis.h	/^    char    *lybasep[2];        \/* all .l01 and .l02 pages *\/$/;"	m	struct:invmap
+LZHSIZE	cisis.h	1860;"	d
+LZKASZ1	cisis.h	1841;"	d
+LZKASZ2	cisis.h	1842;"	d
+LZSTRU	cisis.h	/^} LZSTRU;$/;"	t	typeref:struct:lzstru
+lzstru	cisis.h	/^typedef struct lzstru {$/;"	s
+m0	cisis.h	/^    M0STRU   m0;$/;"	m	union:mfunion
+M0STRU	cisis.h	/^} M0STRU;$/;"	t	typeref:struct:m0stru
+m0stru	cisis.h	/^typedef struct m0stru {$/;"	s
+m1base	cisis.h	/^    FFI      m1base;            \/* gdb base *\/$/;"	m	struct:m1stru
+M1	cisis.h	1872;"	d
+M1	cisis.h	1883;"	d
+m1	cisis.h	/^    M1STRU   m1;$/;"	m	union:mfunion
+m1dir	cisis.h	/^    DIRSTRU  m1dir[1];          \/* gdb dir_entries *\/$/;"	m	struct:m1stru
+m1mfbwb	cisis.h	/^    long     m1mfbwb;           \/* gdb mfbwb *\/$/;"	m	struct:m1stru
+m1mfbwp	cisis.h	/^    UWORD      m1mfbwp;           \/* gdb mfbwp - offset *\/$/;"	m	struct:m1stru
+m1mfn	cisis.h	/^    long     m1mfn;             \/* gdb mfn *\/$/;"	m	struct:m1stru
+m1mfrl	cisis.h	/^    FFI      m1mfrl;            \/* gdb mfrl - MULTI: record being updated *\/$/;"	m	struct:m1stru
+m1nvf	cisis.h	/^    UWORD      m1nvf;             \/* gdb nvf *\/$/;"	m	struct:m1stru
+m1status	cisis.h	/^    UWORD      m1status;          \/* gdb status *\/$/;"	m	struct:m1stru
+M1STRU	cisis.h	/^} M1STRU;$/;"	t	typeref:struct:m1stru
+m1stru	cisis.h	/^typedef struct m1stru {    \/* Conversion is done during I\/O *\/$/;"	s
+m1stru	cisis.h	/^typedef struct m1stru {$/;"	s
+M2	cisis.h	1873;"	d
+M2	cisis.h	1884;"	d
+M3	cisis.h	1874;"	d
+M3	cisis.h	1885;"	d
+M4	cisis.h	1875;"	d
+M4	cisis.h	1886;"	d
+m_add	cisis.h	/^	long  m_add;$/;"	m	struct:lista
+main	r1.c	/^int main(int argc, char *argv[])$/;"	f
+mask	cisis.h	/^   unsigned char mask;$/;"	m	struct:__anon6
+MASTNETS	cisis.h	2204;"	d
+MAXDECR	cisis.h	843;"	d
+MAXDECX	cisis.h	844;"	d
+MAXERRL	cisis.h	2482;"	d
+MAXERRL	cisis.h	2734;"	d
+MAXERRL	cisis.h	2845;"	d
+MAXFATML	cisis.h	1194;"	d
+MAXGIZR	cisis.h	828;"	d
+MAXIFMRG	cisis.h	3287;"	d
+MAXLIV	cisis.h	698;"	d
+MAXMFRL	cisis.h	618;"	d
+MAXMFRL	cisis.h	622;"	d
+MAXMFRL	cisis.h	625;"	d
+MAXMFRL	cisis.h	627;"	d
+MAXMFRL	cisis.h	631;"	d
+MAXNDBX	cirun.h	13;"	d
+MAXNDBX	cirun.h	15;"	d
+maxndbx	cirun.h	/^long maxndbx=MAXNDBX;           \/* runtime value                *\/$/;"	v
+MAXNDBX	cisis.h	87;"	d
+MAXNDBX	cisis.h	89;"	d
+MAXNREC	cirun.h	19;"	d
+maxnrec	cirun.h	/^long maxnrec=MAXNREC;$/;"	v
+MAXNTRM	cirun.h	22;"	d
+maxntrm	cirun.h	/^long maxntrm=MAXNTRM;$/;"	v
+MAXPATH	cisisx.c	9;"	d	file:
+MAXPDLS	cisis.h	2481;"	d
+MAXPDLS	cisis.h	2733;"	d
+MAXPDLS	cisis.h	2844;"	d
+MAXQUAL	cisis.h	2480;"	d
+MAXQUAL	cisis.h	2732;"	d
+MAXSAMEL	cisis.h	711;"	d
+MAXUPDMFN	cisis.h	664;"	d
+MAXVOPR	cisis.h	2476;"	d
+MAXVOPR	cisis.h	2478;"	d
+MAXVOPR	cisis.h	2731;"	d
+MAYBE	ciupd.c	518;"	d	file:
+MAYBE	ciupd.c	923;"	d	file:
+mdl_par	cisis.h	/^   mpl_par, mpu_par, mhl_par, mhu_par, mdl_par, mdu_par,$/;"	e	enum:ins
+mdu_par	cisis.h	/^   mpl_par, mpu_par, mhl_par, mhu_par, mdl_par, mdu_par,$/;"	e	enum:ins
+memicmp	cidbx.c	81;"	d	file:
+MF0ctlmfn	cisis.h	1395;"	d
+MF0ctlmfn	cisis.h	1420;"	d
+MF0mfcxx1	cisis.h	1401;"	d
+MF0mfcxx1	cisis.h	1426;"	d
+MF0mfcxx2	cisis.h	1402;"	d
+MF0mfcxx2	cisis.h	1427;"	d
+MF0mfcxx3	cisis.h	1403;"	d
+MF0mfcxx3	cisis.h	1428;"	d
+MF0mftype	cisis.h	1399;"	d
+MF0mftype	cisis.h	1424;"	d
+MF0nxtmfb	cisis.h	1397;"	d
+MF0nxtmfb	cisis.h	1422;"	d
+MF0nxtmfn	cisis.h	1396;"	d
+MF0nxtmfn	cisis.h	1421;"	d
+MF0nxtmfp	cisis.h	1398;"	d
+MF0nxtmfp	cisis.h	1423;"	d
+MF0reccnt	cisis.h	1400;"	d
+MF0reccnt	cisis.h	1425;"	d
+mfnlist	cisis.h	/^    long mfnlist[1];                    \/* array of mfn *\/$/;"	m	struct:b7hitlist
+mfnlist	cisis.h	/^    unsigned short int mfnlist[1];      \/* array of mfn - short *\/$/;"	m	struct:b7hitlistshort
+MFNSTRING	cisis.h	1896;"	d
+MFQSWDBN	cisis.h	2511;"	d
+MFQSWDBN	cisis.h	2767;"	d
+MFQSWDBN	cisis.h	2873;"	d
+MFQSWQTY	cisis.h	2512;"	d
+MFQSWQTY	cisis.h	2768;"	d
+MFQSWQTY	cisis.h	2874;"	d
+MFQSWTIM	cisis.h	2510;"	d
+MFQSWTIM	cisis.h	2766;"	d
+MFQSWTIM	cisis.h	2872;"	d
+MFQTALCC	cisis.h	2515;"	d
+MFQTALCC	cisis.h	2771;"	d
+MFQTALCC	cisis.h	2877;"	d
+MFQTASET	cisis.h	2514;"	d
+MFQTASET	cisis.h	2770;"	d
+MFQTASET	cisis.h	2876;"	d
+MFQTDBN0	cisis.h	2504;"	d
+MFQTDBN0	cisis.h	2760;"	d
+MFQTDBN0	cisis.h	2866;"	d
+MFQTHCUR	cisis.h	2518;"	d
+MFQTHCUR	cisis.h	2774;"	d
+MFQTHCUR	cisis.h	2880;"	d
+MFQTHITS	cisis.h	2517;"	d
+MFQTHITS	cisis.h	2773;"	d
+MFQTHITS	cisis.h	2879;"	d
+MFQTHITX	cisis.h	2887;"	d
+MFQTHMEM	cisis.h	2521;"	d
+MFQTHMEM	cisis.h	2777;"	d
+MFQTHMEM	cisis.h	2883;"	d
+MFQTHMFN	cisis.h	2519;"	d
+MFQTHMFN	cisis.h	2775;"	d
+MFQTHMFN	cisis.h	2881;"	d
+MFQTHSIZ	cisis.h	2520;"	d
+MFQTHSIZ	cisis.h	2776;"	d
+MFQTHSIZ	cisis.h	2882;"	d
+MFQTOBJ0	cisis.h	2506;"	d
+MFQTOBJ0	cisis.h	2762;"	d
+MFQTOBJ0	cisis.h	2868;"	d
+MFQTQRY0	cisis.h	2505;"	d
+MFQTQRY0	cisis.h	2761;"	d
+MFQTQRY0	cisis.h	2867;"	d
+MFQTSNAM	cisis.h	2885;"	d
+MFQTXCTS	cisis.h	2508;"	d
+MFQTXCTS	cisis.h	2764;"	d
+MFQTXCTS	cisis.h	2870;"	d
+MFQTXTAG	cisis.h	2532;"	d
+MFQTXTAG	cisis.h	2789;"	d
+MFQTXTAG	cisis.h	2893;"	d
+MFQXHCNTx	cisis.h	2782;"	d
+MFQXHMFNx	cisis.h	2779;"	d
+MFQXHOCCx	cisis.h	2781;"	d
+MFQXHTAGx	cisis.h	2780;"	d
+MFRbase	cisis.h	1409;"	d
+MFRbase	cisis.h	1434;"	d
+MFRdir	cisis.h	1412;"	d
+MFRdir	cisis.h	1437;"	d
+MFRL_MAX	cisis.h	348;"	d
+MFRL_MAX	cisis.h	351;"	d
+MFRmfbwb	cisis.h	1407;"	d
+MFRmfbwb	cisis.h	1432;"	d
+MFRmfbwp	cisis.h	1408;"	d
+MFRmfbwp	cisis.h	1433;"	d
+MFRmfn	cisis.h	1405;"	d
+MFRmfn	cisis.h	1430;"	d
+MFRmfrl	cisis.h	1406;"	d
+MFRmfrl	cisis.h	1431;"	d
+MFRnvf	cisis.h	1410;"	d
+MFRnvf	cisis.h	1435;"	d
+MFRstatus	cisis.h	1411;"	d
+MFRstatus	cisis.h	1436;"	d
+MFUNION	cisis.h	/^} MFUNION;$/;"	t	typeref:union:mfunion
+mfunion	cisis.h	/^typedef union mfunion {$/;"	u
+MFUPDATE	cisis.h	246;"	d
+MFUPDATE	cisis.h	271;"	d
+MFX	cisis.h	1418;"	d
+MFX	cisis.h	1443;"	d
+mhl_par	cisis.h	/^   mpl_par, mpu_par, mhl_par, mhu_par, mdl_par, mdu_par,$/;"	e	enum:ins
+mhu_par	cisis.h	/^   mpl_par, mpu_par, mhl_par, mhu_par, mdl_par, mdu_par,$/;"	e	enum:ins
+mid_beg	cisis.h	/^   mid_beg,mid_end,$/;"	e	enum:ins
+mid_end	cisis.h	/^   mid_beg,mid_end,$/;"	e	enum:ins
+MINLCHR	cisis.h	1864;"	d
+minus_op	cisis.h	/^   plus_op, minus_op, times_op, divide_op,$/;"	e	enum:ins
+MONONETS	cisis.h	2202;"	d
+MPE	cisis.h	45;"	d
+mpl_par	cisis.h	/^   mpl_par, mpu_par, mhl_par, mhu_par, mdl_par, mdu_par,$/;"	e	enum:ins
+mpu_par	cisis.h	/^   mpl_par, mpu_par, mhl_par, mhu_par, mdl_par, mdu_par,$/;"	e	enum:ins
+MS0ctlmfn	cisis.h	2209;"	d
+MS0mfcxx1	cisis.h	2215;"	d
+MS0mfcxx2	cisis.h	2216;"	d
+MS0mfcxx3	cisis.h	2217;"	d
+MS0mftype	cisis.h	2213;"	d
+MS0nxtmfb	cisis.h	2211;"	d
+MS0nxtmfn	cisis.h	2210;"	d
+MS0nxtmfp	cisis.h	2212;"	d
+MS0reccnt	cisis.h	2214;"	d
+MS1base	cisis.h	2231;"	d
+MS1dir	cisis.h	2234;"	d
+MS1mfbwb	cisis.h	2229;"	d
+MS1mfbwp	cisis.h	2230;"	d
+MS1mfn	cisis.h	2227;"	d
+MS1mfrl	cisis.h	2228;"	d
+MS1nvf	cisis.h	2232;"	d
+MS1status	cisis.h	2233;"	d
+MSBSHIFT	cisis.h	656;"	d
+MSBSIZ	cisis.h	655;"	d
+msbuff	cisis.h	/^    char     msbuff[MSBSIZ];    \/* gdb .mst blk *\/$/;"	m	struct:msstru
+msbufn	cisis.h	/^    long     msbufn;            \/* gdb .mst blk order - simulated *\/$/;"	m	struct:msstru
+MSC	cisis.h	43;"	d
+MSDlen	cisis.h	2238;"	d
+MSDpos	cisis.h	2237;"	d
+MSDtag	cisis.h	2236;"	d
+MSHbase	cisis.h	2223;"	d
+MSHmfbwb	cisis.h	2221;"	d
+MSHmfbwp	cisis.h	2222;"	d
+MSHmfn	cisis.h	2219;"	d
+MSHmfrl	cisis.h	2220;"	d
+MSHnvf	cisis.h	2224;"	d
+MSHstatus	cisis.h	2225;"	d
+MSMFTMSG	cisis.h	666;"	d
+MSMFTUSR	cisis.h	665;"	d
+MSNVSPLT	cisis.h	1300;"	d
+MSNVSPLT	cisis.h	1304;"	d
+MSNVSPLT	cisis.h	1307;"	d
+MSSTRU	cisis.h	/^} MSSTRU;$/;"	t	typeref:struct:msstru
+msstru	cisis.h	/^typedef struct msstru {$/;"	s
+MST0FILL0XFF	cisis.h	142;"	d
+mstclose	cidbx.c	43;"	d	file:
+mstflush	cidbx.c	44;"	d	file:
+mstsetup	cirec.c	17;"	d	file:
+MULTI	cisis.h	244;"	d
+MULTI	cisis.h	269;"	d
+multrace	cidbx.c	/^int multrace=0;                 \/* upd MULTRACE runtime switch *\/$/;"	v
+MULTRACE	ciupd.c	72;"	d	file:
+mx1extp	cidbx.c	/^char *mx1extp = ".mst";                         \/* mstsetup\/recisis0 *\/$/;"	v
+mx	cisis.h	/^    char     mx[1];             \/* gdb flds *\/$/;"	m	union:mfunion
+MXFUN	cisis.h	3383;"	d
+MYSFUN	cisis.h	3391;"	d
+MYSFUN	cisis.h	3395;"	d
+N0STRU	cisis.h	/^} N0STRU;$/;"	t	typeref:struct:n0stru
+n0stru	cisis.h	/^typedef struct n0stru {$/;"	s
+N1BSIZ	cisis.h	1936;"	d
+N1BUNI	cisis.h	1944;"	d
+N1BUNI	cisis.h	1950;"	d
+N1IDXE	cisis.h	/^} N1IDXE;$/;"	t	typeref:struct:n1idxe
+n1idxe	cisis.h	/^typedef struct n1idxe {$/;"	s
+n1opn	cisis.h	/^    int      n1opn;             \/* =dbxopen(.n01) *\/$/;"	m	struct:invmap
+n1opw	cisis.h	/^    int      n1opw;             \/* dbxopenw\/w(.n01) *\/$/;"	m	struct:invmap
+N1STRU	cisis.h	/^} N1STRU;$/;"	t	typeref:struct:n1stru
+n1stru	cisis.h	/^typedef struct n1stru {$/;"	s
+N2BSIZ	cisis.h	1937;"	d
+N2BUNI	cisis.h	1945;"	d
+N2BUNI	cisis.h	1951;"	d
+N2IDXE	cisis.h	/^} N2IDXE;$/;"	t	typeref:struct:n2idxe
+n2idxe	cisis.h	/^typedef struct n2idxe {$/;"	s
+n2opn	cisis.h	/^    int      n2opn;             \/* =dbxopen(.n02) *\/$/;"	m	struct:invmap
+n2opw	cisis.h	/^    int      n2opw;             \/* dbxopenw\/w(.n02) *\/$/;"	m	struct:invmap
+N2STRU	cisis.h	/^} N2STRU;$/;"	t	typeref:struct:n2stru
+n2stru	cisis.h	/^typedef struct n2stru {$/;"	s
+namp	cisis.h	/^    char *namp;$/;"	m	struct:__anon7
+nb7oprs	cisis.h	/^   int nb7oprs;$/;"	m	struct:__anon6
+ndbxs	cirun.h	/^long ndbxs=0;                   \/* actual #entries              *\/$/;"	v
+ndocs	cisis.h	/^    long ndocs;                         \/* number of docs *\/$/;"	m	struct:b7hitbuf
+n_dummy	cisis.h	/^   begin_rep_gr, end_rep_gr, test_occ, print_field, d_dummy, n_dummy,$/;"	e	enum:ins
+NEGLIV	cisis.h	699;"	d
+neq_op	cisis.h	/^   neq_op, lss_op, gtr_op, leq_op, geq_op, eql_op, or_op, and_op, not_op,$/;"	e	enum:ins
+NEVER	ciupd.c	517;"	d	file:
+NEVER	ciupd.c	922;"	d	file:
+NEWREC	cisis.h	1569;"	d
+newRecordObject	cisismodule.c	/^newRecordObject(PyObject *arg)$/;"	f	file:
+newrecp	cirun.h	66;"	d
+newtrmp	cirun.h	67;"	d
+next	cisis.h	/^	long  next;$/;"	m	struct:lista
+nextp	cisis.h	/^    struct fst_code *nextp;$/;"	m	struct:fst_code	typeref:struct:fst_code::fst_code
+nextp	cisis.h	/^    struct gizmstru *nextp;$/;"	m	struct:gizmstru	typeref:struct:gizmstru::gizmstru
+nextp	cisis.h	/^    struct vdecpstru *nextp;$/;"	m	struct:vdecpstru	typeref:struct:vdecpstru::vdecpstru
+nextp	cisis.h	/^    struct vgizpstru *nextp;$/;"	m	struct:vgizpstru	typeref:struct:vgizpstru::vgizpstru
+nl_beg	cisis.h	/^   nl_beg,nl_end,$/;"	e	enum:ins
+nl_end	cisis.h	/^   nl_beg,nl_end,$/;"	e	enum:ins
+nocc	cirec.c	14;"	d	file:
+noccins	cisis.h	/^   noccins,$/;"	e	enum:ins
+noderead	cisisx.c	53;"	d	file:
+nodeunibuff	cidbx.c	/^UCHR nodeunibuff[N2BSIZ];       \/* area para ler pagina de .n01\/.n02 *\/$/;"	v
+NO_IREC	cirec.c	62;"	d	file:
+NO_IREC	ciupd.c	87;"	d	file:
+NOLOCK	cisis.h	1561;"	d
+nop	cisis.h	/^   int nop;$/;"	m	struct:__anon6
+not_op	cisis.h	/^   neq_op, lss_op, gtr_op, leq_op, geq_op, eql_op, or_op, and_op, not_op,$/;"	e	enum:ins
+np_beg	cisis.h	/^   np_beg,np_end,$/;"	e	enum:ins
+npdls	cisis.h	/^   int npdls;$/;"	m	struct:__anon6
+np_end	cisis.h	/^   np_beg,np_end,$/;"	e	enum:ins
+nqualts	cisis.h	/^   short unsigned int nqualts,vqualt[MAXQUAL],*qualtp;$/;"	m	struct:__anon6
+nrecs	cirun.h	/^long nrecs=0;                   \/* actual #entries              *\/$/;"	v
+n_sign_spac	cisis.h	/^   x_spac, c_spac, slash_spac, n_sigx_spac, n_sign_spac, percent_spac,$/;"	e	enum:ins
+n_sigx_spac	cisis.h	/^   x_spac, c_spac, slash_spac, n_sigx_spac, n_sign_spac, percent_spac,$/;"	e	enum:ins
+NTREE	cisis.h	755;"	d
+ntrms	cirun.h	/^long ntrms=0;                   \/* actual #entries              *\/$/;"	v
+nused	cisis.h	/^    long nused;$/;"	m	struct:gizmstru
+nx12extp	cidbx.c	/^char *nx12extp[NTREE] = { ".n01", ".n02" };     \/* invsetup\/trmisis0 *\/$/;"	v
+nxbsiz	cidbx.c	/^int nxbsiz[NTREE] = { N1BSIZ, N2BSIZ };         \/* use it *\/$/;"	v
+nx	cisis.h	/^    NXSTRU   nx[2][MAXLIV];     \/* .n01 and .n02 pages *\/$/;"	m	struct:invmap
+NXPAGES	cirun.h	51;"	d
+NXPAGES	cirun.h	/^int NXPAGES[] = {1,TWORDN,1,1,1,1,1,1,1,1};        \/* [MAXLIV] *\/$/;"	v
+NXSTRU	cisis.h	/^} NXSTRU;$/;"	t	typeref:struct:nxstru
+nxstru	cisis.h	/^typedef struct nxstru {$/;"	s
+NXTERM	cirun.h	71;"	d
+NXTERM	cisis.h	3018;"	d
+nybasep	cisis.h	/^    char    *nybasep[2];        \/* all .n01 and .n02 pages *\/$/;"	m	struct:invmap
+O1	cisis.h	1878;"	d
+O1	cisis.h	1889;"	d
+O2	cisis.h	1879;"	d
+O2	cisis.h	1890;"	d
+O_BINARY	cisis.h	124;"	d
+occins	cisis.h	/^      occins, $/;"	e	enum:ins
+ock	cisis.h	/^    UWORD      ock;               \/* gdb .l01 ock *\/$/;"	m	struct:lxl1stru
+ock	cisis.h	/^    UWORD      ock;               \/* gdb .l02 ock *\/$/;"	m	struct:lxl2stru
+O_DENYNONE	cisis.h	125;"	d
+OFF	cisis.h	1155;"	d
+ON	cisis.h	1152;"	d
+opatt	cisis.h	/^    unsigned char *opatt;$/;"	m	struct:gizmstru
+OPEN	cisis.h	473;"	d
+OPEN	cisis.h	483;"	d
+OPEN	cisis.h	485;"	d
+OPEN	cisis.h	494;"	d
+OPEN	cisis.h	500;"	d
+OPEN	cisis.h	517;"	d
+OPENFCHR	cisis.h	2309;"	d
+OPENFCHR	cisis.h	2313;"	d
+OPENFCHR	cisis.h	2317;"	d
+OPRNULL	cisis.h	2523;"	d
+OPRNULL	cisis.h	2755;"	d
+OPRNULL	cisis.h	2860;"	d
+OPRXEND	cisis.h	2524;"	d
+OPRXEND	cisis.h	2756;"	d
+OPRXEND	cisis.h	2861;"	d
+ORDF	cisis.h	704;"	d
+ORDN	cisis.h	701;"	d
+or_op	cisis.h	/^   neq_op, lss_op, gtr_op, leq_op, geq_op, eql_op, or_op, and_op, not_op,$/;"	e	enum:ins
+osize	cisis.h	/^    short osize;$/;"	m	struct:gizmstru
+PACKED	cisis.h	120;"	d
+PACKED	cisis.h	/^\/* 2 4 *\/    FFI      m1base      PACKED;\/* gdb base (MSNVSPLT) *\/$/;"	m	struct:m1stru
+PACKED	cisis.h	/^\/* 2 4 *\/    FFI      m1mfrl      PACKED;\/* gdb mfrl - MULTI: record being updated *\/$/;"	m	struct:m1stru
+PACKED	cisis.h	/^\/* 2 *\/      UWORD      m1mfbwp     PACKED;\/* gdb mfbwp - offset *\/$/;"	m	struct:m1stru
+PACKED	cisis.h	/^\/* 2 *\/      UWORD      m1nvf       PACKED;\/* gdb nvf *\/$/;"	m	struct:m1stru
+PACKED	cisis.h	/^\/* 2    *\/   UWORD      m1status    PACKED;\/* gdb status *\/$/;"	m	struct:m1stru
+PACKED	cisis.h	37;"	d
+PACKED	cisis.h	/^\/* 4 *\/      long     m1mfbwb     PACKED;\/* gdb mfbwb *\/$/;"	m	struct:m1stru
+PACKED	cisis.h	/^\/* 4 *\/      long     m1mfn       PACKED;\/* gdb mfn *\/$/;"	m	struct:m1stru
+PACKED	cisis.h	/^\/* 6 10 *\/   DIRSTRU  m1dir[1]    PACKED;\/* gdb dir_entries *\/$/;"	m	struct:m1stru
+PACKED	cisis.h	/^    char     idxchars[1] PACKED;\/* gdb .l01 and .l02 idx *\/$/;"	m	struct:l0stru
+PACKED	cisis.h	/^    char     idxchars[1] PACKED;\/* gdb .n01 and .n02 idx *\/$/;"	m	struct:n0stru
+PACKED	cisis.h	/^    char     keys[LZKASZ2] PACKED;     \/* compressed keys *\/$/;"	m	struct:lzstru
+PACKED	cisis.h	/^    FFI      len         PACKED;\/* gdb dir.len *\/$/;"	m	struct:dir_entry
+PACKED	cisis.h	/^    FFI      pos         PACKED;\/* gdb dir.pos *\/$/;"	m	struct:dir_entry
+PACKED	cisis.h	/^    INFO     info1 PACKED;             \/* gdb .l01 idx info1 *\/$/;"	m	struct:l1idxe
+PACKED	cisis.h	/^    INFO     info1 PACKED;             \/* gdb .l02 idx info1 *\/$/;"	m	struct:l2idxe
+PACKED	cisis.h	/^    INFO     info1[TWORDF] PACKED;     \/* tlc gdb .l0x idx info1 *\/$/;"	m	struct:lzstru
+PACKED	cisis.h	/^    INFO     info2 PACKED;             \/* gdb .l01 idx info2 *\/$/;"	m	struct:l1idxe
+PACKED	cisis.h	/^    INFO     info2 PACKED;             \/* gdb .l02 idx info2 *\/$/;"	m	struct:l2idxe
+PACKED	cisis.h	/^    INFO     info2[TWORDF] PACKED;     \/* tlc gdb .l0x idx info2 *\/$/;"	m	struct:lzstru
+PACKED	cisis.h	/^        INFO    info3 PACKED;          \/* tlc info3 - tot no of docs *\/$/;"	m	union:l1idxe::__anon3
+PACKED	cisis.h	/^        INFO info3 PACKED;             \/* tlc info3 - tot no of docs *\/$/;"	m	union:l2idxe::__anon4
+PACKED	cisis.h	/^    INFO     info3[TWORDF] PACKED;     \/* tlc gdb .l0x idx info3 *\/$/;"	m	struct:lzstru
+PACKED	cisis.h	/^        INFO    info4 PACKED;          \/* tlc info4 - posting type and etc *\/$/;"	m	union:l1idxe::__anon3
+PACKED	cisis.h	/^        INFO info4 PACKED;             \/* tlc info4 - posting type and etc *\/$/;"	m	union:l2idxe::__anon4
+PACKED	cisis.h	/^    L1IDXE   idx[TWORDF] PACKED;       \/* gdb .l01 idx *\/$/;"	m	struct:l1stru
+PACKED	cisis.h	/^    L2IDXE   idx[TWORDF] PACKED;       \/* gdb .l02 idx *\/$/;"	m	struct:l2stru
+PACKED	cisis.h	/^    long     m0ctlmfn    PACKED;\/* gdb ctlmfn *\/$/;"	m	struct:m0stru
+PACKED	cisis.h	/^    long     m0mfcxx1    PACKED;\/* gdb mfcxx1 *\/$/;"	m	struct:m0stru
+PACKED	cisis.h	/^    long     m0mfcxx2    PACKED;\/* gdb mfcxx2 - MULTI: Data entry lock *\/$/;"	m	struct:m0stru
+PACKED	cisis.h	/^    long     m0mfcxx3    PACKED;\/* gdb mfcxx3 - MULTI: Exclusive write lock *\/$/;"	m	struct:m0stru
+PACKED	cisis.h	/^    long     m0nxtmfb    PACKED;\/* gdb nxtmfb *\/$/;"	m	struct:m0stru
+PACKED	cisis.h	/^    long     m0nxtmfn    PACKED;\/* gdb nxtmfn *\/$/;"	m	struct:m0stru
+PACKED	cisis.h	/^    long     m0reccnt    PACKED;\/* gdb reccnt *\/$/;"	m	struct:m0stru
+PACKED	cisis.h	/^    N1IDXE   idx[TWORDN] PACKED;       \/* gdb .n01 idx *\/$/;"	m	struct:n1stru
+PACKED	cisis.h	/^    N2IDXE   idx[TWORDN] PACKED;       \/* gdb .n02 idx *\/$/;"	m	struct:n2stru
+PACKED	cisis.h	/^    PUNT     fmaxpos     PACKED;\/* gdb .cnt fmaxpos *\/$/;"	m	struct:cnstru
+PACKED	cisis.h	/^    PUNT     nmaxpos     PACKED;\/* gdb .cnt nmaxpos *\/$/;"	m	struct:cnstru
+PACKED	cisis.h	/^    PUNT     pos PACKED;               \/* gdb .l01 pos *\/$/;"	m	struct:l1stru
+PACKED	cisis.h	/^    PUNT     pos PACKED;               \/* gdb .l02 pos *\/$/;"	m	struct:l2stru
+PACKED	cisis.h	/^    PUNT     pos         PACKED;\/* gdb .l0x pos *\/$/;"	m	struct:l0stru
+PACKED	cisis.h	/^    PUNT     pos PACKED;               \/* gdb .l0x pos *\/$/;"	m	struct:lzstru
+PACKED	cisis.h	/^    PUNT     pos PACKED;               \/* gdb .n01 pos *\/$/;"	m	struct:n1stru
+PACKED	cisis.h	/^    PUNT     pos PACKED;               \/* gdb .n02 pos *\/$/;"	m	struct:n2stru
+PACKED	cisis.h	/^    PUNT     pos         PACKED;\/* gdb .n0x pos *\/$/;"	m	struct:n0stru
+PACKED	cisis.h	/^    PUNT     posrx       PACKED;\/* gdb .cnt posrx = pos of root node *\/$/;"	m	struct:cnstru
+PACKED	cisis.h	/^    PUNT     psb         PACKED;\/* tlc gdb .l0x ps backward *\/$/;"	m	struct:l0stru
+PACKED	cisis.h	/^    PUNT     psb PACKED;               \/* tlc gdb .l0x ps backward *\/$/;"	m	struct:l1stru
+PACKED	cisis.h	/^    PUNT     psb PACKED;                       \/* tlc gdb .l0x ps backward *\/$/;"	m	struct:l2stru
+PACKED	cisis.h	/^    PUNT     psb PACKED;               \/* tlc gdb .l0x ps backward *\/$/;"	m	struct:lzstru
+PACKED	cisis.h	/^    PUNT     ps PACKED;                \/* gdb .l01 ps *\/$/;"	m	struct:l1stru
+PACKED	cisis.h	/^    PUNT     ps PACKED;                \/* gdb .l02 ps *\/$/;"	m	struct:l2stru
+PACKED	cisis.h	/^    PUNT     ps          PACKED;\/* gdb .l0x ps *\/$/;"	m	struct:l0stru
+PACKED	cisis.h	/^    PUNT     ps PACKED;                \/* gdb .l0x ps *\/$/;"	m	struct:lzstru
+PACKED	cisis.h	/^    PUNT     punt PACKED;              \/* gdb .n01 idx punt *\/$/;"	m	struct:n1idxe
+PACKED	cisis.h	/^    PUNT     punt PACKED;              \/* gdb .n02 idx punt *\/$/;"	m	struct:n2idxe
+PACKED	cisis.h	/^    short    liv         PACKED;\/* gdb .cnt liv = no of index levels *\/$/;"	m	struct:cnstru
+PACKED	cisis.h	/^    UCHR     keyalign[2] PACKED; \/* see ISIS.PAS for UNISYS *\/$/;"	m	struct:l1idxe
+PACKED	cisis.h	/^    UCHR     keyalign[2] PACKED; \/* see ISIS.PAS for UNISYS *\/$/;"	m	struct:l2idxe
+PACKED	cisis.h	/^    UCHR     key[LE1] PACKED;          \/* gdb .l01 idx key *\/$/;"	m	struct:l1idxe
+PACKED	cisis.h	/^    UCHR     key[LE1] PACKED;          \/* gdb .n01 idx key *\/$/;"	m	struct:n1idxe
+PACKED	cisis.h	/^    UCHR     key[LE2] PACKED;          \/* gdb .l02 idx key *\/$/;"	m	struct:l2idxe
+PACKED	cisis.h	/^    UCHR     key[LE2] PACKED;          \/* gdb .n02 idx key *\/$/;"	m	struct:n2idxe
+PACKED	cisis.h	/^    UWORD      abnormal    PACKED;\/* gdb .cnt abnormal *\/$/;"	m	struct:cnstru
+PACKED	cisis.h	/^    UWORD      idtype      PACKED;\/* gdb .cnt idtype *\/$/;"	m	struct:cnstru
+PACKED	cisis.h	/^    UWORD      it PACKED;                \/* gdb .l01 it *\/$/;"	m	struct:l1stru
+PACKED	cisis.h	/^    UWORD      it PACKED;                \/* gdb .l02 it *\/$/;"	m	struct:l2stru
+PACKED	cisis.h	/^    UWORD      it          PACKED;\/* gdb .l0x it *\/$/;"	m	struct:l0stru
+PACKED	cisis.h	/^    UWORD      it PACKED;                \/* gdb .l0x it *\/$/;"	m	struct:lzstru
+PACKED	cisis.h	/^    UWORD      it PACKED;                \/* gdb .n01 it *\/$/;"	m	struct:n1stru
+PACKED	cisis.h	/^    UWORD      it PACKED;                \/* gdb .n02 it *\/$/;"	m	struct:n2stru
+PACKED	cisis.h	/^    UWORD      it          PACKED;\/* gdb .n0x it *\/$/;"	m	struct:n0stru
+PACKED	cisis.h	/^    UWORD      k           PACKED;\/* gdb .cnt k *\/$/;"	m	struct:cnstru
+PACKED	cisis.h	/^    UWORD      m0mftype    PACKED;\/* gdb mftype *\/$/;"	m	struct:m0stru
+PACKED	cisis.h	/^    UWORD      m0nxtmfp    PACKED;\/* gdb nxtmfp - offset *\/$/;"	m	struct:m0stru
+PACKED	cisis.h	/^    UWORD      n           PACKED;\/* gdb .cnt n *\/$/;"	m	struct:cnstru
+PACKED	cisis.h	/^    UWORD      ock PACKED;               \/* gdb .l01 ock *\/$/;"	m	struct:l1stru
+PACKED	cisis.h	/^    UWORD      ock PACKED;               \/* gdb .l02 ock *\/$/;"	m	struct:l2stru
+PACKED	cisis.h	/^    UWORD      ock         PACKED;\/* gdb .l0x ock *\/$/;"	m	struct:l0stru
+PACKED	cisis.h	/^    UWORD      ock PACKED;               \/* gdb .l0x ock *\/$/;"	m	struct:lzstru
+PACKED	cisis.h	/^    UWORD      ock PACKED;               \/* gdb .n01 ock *\/$/;"	m	struct:n1stru
+PACKED	cisis.h	/^    UWORD      ock PACKED;               \/* gdb .n02 ock *\/$/;"	m	struct:n2stru
+PACKED	cisis.h	/^    UWORD      ock         PACKED;\/* gdb .n0x ock *\/$/;"	m	struct:n0stru
+PACKED	cisis.h	/^    UWORD      ordf        PACKED;\/* gdb .cnt ordf *\/$/;"	m	struct:cnstru
+PACKED	cisis.h	/^    UWORD      ordn        PACKED;\/* gdb .cnt ordn *\/$/;"	m	struct:cnstru
+PACKED	cisis.h	/^    UWORD      tag         PACKED;\/* gdb dir.tag *\/$/;"	m	struct:dir_entry
+pages	cisis.h	/^    int      pages;             \/* no of memo buffers alloced *\/$/;"	m	struct:nxstru
+partrace	cidbx.c	/^int partrace=0;                 \/* dbxopen\/dbxcipar trace *\/$/;"	v
+pattalloc	cigiz.c	/^unsigned char *pattalloc(int n)$/;"	f
+PC	cisis.h	41;"	d
+pcnt	cisis.h	/^    UCHR pcnt[PCNTSIZ];         \/* gdb .ifp pcnt *\/$/;"	m	struct:poststru
+PCNTSIZ	cisis.h	1869;"	d
+PCREADLINUX	cisis.h	59;"	d
+pdldocs	cisis.h	/^   long        pdldocs;    \/* cantidad de documentos almacenados *\/$/;"	m	struct:pdlstru
+pdlisiz	cisis.h	/^   long        pdlisiz;    \/* tamaño inicial de lvel, also growing step *\/$/;"	m	struct:pdlstru
+pdlleft	cisis.h	/^   long        pdlleft;    \/* cuanto queda del lvel *\/$/;"	m	struct:pdlstru
+pdllmfn	cisis.h	/^   long        pdllmfn;    \/* valor del último MFN de la BD *\/$/;"	m	struct:pdlstru
+pdllvel	cisis.h	/^   UCHR        *pdllvel;      \/* bitstring, contiene la informacion de los postings. *\/$/;"	m	struct:pdlstru
+pdlnxtp	cisis.h	/^   char        *pdlnxtp;      \/* proximo slot libre en lvel *\/$/;"	m	struct:pdlstru
+pdlplen	cisis.h	/^   short int   pdlplen;    \/* tamaño de los postings *\/$/;"	m	struct:pdlstru
+pdlsize	cisis.h	/^   long        pdlsize;    \/* tamaño actual de lvel *\/$/;"	m	struct:pdlstru
+PDLSTRU	cisis.h	/^} PDLSTRU;$/;"	t	typeref:struct:pdlstru
+pdlstru	cisis.h	/^typedef struct pdlstru {$/;"	s
+percent_spac	cisis.h	/^   x_spac, c_spac, slash_spac, n_sigx_spac, n_sign_spac, percent_spac,$/;"	e	enum:ins
+PERMIS	cisis.h	471;"	d
+PERMIS	cisis.h	480;"	d
+PERMIS	cisis.h	491;"	d
+PERMIS	cisis.h	508;"	d
+PERMIS	cisis.h	511;"	d
+PERMIS	cisis.h	514;"	d
+PGCC	cisis.h	3513;"	d
+pgm_node	cisis.h	/^} pgm_node;$/;"	t	typeref:struct:intermediate_code
+plus_op	cisis.h	/^   plus_op, minus_op, times_op, divide_op,$/;"	e	enum:ins
+pmfn	cisis.h	/^    UCHR pmfn[PMFNSIZ];         \/* gdb .ifp pmfn *\/$/;"	m	struct:poststru
+PMFNSIZ	cisis.h	1866;"	d
+pocc	cisis.h	/^    UCHR pocc[POCCSIZ];         \/* gdb .ifp pocc *\/$/;"	m	struct:poststru
+POCCSIZ	cisis.h	1868;"	d
+pos	cisis.h	/^    PUNT     pos;               \/* gdb .l01 pos *\/$/;"	m	struct:lxl1stru
+pos	cisis.h	/^    PUNT     pos;               \/* gdb .l02 pos *\/$/;"	m	struct:lxl2stru
+post	cisis.h	/^    POSTSTRU post;$/;"	m	struct:link1
+post	cisis.h	/^    POSTSTRU post;$/;"	m	struct:link2
+POSTSTRU	cisis.h	/^} POSTSTRU;$/;"	t	typeref:struct:poststru
+poststru	cisis.h	/^typedef struct poststru {                               \/* CIFST *\/$/;"	s
+pre_cond	cisis.h	/^   dummy, jumpf, jumpt, jump, pre_cond, pre_r_lit, pre_r_lit_plus,$/;"	e	enum:ins
+pre_r_lit	cisis.h	/^   dummy, jumpf, jumpt, jump, pre_cond, pre_r_lit, pre_r_lit_plus,$/;"	e	enum:ins
+pre_r_lit_plus	cisis.h	/^   dummy, jumpf, jumpt, jump, pre_cond, pre_r_lit, pre_r_lit_plus,$/;"	e	enum:ins
+present	cisis.h	/^   escape_seq, u_cond, print_mfn, load_mfn, absent, present, contains,$/;"	e	enum:ins
+print_core	cisis.h	/^   print_core, print_maxmfn, load_core, load_maxmfn,$/;"	e	enum:ins
+print_field	cisis.h	/^   begin_rep_gr, end_rep_gr, test_occ, print_field, d_dummy, n_dummy,$/;"	e	enum:ins
+print_maxmfn	cisis.h	/^   print_core, print_maxmfn, load_core, load_maxmfn,$/;"	e	enum:ins
+print_mfn	cisis.h	/^   escape_seq, u_cond, print_mfn, load_mfn, absent, present, contains,$/;"	e	enum:ins
+PROCG	ciupd.c	1630;"	d	file:
+PROCXCLPSREC	ciupd.c	1513;"	d	file:
+PROCXDECOREC	ciupd.c	1510;"	d	file:
+PROCXDUMPREC	ciupd.c	1534;"	d	file:
+PROCXFSUPDATE	ciupd.c	1589;"	d	file:
+PROCXGIZMREC	ciupd.c	1506;"	d	file:
+PROCXIFPRESET	ciupd.c	1557;"	d	file:
+PROCXIFUPDATE	ciupd.c	1568;"	d	file:
+PROCXLOADREC	ciupd.c	1528;"	d	file:
+PROCXMARKREC	ciupd.c	1518;"	d	file:
+PROCXMFUPDATE	ciupd.c	1479;"	d	file:
+PROCXREADREC	ciupd.c	1540;"	d	file:
+PROCXSERVREC	ciupd.c	1412;"	d	file:
+PROCXSOCKREC	ciupd.c	30;"	d	file:
+PROCXSPLIREC	ciupd.c	1512;"	d	file:
+PROCXWRITEFILE	ciupd.c	1491;"	d	file:
+prt_str_f	cisis.h	/^   prt_str_f,$/;"	e	enum:ins
+psb	cisis.h	/^    PUNT     psb;               \/* tlc gdb .l0x ps backward *\/$/;"	m	struct:lxl1stru
+psb	cisis.h	/^    PUNT     psb;                       \/* tlc gdb .l0x ps backward *\/$/;"	m	struct:lxl2stru
+ps	cisis.h	/^    PUNT     ps;                \/* gdb .l01 ps *\/$/;"	m	struct:lxl1stru
+ps	cisis.h	/^    PUNT     ps;                \/* gdb .l02 ps *\/$/;"	m	struct:lxl2stru
+PSTLEVEL	cisis.h	2525;"	d
+PSTLEVEL	cisis.h	2757;"	d
+PSTLEVEL	cisis.h	2862;"	d
+ptag	cisis.h	/^    UCHR ptag[PTAGSIZ];         \/* gdb .ifp ptag *\/$/;"	m	struct:poststru
+PTAGSIZ	cisis.h	1867;"	d
+PUNT	cisis.h	689;"	d
+putenv_beg	cisis.h	/^   putenv_beg, putenv_end,$/;"	e	enum:ins
+putenv_end	cisis.h	/^   putenv_beg, putenv_end,$/;"	e	enum:ins
+qualtp	cisis.h	/^   short unsigned int nqualts,vqualt[MAXQUAL],*qualtp;$/;"	m	struct:__anon6
+R2DIRlen	cigiz.c	958;"	d	file:
+R2DIRlen	cigiz.c	983;"	d	file:
+R2DIRpos	cigiz.c	957;"	d	file:
+R2DIRpos	cigiz.c	982;"	d	file:
+R2DIRtag	cigiz.c	956;"	d	file:
+R2DIRtag	cigiz.c	981;"	d	file:
+R2FIELDP	cigiz.c	960;"	d	file:
+R2FIELDP	cigiz.c	985;"	d	file:
+R2MFRbase	cigiz.c	951;"	d	file:
+R2MFRbase	cigiz.c	976;"	d	file:
+R2MFRdir	cigiz.c	954;"	d	file:
+R2MFRdir	cigiz.c	979;"	d	file:
+R2MFRmfbwb	cigiz.c	949;"	d	file:
+R2MFRmfbwb	cigiz.c	974;"	d	file:
+R2MFRmfbwp	cigiz.c	950;"	d	file:
+R2MFRmfbwp	cigiz.c	975;"	d	file:
+R2MFRmfn	cigiz.c	947;"	d	file:
+R2MFRmfn	cigiz.c	972;"	d	file:
+R2MFRmfrl	cigiz.c	948;"	d	file:
+R2MFRmfrl	cigiz.c	973;"	d	file:
+R2MFRnvf	cigiz.c	952;"	d	file:
+R2MFRnvf	cigiz.c	977;"	d	file:
+R2MFRstatus	cigiz.c	953;"	d	file:
+R2MFRstatus	cigiz.c	978;"	d	file:
+R2RDBname	cigiz.c	962;"	d	file:
+R2RDBname	cigiz.c	987;"	d	file:
+R2RECdbxp	cigiz.c	944;"	d	file:
+R2RECdbxp	cigiz.c	969;"	d	file:
+R2RECnbytes	cigiz.c	942;"	d	file:
+R2RECnbytes	cigiz.c	967;"	d	file:
+R2RECORD	cigiz.c	939;"	d	file:
+R2RECORD	cigiz.c	964;"	d	file:
+R2RECrc	cigiz.c	945;"	d	file:
+R2RECrc	cigiz.c	970;"	d	file:
+R2RECtype	cigiz.c	943;"	d	file:
+R2RECtype	cigiz.c	968;"	d	file:
+ravr_beg	cisis.h	/^   rmin_beg, rmin_end, ravr_beg, ravr_end,$/;"	e	enum:ins
+ravr_end	cisis.h	/^   rmin_beg, rmin_end, ravr_beg, ravr_end,$/;"	e	enum:ins
+RCEOF	cisis.h	1573;"	d
+RCEOF	cisis.h	2128;"	d
+RCLDEL	cisis.h	1575;"	d
+RCLOCK	cisis.h	1572;"	d
+RCNEXT	cisis.h	2130;"	d
+RCNORMAL	cisis.h	1574;"	d
+RCNORMAL	cisis.h	2129;"	d
+RCPDEL	cisis.h	1576;"	d
+RDBdelxx	cisis.h	1366;"	d
+RDBewlxx	cisis.h	1367;"	d
+RDBgicip	cisis.h	1357;"	d
+RDBiflxx	cisis.h	1372;"	d
+RDBifmap	cisis.h	1371;"	d
+RDBmclose	cisis.h	1363;"	d
+RDBmflush	cisis.h	1362;"	d
+RDBmsibp	cisis.h	1355;"	d
+RDBmsmfn	cisis.h	1370;"	d
+RDBmsopn	cisis.h	1350;"	d
+RDBmsopv	cisis.h	1353;"	d
+RDBmsopw	cisis.h	1352;"	d
+RDBmstxl	cisis.h	1360;"	d
+RDBmsyyp	cisis.h	1374;"	d
+RDBmxtmp	cisis.h	1368;"	d
+RDBname	cisis.h	1348;"	d
+RDBnetws	cisis.h	1365;"	d
+RDBvderp	cisis.h	1383;"	d
+RDBvgzrp	cisis.h	1376;"	d
+RDBxpn01	cisis.h	1379;"	d
+RDBxpn02	cisis.h	1380;"	d
+RDBxribp	cisis.h	1354;"	d
+RDBxropn	cisis.h	1349;"	d
+RDBxropw	cisis.h	1351;"	d
+RDBxryyp	cisis.h	1373;"	d
+RDELOCK	cisis.h	1564;"	d
+read_mfn	cisis.h	/^   read_mfn,$/;"	e	enum:ins
+REATRACE	cirec.c	37;"	d	file:
+RECALLOC	cisis.h	3009;"	d
+recallok	cirec.c	10;"	d	file:
+RECdbxp	cisis.h	1346;"	d
+recdbxp	cisis.h	/^    DBXSTRU *recdbxp;           \/* ptr dbx *\/$/;"	m	struct:recstru
+recdecex	cigiz.c	/^long recdecex (CISISX * cisisxp,$/;"	f
+RECDECO	cisis.h	224;"	d
+RECDECO	cisis.h	258;"	d
+recdecod	cigiz.c	/^int recdecod(CISISX * cisisxp,$/;"	f
+RECgdbl	cisis.h	1391;"	d
+recgdbl	cisis.h	/^    int      recgdbl;           \/* mfr read\/mfrl lock granted *\/$/;"	m	struct:recstru
+RECgdbw	cisis.h	1392;"	d
+recgdbw	cisis.h	/^    int      recgdbw;           \/* mfr read\/mfrl flag *\/$/;"	m	struct:recstru
+RECGIZM	cisis.h	222;"	d
+RECGIZM	cisis.h	256;"	d
+recgizmo	cigiz.c	/^long recgizmo(CISISX *cisisxp,$/;"	f
+RECHSIZE	cisis.h	1340;"	d
+recinit	cirec.c	/^void recinit(void)                                                    \/*$/;"	f
+recisis0_m	ciupd.c	/^int  recisis0_m=1;              \/* recisis0() init .mst *\/$/;"	v
+recisis0_s	ciupd.c	/^int  recisis0_s=0;              \/* recisis0() system file type *\/$/;"	v
+REClock	cisis.h	1388;"	d
+reclock	cisis.h	/^    int      reclock;           \/* mfr read\/lock option *\/$/;"	m	struct:recstru
+rec_maxmfrl	cidbx.c	/^long rec_maxmfrl=MAXMFRL;	\/* 25\/02\/97 *\/$/;"	v
+recmf	cisis.h	/^    MFUNION  recmf;             \/* master_recs and .mx unions *\/$/;"	m	struct:recstru
+RECMSTFLUSH	cirec.c	345;"	d	file:
+rec_mstload	cidbx.c	/^long rec_mstload=0L;		\/* 28\/03\/97 *\/$/;"	v
+RECnbytes	cisis.h	1343;"	d
+recnbytes	cisis.h	/^    long     recnbytes;         \/* nbytes allocated (RECHSIZE not included) *\/$/;"	m	struct:recstru
+record	cirec.c	11;"	d	file:
+RECORD	cirun.h	69;"	d
+RECORD	cisis.h	3008;"	d
+Record_dealloc	cisismodule.c	/^Record_dealloc(RecordObject *self)$/;"	f	file:
+Record_getattr	cisismodule.c	/^Record_getattr(RecordObject *self, char *name)$/;"	f	file:
+Record_methods	cisismodule.c	/^static PyMethodDef Record_methods[] = {$/;"	v	file:
+RecordObject_Check	cisismodule.c	143;"	d	file:
+RecordObject	cisismodule.c	/^} RecordObject;$/;"	t	typeref:struct:__anon2	file:
+Record_read	cisismodule.c	/^Record_read(RecordObject *self, PyObject *args)$/;"	f	file:
+Record_Type	cisismodule.c	/^static PyTypeObject Record_Type = {$/;"	v	file:
+Record_Type	cisismodule.c	/^static PyTypeObject Record_Type;$/;"	v	file:
+recp	cisismodule.c	/^	RECSTRU *recp;$/;"	m	struct:__anon2	file:
+RECrc	cisis.h	1386;"	d
+recrc	cisis.h	/^    int      recrc;             \/* record rc *\/$/;"	m	struct:recstru
+recreadb	cirec.c	/^long recreadb=0;                \/* force recread() comb = mfbwb *\/$/;"	v
+recread	cirec.c	12;"	d	file:
+recreadl	cirec.c	/^FFI  recreadl=0;                \/* force recread() mfrl *\/$/;"	v
+recreadp	cirec.c	/^int  recreadp=0;                \/* force recread() comp = mfbwp *\/$/;"	v
+RECSTRU	cirec.c	/^RECSTRU :: RECSTRU (CISISX *cxp): cisisxp(cxp),$/;"	f	class:RECSTRU
+RECSTRU	cirec.c	/^RECSTRU :: RECSTRU (CISISX *cxp,$/;"	f	class:RECSTRU
+~RECSTRU	cirec.c	/^RECSTRU :: ~RECSTRU(void)$/;"	f	class:RECSTRU
+RECSTRU	cisis.h	/^class _YOURCLASS RECSTRU;       \/* Para substituir def da struct *\/$/;"	v	typeref:class:_YOURCLASS
+RECSTRU	cisis.h	/^} RECSTRU;$/;"	t	typeref:struct:recstru
+recstru	cisis.h	/^typedef struct recstru {$/;"	s
+RECSTRU	cisis.h	/^typedef void RECSTRU;$/;"	t
+rectrace	cidbx.c	/^int rectrace=0;                 \/* rec RESTRACE runtime switch *\/$/;"	v
+RECTRACE	cirec.c	36;"	d	file:
+RECtype	cisis.h	1344;"	d
+rectype	cisis.h	/^    int      rectype;           \/* layout indicator *\/$/;"	m	struct:recstru
+recunlck	cirec.c	19;"	d	file:
+recunlck	ciupd.c	/^int recunlck(irec,option)                                              \/*$/;"	f
+recupdat	cirec.c	22;"	d	file:
+recupdat	ciupd.c	/^int recupdat(crec,irec)                                                 \/*$/;"	f
+RECwlock	cisis.h	1389;"	d
+recwlock	cisis.h	/^    int      recwlock;          \/* mfr write\/lock option *\/$/;"	m	struct:recstru
+recwmast	cirec.c	24;"	d	file:
+recwmast	ciupd.c	/^int recwmast(crecp,recp,comb,comp,newblk,wlen)                        \/*$/;"	f
+recwrite	cirec.c	23;"	d	file:
+recwrite	ciupd.c	/^int recwrite(crecp,recp)                                              \/*$/;"	f
+recwxref	cirec.c	25;"	d	file:
+recwxref	ciupd.c	/^int recwxref(recp,pointer,lastmfn)                                     \/*$/;"	f
+recxpn00	cigiz.c	/^long recxpn00 (RECSTRU *recp,$/;"	f
+RECXPND	cisis.h	223;"	d
+RECXPND	cisis.h	257;"	d
+recxpnmo	cigiz.c	/^long recxpnmo(RECSTRU *recp)$/;"	f
+recxrefb	cirec.c	/^long recxrefb=0;                \/* recxref() comb *\/$/;"	v
+recxref	cirec.c	13;"	d	file:
+recxrefm	cirec.c	/^int  recxrefm=0;                \/* recxref() flagmod *\/$/;"	v
+recxrefn	cirec.c	/^int  recxrefn=0;                \/* recxref() flagnew *\/$/;"	v
+recxrefp	cirec.c	/^int  recxrefp=0;                \/* recxref() comp *\/$/;"	v
+ref_beg	cisis.h	/^   ref_beg, ref_end,$/;"	e	enum:ins
+ref_end	cisis.h	/^   ref_beg, ref_end,$/;"	e	enum:ins
+refu_beg	cisis.h	/^   refu_beg,refu_end, \/* Ref aparecendo com funcao *\/$/;"	e	enum:ins
+refu_end	cisis.h	/^   refu_beg,refu_end, \/* Ref aparecendo com funcao *\/$/;"	e	enum:ins
+replac_beg	cisis.h	/^        replac_beg,replac_end,$/;"	e	enum:ins
+replac_end	cisis.h	/^        replac_beg,replac_end,$/;"	e	enum:ins
+RERTRACE	cirec.c	38;"	d	file:
+RESTRACE	cirec.c	42;"	d	file:
+RESXRACE	cirec.c	41;"	d	file:
+REXTRACE	cirec.c	39;"	d	file:
+REYTRACE	cirec.c	40;"	d	file:
+right_beg	cisis.h	/^   right_beg,right_end,$/;"	e	enum:ins
+right_end	cisis.h	/^   right_beg,right_end,$/;"	e	enum:ins
+RLOCK	cisis.h	1562;"	d
+rmax_beg	cisis.h	/^   rsum_beg, rsum_end, rmax_beg, rmax_end,$/;"	e	enum:ins
+rmax_end	cisis.h	/^   rsum_beg, rsum_end, rmax_beg, rmax_end,$/;"	e	enum:ins
+rmin_beg	cisis.h	/^   rmin_beg, rmin_end, ravr_beg, ravr_end,$/;"	e	enum:ins
+rmin_end	cisis.h	/^   rmin_beg, rmin_end, ravr_beg, ravr_end,$/;"	e	enum:ins
+rsum_beg	cisis.h	/^   rsum_beg, rsum_end, rmax_beg, rmax_end,$/;"	e	enum:ins
+rsum_end	cisis.h	/^   rsum_beg, rsum_end, rmax_beg, rmax_end,$/;"	e	enum:ins
+RUCTRAC2	ciupd.c	61;"	d	file:
+RUCTRACE	ciupd.c	59;"	d	file:
+RUCTRACX	ciupd.c	60;"	d	file:
+RUFTRACE	ciupd.c	62;"	d	file:
+RUFxRACE	ciupd.c	68;"	d	file:
+RUGTRACE	ciupd.c	63;"	d	file:
+RUHTRACE	ciupd.c	64;"	d	file:
+RUITRACE	ciupd.c	65;"	d	file:
+RUJTRACE	ciupd.c	66;"	d	file:
+RUKTRACE	ciupd.c	67;"	d	file:
+rupd_beg	cisis.h	/^   rupx_beg, rupx_end, rupd_beg, rupd_end, syst_beg, syst_end,$/;"	e	enum:ins
+rupd_end	cisis.h	/^   rupx_beg, rupx_end, rupd_beg, rupd_end, syst_beg, syst_end,$/;"	e	enum:ins
+rupx_beg	cisis.h	/^   rupx_beg, rupx_end, rupd_beg, rupd_end, syst_beg, syst_end,$/;"	e	enum:ins
+rupx_end	cisis.h	/^   rupx_beg, rupx_end, rupd_beg, rupd_end, syst_beg, syst_end,$/;"	e	enum:ins
+RUUTRACE	ciupd.c	70;"	d	file:
+SAMEL	cisis.h	219;"	d
+SAMEL	cisis.h	254;"	d
+sattrib_beg	cisis.h	/^      eattrib_beg,eattrib_end,sattrib_beg,sattrib_end,$/;"	e	enum:ins
+sattrib_end	cisis.h	/^      eattrib_beg,eattrib_end,sattrib_beg,sattrib_end,$/;"	e	enum:ins
+s_beg	cisis.h	/^   l_beg, l_end, s_beg, s_end, fmt_beg, fmt_end, f_beg, f_end, str_cat,$/;"	e	enum:ins
+s_end	cisis.h	/^   l_beg, l_end, s_beg, s_end, fmt_beg, fmt_end, f_beg, f_end, str_cat,$/;"	e	enum:ins
+set_false_rep	cisis.h	/^   set_true_rep, set_false_rep, test_rep, begin, end,$/;"	e	enum:ins
+setno	cisis.h	/^    long setno;                         \/* query number *\/$/;"	m	struct:b6hitbuf
+setno	cisis.h	/^    long setno;                         \/* query number *\/$/;"	m	struct:b7hitbuf
+set_true_rep	cisis.h	/^   set_true_rep, set_false_rep, test_rep, begin, end,$/;"	e	enum:ins
+SFLDCHR	cisis.h	2306;"	d
+SHOWCORE	cisis.h	2729;"	d
+SHOWCORE	cisis.h	2840;"	d
+SHOWCORE	cisis.h	2842;"	d
+SHTEST	cidbx.c	103;"	d	file:
+shtest	cidbx.c	/^static char shtest[CIMPL+1];$/;"	v	file:
+sirec	cisis.h	/^   long sirec;$/;"	m	struct:__anon6
+size_beg	cisis.h	/^   size_beg, size_end,$/;"	e	enum:ins
+size_end	cisis.h	/^   size_beg, size_end,$/;"	e	enum:ins
+SIZEOFTAG	cigiz.c	698;"	d	file:
+SIZEOFTAG	cigiz.c	926;"	d	file:
+size_t	cisis.h	446;"	d
+slash_spac	cisis.h	/^   x_spac, c_spac, slash_spac, n_sigx_spac, n_sign_spac, percent_spac,$/;"	e	enum:ins
+smfn	cisis.h	/^   long smfn;$/;"	m	struct:__anon6
+ss_beg	cisis.h	/^      ss_beg,ss_end,$/;"	e	enum:ins
+ss_end	cisis.h	/^      ss_beg,ss_end,$/;"	e	enum:ins
+status	cisis.h	/^    unsigned char status[1];$/;"	m	struct:isohstru
+str_cat	cisis.h	/^   l_beg, l_end, s_beg, s_end, fmt_beg, fmt_end, f_beg, f_end, str_cat,$/;"	e	enum:ins
+STRIPMARKUP	ciupd.c	1466;"	d	file:
+strrev	cidbx.c	78;"	d	file:
+strstr	cidbx.c	72;"	d	file:
+strupr	cidbx.c	75;"	d	file:
+strvvalue	cisis.h	/^      intvvalue,strvvalue,$/;"	e	enum:ins
+sublen	cisis.h	/^    unsigned char sublen[1];$/;"	m	struct:isohstru
+subst_and	cisis.h	/^   char *subst_and;$/;"	m	struct:__anon6
+suf_cond	cisis.h	/^   suf_cond, suf_cond_null, suf_r_lit, suf_r_lit_plus,$/;"	e	enum:ins
+suf_cond_null	cisis.h	/^   suf_cond, suf_cond_null, suf_r_lit, suf_r_lit_plus,$/;"	e	enum:ins
+suf_r_lit	cisis.h	/^   suf_cond, suf_cond_null, suf_r_lit, suf_r_lit_plus,$/;"	e	enum:ins
+suf_r_lit_plus	cisis.h	/^   suf_cond, suf_cond_null, suf_r_lit, suf_r_lit_plus,$/;"	e	enum:ins
+SUNBUG_GCC1	cisis.h	131;"	d
+SUNBUG_UNSIGNED	cisis.h	129;"	d
+SUN	cisis.h	47;"	d
+SWAPPED	cisis.h	109;"	d
+syst_beg	cisis.h	/^   rupx_beg, rupx_end, rupd_beg, rupd_end, syst_beg, syst_end,$/;"	e	enum:ins
+syst_end	cisis.h	/^   rupx_beg, rupx_end, rupd_beg, rupd_end, syst_beg, syst_end,$/;"	e	enum:ins
+T1	cisis.h	1876;"	d
+T1	cisis.h	1887;"	d
+T2	cisis.h	1877;"	d
+T2	cisis.h	1888;"	d
+tag	cisis.h	/^    UWORD tag;$/;"	m	struct:fst_code
+tagfld	cisis.h	/^    unsigned char tagfld[3];$/;"	m	struct:isodstru
+TBOOL	cisis.h	2502;"	d
+TBOOL	cisis.h	2753;"	d
+TBOOL	cisis.h	2858;"	d
+TDBiflush	cisis.h	2026;"	d
+TDBiflxx	cisis.h	2025;"	d
+TDBifmap	cisis.h	2024;"	d
+TDBname	cisis.h	2023;"	d
+TERM	cirun.h	70;"	d
+TERM	cisis.h	3017;"	d
+test_occ	cisis.h	/^   begin_rep_gr, end_rep_gr, test_occ, print_field, d_dummy, n_dummy,$/;"	e	enum:ins
+test_rep	cisis.h	/^   set_true_rep, set_false_rep, test_rep, begin, end,$/;"	e	enum:ins
+times_op	cisis.h	/^   plus_op, minus_op, times_op, divide_op,$/;"	e	enum:ins
+TLS	cisis.h	150;"	d
+tokbackp	cisis.h	/^   char *tokbackp;$/;"	m	struct:__anon6
+TOKDELIM	cisis.h	2499;"	d
+TOKDELIM	cisis.h	2750;"	d
+TOKDELIM	cisis.h	2855;"	d
+token	cisis.h	/^   char *token;$/;"	m	struct:__anon6
+toklen	cisis.h	/^   int toklen;$/;"	m	struct:__anon6
+tokmassp	cisis.h	/^   char *tokmassp;                 \/* toknextp after b7_massp() *\/$/;"	m	struct:__anon6
+toknextp	cisis.h	/^   char *toknextp;$/;"	m	struct:__anon6
+TOKNULL	cisis.h	2498;"	d
+TOKNULL	cisis.h	2749;"	d
+TOKNULL	cisis.h	2854;"	d
+tokopr	cisis.h	/^   char tokopr;$/;"	m	struct:__anon6
+tokqty	cisis.h	/^   int tokqty;$/;"	m	struct:__anon6
+tokquall	cisis.h	/^   int tokquall;                   \/* length *\/$/;"	m	struct:__anon6
+tokqualn	cisis.h	/^   int tokqualn;                   \/* no of elements in the list *\/$/;"	m	struct:__anon6
+tokqualp	cisis.h	/^   char *tokqualp;                 \/* qualifiers *\/$/;"	m	struct:__anon6
+TOKTERM	cisis.h	2500;"	d
+TOKTERM	cisis.h	2751;"	d
+TOKTERM	cisis.h	2856;"	d
+toktyp	cisis.h	/^   char toktyp;$/;"	m	struct:__anon6
+TRACED1	cigiz.c	991;"	d	file:
+TRACED2	cigiz.c	992;"	d	file:
+TRACEDT	cigiz.c	994;"	d	file:
+TRACEDx	cigiz.c	993;"	d	file:
+TRACEG1	cigiz.c	16;"	d	file:
+TRACEG2	cigiz.c	17;"	d	file:
+TRACEG3	cigiz.c	18;"	d	file:
+TRACEGT	cigiz.c	19;"	d	file:
+TRACER0	cigiz.c	15;"	d	file:
+TRACXG1	cigiz.c	691;"	d	file:
+TRACXG3	cigiz.c	692;"	d	file:
+TRACYG1	cigiz.c	694;"	d	file:
+TRACYG3	cigiz.c	695;"	d	file:
+TRMALLOC	cisis.h	3019;"	d
+TRMdbxp	cisis.h	2021;"	d
+trmdbxp	cisis.h	/^    DBXSTRU *trmdbxp;$/;"	m	struct:trmstru
+TRMHSIZE	cisis.h	2015;"	d
+TRMifbuf	cisis.h	2066;"	d
+trmifbuf	cisis.h	/^    UCHR     trmifbuf[1];       \/* .ifp input buffer *\/$/;"	m	struct:trmstru
+TRMifhdr	cisis.h	2063;"	d
+trmifhdr	cisis.h	/^    IFPHEAD  trmifhdr;          \/* .ifp 1st segm header - total psts here *\/$/;"	m	struct:trmstru
+TRMifseg	cisis.h	2062;"	d
+trmifseg	cisis.h	/^    IFPHEAD  trmifseg;          \/* .ifp current segm header *\/$/;"	m	struct:trmstru
+trm_invload	cidbx.c	/^long trm_invload=0L;		\/* 28\/03\/97 *\/$/;"	v
+TRMkey	cisis.h	2029;"	d
+trmkey	cisis.h	/^    UCHR     trmkey[LE2+1];     \/* key padded with blanks and null *\/$/;"	m	struct:trmstru
+TRMl1buf	cisis.h	2037;"	d
+trml1buf	cisis.h	/^    L1STRU   trml1buf;          \/* .l01 input buffer *\/$/;"	m	struct:trmstru
+trml1nul	cisis.h	/^    UCHR     trml1nul;          \/* .l01 input buffer idx delimiter *\/$/;"	m	struct:trmstru
+TRMl2buf	cisis.h	2038;"	d
+trml2buf	cisis.h	/^    L2STRU   trml2buf;          \/* .l02 input buffer *\/$/;"	m	struct:trmstru
+trml2nul	cisis.h	/^    UCHR     trml2nul;          \/* .l02 input buffer idx delimiter *\/$/;"	m	struct:trmstru
+TRMlcase	cisis.h	2039;"	d
+trmlcase	cisis.h	/^    int      trmlcase;          \/* last term\/nxterm tree used *\/$/;"	m	struct:trmstru
+TRMlidxp	cisis.h	2044;"	d
+trmlidxp	cisis.h	/^    UCHR     *trmlidxp[2];      \/* last term\/nxterm idxchars ptr *\/$/;"	m	struct:trmstru
+TRMliock	cisis.h	2043;"	d
+trmliock	cisis.h	/^    int      trmliock[2];       \/* last trmread() ock *\/$/;"	m	struct:trmstru
+TRMnbytes	cisis.h	2018;"	d
+trmnbytes	cisis.h	/^    long     trmnbytes;         \/* nbytes allocated *\/$/;"	m	struct:trmstru
+TRMpcblk	cisis.h	2060;"	d
+trmpcblk	cisis.h	/^    INFO     trmpcblk;          \/* info1 for next posting() *\/$/;"	m	struct:trmstru
+TRMpchar	cisis.h	2048;"	d
+trmpchar	cisis.h	/^    UCHR     *trmpchar;         \/* ptr to next posting in trmifbuf *\/$/;"	m	struct:trmstru
+TRMpcnt	cisis.h	2035;"	d
+trmpcnt	cisis.h	/^    UWORD      trmpcnt;           \/* current posting pcnt *\/$/;"	m	struct:trmstru
+TRMpcpos	cisis.h	2061;"	d
+trmpcpos	cisis.h	/^    INFO     trmpcpos;          \/* info2 for next posting() *\/$/;"	m	struct:trmstru
+TRMpcurr	cisis.h	2047;"	d
+trmpcurr	cisis.h	/^    UCHR     *trmpcurr;         \/* trmpchar not yet incremented *\/$/;"	m	struct:trmstru
+TRMpleft	cisis.h	2046;"	d
+trmpleft	cisis.h	/^    long     trmpleft;          \/* postings left in segment *\/$/;"	m	struct:trmstru
+TRMpmfn	cisis.h	2032;"	d
+trmpmfn	cisis.h	/^    long     trmpmfn;           \/* current posting pmfn *\/$/;"	m	struct:trmstru
+TRMpocc	cisis.h	2034;"	d
+trmpocc	cisis.h	/^    UWORD      trmpocc;           \/* current posting pocc *\/$/;"	m	struct:trmstru
+TRMpost	cisis.h	2031;"	d
+trmpost	cisis.h	/^    long     trmpost;           \/* current posting order *\/$/;"	m	struct:trmstru
+TRMptag	cisis.h	2033;"	d
+trmptag	cisis.h	/^    UWORD      trmptag;           \/* current posting ptag *\/$/;"	m	struct:trmstru
+TRMrcase	cisis.h	2040;"	d
+trmrcase	cisis.h	/^    int      trmrcase;          \/* trmread() treecase+1 selection  *\/$/;"	m	struct:trmstru
+TRMrc	cisis.h	2028;"	d
+trmrc	cisis.h	/^    int      trmrc;             \/* term\/nxterm rc *\/$/;"	m	struct:trmstru
+TRMrseek	cisis.h	2041;"	d
+trmrseek	cisis.h	/^    long     trmrseek[2];       \/* last term\/nxterm leafread() lseek addr *\/$/;"	m	struct:trmstru
+TRMrsize	cisis.h	2042;"	d
+trmrsize	cisis.h	/^    int      trmrsize[2];       \/* last term\/nxterm leafread() read size *\/$/;"	m	struct:trmstru
+TRMSTRU	cisis.h	/^class _YOURCLASS TRMSTRU;       \/* Para substituir def da struct *\/$/;"	v	typeref:class:_YOURCLASS
+TRMSTRU	cisis.h	/^} TRMSTRU;$/;"	t	typeref:struct:trmstru
+trmstru	cisis.h	/^typedef struct trmstru {$/;"	s
+TRMSTRU	cisis.h	/^typedef void TRMSTRU;$/;"	t
+trmtrace	cidbx.c	/^int trmtrace=0;                 \/* trm TRSTRACE runtime switch *\/$/;"	v
+TRMtype	cisis.h	2019;"	d
+trmtype	cisis.h	/^    int      trmtype;           \/* layout indicator *\/$/;"	m	struct:trmstru
+TRMxytotp	cisis.h	2009;"	d
+TRMxytotp	cisis.h	2011;"	d
+TRMyaddr	cisis.h	2051;"	d
+trmyaddr	cisis.h	/^    long     trmyaddr;          \/* byte address *\/$/;"	m	struct:trmstru
+TRMycase	cisis.h	2053;"	d
+trmycase	cisis.h	/^    int      trmycase;          \/* postings type *\/$/;"	m	struct:trmstru
+TRMydisk	cisis.h	2056;"	d
+trmydisk	cisis.h	/^    long     trmydisk;          \/* total no of bytes *\/$/;"	m	struct:trmstru
+TRMydocs	cisis.h	2055;"	d
+trmydocs	cisis.h	/^    long     trmydocs;          \/* total no of docs *\/$/;"	m	struct:trmstru
+TRMyleft	cisis.h	2058;"	d
+trmyleft	cisis.h	/^    long     trmyleft;          \/* total no of bytes left on ifbuf *\/$/;"	m	struct:trmstru
+TRMypsts	cisis.h	2052;"	d
+trmypsts	cisis.h	/^    long     trmypsts;          \/* total no of psts *\/$/;"	m	struct:trmstru
+TRMyread	cisis.h	2057;"	d
+trmyread	cisis.h	/^    long     trmyread;          \/* total no of bytes already read *\/$/;"	m	struct:trmstru
+TRMysize	cisis.h	2054;"	d
+trmysize	cisis.h	/^    int      trmysize;          \/* postings length *\/$/;"	m	struct:trmstru
+TW_BOOL	cisis.h	230;"	d
+TW_BOOL	cisis.h	263;"	d
+TWORDF	cisis.h	705;"	d
+TWORDN	cisis.h	702;"	d
+type_beg	cisis.h	/^   type_beg, type_end,$/;"	e	enum:ins
+type_end	cisis.h	/^   type_beg, type_end,$/;"	e	enum:ins
+TYPEMF0	cisis.h	1555;"	d
+TYPEMFQ	cisis.h	1558;"	d
+TYPEMFR	cisis.h	1556;"	d
+TYPETRM	cisis.h	2126;"	d
+TYPEX	cisis.h	1557;"	d
+UBYTE	cisis.h	332;"	d
+UC_EXTENSION	cisis.h	140;"	d
+UCHR	cisis.h	340;"	d
+u_cond	cisis.h	/^   escape_seq, u_cond, print_mfn, load_mfn, absent, present, contains,$/;"	e	enum:ins
+uint16_t	cisis.h	3518;"	d
+ULONG	cisis.h	335;"	d
+UNISYS	cisis.h	48;"	d
+UNISYSCPU	cisis.h	50;"	d
+UNISYSGDB	cisis.h	49;"	d
+UNIX	cisis.h	46;"	d
+update_fld	cisis.h	/^   update_fld, input_fld, lw_beg, lw_end,$/;"	e	enum:ins
+upmF1	ciupd.c	1520;"	d	file:
+upmF2	ciupd.c	1521;"	d	file:
+upmF3	ciupd.c	1522;"	d	file:
+upmF4	ciupd.c	1523;"	d	file:
+USE_GDBFMT	cisis.h	77;"	d
+USE_GDBFMT	cisis.h	79;"	d
+USE_INFO_SYS	ciupd.c	54;"	d	file:
+UWORD	cisis.h	333;"	d
+val_beg	cisis.h	/^   init_if, end_then, end_else, fi, val_beg, val_end,$/;"	e	enum:ins
+val_end	cisis.h	/^   init_if, end_then, end_else, fi, val_beg, val_end,$/;"	e	enum:ins
+valp	cisis.h	/^    char *valp;$/;"	m	struct:__anon7
+VAX	cisis.h	44;"	d
+VDBXdelxx	cisis.h	986;"	d
+VDBXewlxx	cisis.h	987;"	d
+VDBXgicip	cisis.h	976;"	d
+VDBXiflush	cisis.h	983;"	d
+VDBXiflxx	cisis.h	992;"	d
+VDBXifmap	cisis.h	991;"	d
+VDBXiinit	cisis.h	1006;"	d
+VDBXipadd	cisis.h	1011;"	d
+VDBXipdel	cisis.h	1012;"	d
+VDBXirang	cisis.h	1009;"	d
+VDBXirecs	cisis.h	1010;"	d
+VDBXitell	cisis.h	1008;"	d
+VDBXitrac	cisis.h	1007;"	d
+VDBXmclose	cisis.h	982;"	d
+VDBXmflush	cisis.h	981;"	d
+VDBXmsibp	cisis.h	974;"	d
+VDBXmsmfn	cisis.h	990;"	d
+VDBXmsopn	cisis.h	969;"	d
+VDBXmsopv	cisis.h	972;"	d
+VDBXmsopw	cisis.h	971;"	d
+VDBXmstxl	cisis.h	979;"	d
+VDBXmsyyp	cisis.h	994;"	d
+VDBXmxtmp	cisis.h	988;"	d
+VDBXname	cisis.h	967;"	d
+VDBXnetws	cisis.h	985;"	d
+vdbxp	cirun.h	/^DBXSTRU *vdbxp[MAXNDBX];        \/* pointers to the entries      *\/$/;"	v
+VDBXvderp	cisis.h	1003;"	d
+VDBXvgzrp	cisis.h	996;"	d
+VDBXxpn01	cisis.h	999;"	d
+VDBXxpn02	cisis.h	1000;"	d
+VDBXxribp	cisis.h	973;"	d
+VDBXxropn	cisis.h	968;"	d
+VDBXxropw	cisis.h	970;"	d
+VDBXxryyp	cisis.h	993;"	d
+vdecpstru	cisis.h	/^typedef struct vdecpstru {$/;"	s
+VDECPSTRU	cisis.h	/^} VDECPSTRU;$/;"	t	typeref:struct:vdecpstru
+VDIRlen	cisis.h	1519;"	d
+VDIRlen	cisis.h	1544;"	d
+VDIRpos	cisis.h	1518;"	d
+VDIRpos	cisis.h	1543;"	d
+VDIRtag	cisis.h	1517;"	d
+VDIRtag	cisis.h	1542;"	d
+vetcas	cisis.h	/^   char vetopr[MAXVOPR],vetcas[MAXVOPR],*vetopp[MAXVOPR];$/;"	m	struct:__anon6
+vetopp	cisis.h	/^   char vetopr[MAXVOPR],vetcas[MAXVOPR],*vetopp[MAXVOPR];$/;"	m	struct:__anon6
+vetopr	cisis.h	/^   char vetopr[MAXVOPR],vetcas[MAXVOPR],*vetopp[MAXVOPR];$/;"	m	struct:__anon6
+VFIELDP	cisis.h	1551;"	d
+vgizpstru	cisis.h	/^typedef struct vgizpstru {$/;"	s
+VGIZPSTRU	cisis.h	/^} VGIZPSTRU;$/;"	t	typeref:struct:vgizpstru
+vlex	cidbx.c	/^int vlex[NTREE] = { LE1, LE2 };                 \/* use it *\/$/;"	v
+VMF0ctlmfn	cisis.h	1498;"	d
+VMF0ctlmfn	cisis.h	1523;"	d
+VMF0mfcxx1	cisis.h	1504;"	d
+VMF0mfcxx1	cisis.h	1529;"	d
+VMF0mfcxx2	cisis.h	1505;"	d
+VMF0mfcxx2	cisis.h	1530;"	d
+VMF0mfcxx3	cisis.h	1506;"	d
+VMF0mfcxx3	cisis.h	1531;"	d
+VMF0mftype	cisis.h	1502;"	d
+VMF0mftype	cisis.h	1527;"	d
+VMF0nxtmfb	cisis.h	1500;"	d
+VMF0nxtmfb	cisis.h	1525;"	d
+VMF0nxtmfn	cisis.h	1499;"	d
+VMF0nxtmfn	cisis.h	1524;"	d
+VMF0nxtmfp	cisis.h	1501;"	d
+VMF0nxtmfp	cisis.h	1526;"	d
+VMF0reccnt	cisis.h	1503;"	d
+VMF0reccnt	cisis.h	1528;"	d
+VMFRbase	cisis.h	1512;"	d
+VMFRbase	cisis.h	1537;"	d
+VMFRdir	cisis.h	1515;"	d
+VMFRdir	cisis.h	1540;"	d
+VMFRmfbwb	cisis.h	1510;"	d
+VMFRmfbwb	cisis.h	1535;"	d
+VMFRmfbwp	cisis.h	1511;"	d
+VMFRmfbwp	cisis.h	1536;"	d
+VMFRmfn	cisis.h	1508;"	d
+VMFRmfn	cisis.h	1533;"	d
+VMFRmfrl	cisis.h	1509;"	d
+VMFRmfrl	cisis.h	1534;"	d
+VMFRnvf	cisis.h	1513;"	d
+VMFRnvf	cisis.h	1538;"	d
+VMFRstatus	cisis.h	1514;"	d
+VMFRstatus	cisis.h	1539;"	d
+VMFX	cisis.h	1521;"	d
+VMFX	cisis.h	1546;"	d
+vpdlp	cisis.h	/^   PDLSTRU *vpdlp[MAXPDLS];$/;"	m	struct:__anon6
+vqualt	cisis.h	/^   short unsigned int nqualts,vqualt[MAXQUAL],*qualtp;$/;"	m	struct:__anon6
+VRDBdelxx	cisis.h	1469;"	d
+VRDBewlxx	cisis.h	1470;"	d
+VRDBgicip	cisis.h	1460;"	d
+VRDBiflxx	cisis.h	1475;"	d
+VRDBifmap	cisis.h	1474;"	d
+VRDBmclose	cisis.h	1466;"	d
+VRDBmflush	cisis.h	1465;"	d
+VRDBmsibp	cisis.h	1458;"	d
+VRDBmsmfn	cisis.h	1473;"	d
+VRDBmsopn	cisis.h	1453;"	d
+VRDBmsopv	cisis.h	1456;"	d
+VRDBmsopw	cisis.h	1455;"	d
+VRDBmstxl	cisis.h	1463;"	d
+VRDBmsyyp	cisis.h	1477;"	d
+VRDBmxtmp	cisis.h	1471;"	d
+VRDBname	cisis.h	1451;"	d
+VRDBnetws	cisis.h	1468;"	d
+VRDBvderp	cisis.h	1486;"	d
+VRDBvgzrp	cisis.h	1479;"	d
+VRDBxpn01	cisis.h	1482;"	d
+VRDBxpn02	cisis.h	1483;"	d
+VRDBxribp	cisis.h	1457;"	d
+VRDBxropn	cisis.h	1452;"	d
+VRDBxropw	cisis.h	1454;"	d
+VRDBxryyp	cisis.h	1476;"	d
+VRECdbxp	cisis.h	1449;"	d
+VRECgdbl	cisis.h	1494;"	d
+VRECgdbw	cisis.h	1495;"	d
+VREClock	cisis.h	1491;"	d
+VRECnbytes	cisis.h	1446;"	d
+vrecp	cirun.h	/^RECSTRU *vrecp[MAXNREC];        \/* pointers to the entries      *\/$/;"	v
+VRECrc	cisis.h	1489;"	d
+VRECtype	cisis.h	1447;"	d
+VRECwlock	cisis.h	1492;"	d
+VTDBiflush	cisis.h	2076;"	d
+VTDBiflxx	cisis.h	2075;"	d
+VTDBifmap	cisis.h	2074;"	d
+VTDBname	cisis.h	2073;"	d
+VTRMdbxp	cisis.h	2071;"	d
+VTRMifbuf	cisis.h	2122;"	d
+VTRMifhdr	cisis.h	2113;"	d
+VTRMifseg	cisis.h	2112;"	d
+VTRMkey	cisis.h	2079;"	d
+VTRMl1buf	cisis.h	2087;"	d
+VTRMl2buf	cisis.h	2088;"	d
+VTRMlcase	cisis.h	2089;"	d
+VTRMlidxp	cisis.h	2094;"	d
+VTRMliock	cisis.h	2093;"	d
+VTRMnbytes	cisis.h	2068;"	d
+VTRMpcblk	cisis.h	2110;"	d
+VTRMpchar	cisis.h	2098;"	d
+vtrmp	cirun.h	/^TRMSTRU *vtrmp[MAXNTRM];        \/* pointers to the entries      *\/$/;"	v
+VTRMpcnt	cisis.h	2085;"	d
+VTRMpcpos	cisis.h	2111;"	d
+VTRMpcurr	cisis.h	2097;"	d
+VTRMpleft	cisis.h	2096;"	d
+VTRMpmfn	cisis.h	2082;"	d
+VTRMpocc	cisis.h	2084;"	d
+VTRMpost	cisis.h	2081;"	d
+VTRMptag	cisis.h	2083;"	d
+VTRMrcase	cisis.h	2090;"	d
+VTRMrc	cisis.h	2078;"	d
+VTRMrseek	cisis.h	2091;"	d
+VTRMrsize	cisis.h	2092;"	d
+VTRMtype	cisis.h	2069;"	d
+VTRMxytotp	cisis.h	2117;"	d
+VTRMxytotp	cisis.h	2119;"	d
+VTRMyaddr	cisis.h	2101;"	d
+VTRMycase	cisis.h	2103;"	d
+VTRMydisk	cisis.h	2106;"	d
+VTRMydocs	cisis.h	2105;"	d
+VTRMyleft	cisis.h	2108;"	d
+VTRMypsts	cisis.h	2102;"	d
+VTRMyread	cisis.h	2107;"	d
+VTRMysize	cisis.h	2104;"	d
+while_beg	cisis.h	/^      while_beg,while_end, $/;"	e	enum:ins
+while_end	cisis.h	/^      while_beg,while_end, $/;"	e	enum:ins
+WLOCK	cisis.h	1568;"	d
+WUNLOCK	cisis.h	1567;"	d
+WWWISIS	cisis.h	163;"	d
+xcicopyr	cidbx.c	/^char * DBXSTRU :: xcicopyr(char *namep)$/;"	f	class:DBXSTRU
+xcntread	cisisx.c	/^int CISISX :: xcntread(DBXSTRU *dbxp,$/;"	f	class:CISISX
+xcoreleft	cidbx.c	/^unsigned long DBXSTRU :: xcoreleft(void)$/;"	f	class:DBXSTRU
+xdbxcinet	cisisx.c	/^int CISISX :: xdbxcinet(char *dbnamp)$/;"	f	class:CISISX
+xdbxcipar	cisisx.c	/^char * CISISX :: xdbxcipar(char *gidbnp,$/;"	f	class:CISISX
+xdbxciset	cisisx.c	/^int CISISX :: xdbxciset(char *cipfile)$/;"	f	class:CISISX
+xdbxflock	cidbx.c	/^int DBXSTRU :: xdbxflock(DBXSTRU *dbxp,$/;"	f	class:DBXSTRU
+xdbxflush	cidbx.c	/^void DBXSTRU :: xdbxflush(char *dbnamp)$/;"	f	class:DBXSTRU
+xdbxgipar	cisisx.c	/^char * CISISX :: xdbxgipar(char *gidbnp,$/;"	f	class:CISISX
+xdbxilock	cisisx.c	/^int CISISX :: xdbxilock(DBXSTRU *idbxp,$/;"	f	class:CISISX
+xdbxinit	cisisx.c	/^void CISISX :: xdbxinit(void)$/;"	f	class:CISISX
+xdbxinvmp	cidbx.c	/^INVMAP * DBXSTRU :: xdbxinvmp(DBXSTRU *dbxp)$/;"	f	class:DBXSTRU
+xdbxopenc	cisisx.c	/^char *CISISX :: xdbxopenc(char *gidbnp,$/;"	f	class:CISISX
+xdbxopen	cisisx.c	/^int CISISX :: xdbxopen(char *gidbnp,$/;"	f	class:CISISX
+xdbxopenw	cisisx.c	/^int CISISX :: xdbxopenw(char *gidbnp,$/;"	f	class:CISISX
+xdbxsrchp	cisisx.c	/^DBXSTRU * CISISX :: xdbxsrchp(char *dbnamp)$/;"	f	class:CISISX
+xdbxstorp	cisisx.c	/^DBXSTRU * CISISX :: xdbxstorp(char *dbnamp)$/;"	f	class:CISISX
+xdbxtmpnm	cisisx.c	/^char * CISISX :: xdbxtmpnm(char *dirtmp,$/;"	f	class:CISISX
+xdbxulock	cidbx.c	/^int DBXSTRU :: xdbxulock(DBXSTRU *dbxp,$/;"	f	class:DBXSTRU
+xdbxwlock	cidbx.c	/^int DBXSTRU :: xdbxwlock(DBXSTRU *dbxp,$/;"	f	class:DBXSTRU
+xdecflush	cisisx.c	/^void CISISX :: xdecflush(VDECPSTRU *vdecmap)$/;"	f	class:CISISX
+xfatal	cisisx.c	/^void CISISX :: xfatal(char *msgp)$/;"	f	class:CISISX
+xfieldn	cirec.c	/^int RECSTRU :: xfieldn(int tag,$/;"	f	class:RECSTRU
+xfieldx	cirec.c	/^int RECSTRU :: xfieldx(int tag,$/;"	f	class:RECSTRU
+xfpcclose	cidbx.c	/^void DBXSTRU :: xfpcclose(void)$/;"	f	class:DBXSTRU
+xfpccreat	cidbx.c	/^int DBXSTRU :: xfpccreat(char *gidbnp,$/;"	f	class:DBXSTRU
+xfpcwrite	cidbx.c	/^void DBXSTRU :: xfpcwrite(char *recbufp,$/;"	f	class:DBXSTRU
+xgetx	cigiz.c	/^int xgetx;$/;"	v
+xgizflush	cisisx.c	/^void CISISX :: xgizflush(VGIZPSTRU *vgizmap)$/;"	f	class:CISISX
+xinvclose	cidbx.c	/^void DBXSTRU :: xinvclose(DBXSTRU *dbxp)$/;"	f	class:DBXSTRU
+xinvflush	cidbx.c	/^void DBXSTRU :: xinvflush(char *dbnamp)$/;"	f	class:DBXSTRU
+xinvsetup	cisisx.c	/^void CISISX :: xinvsetup(UCHR *dbnamp,$/;"	f	class:CISISX
+xlabs	cidbx.c	/^long DBXSTRU :: xlabs(long x)$/;"	f	class:DBXSTRU
+xleafread	cisisx.c	/^L0STRU * CISISX :: xleafread(UCHR   *fbufp,$/;"	f	class:CISISX
+xloadfile	cisisx.c	/^char * CISISX :: xloadfile(char *gidbnp,$/;"	f	class:CISISX
+xloadstw	cisisx.c	/^char * CISISX :: xloadstw(char *gidbnp,$/;"	f	class:CISISX
+xmemicmp	cidbx.c	/^int DBXSTRU :: xmemicmp(CONST void *s1,$/;"	f	class:DBXSTRU
+xmlelem_beg	cisis.h	/^        xmlelem_beg,xmlelem_end,$/;"	e	enum:ins
+xmlelem_end	cisis.h	/^        xmlelem_beg,xmlelem_end,$/;"	e	enum:ins
+xmstclose	cidbx.c	/^void DBXSTRU :: xmstclose(DBXSTRU *dbxp)$/;"	f	class:DBXSTRU
+xmstflush	cidbx.c	/^void DBXSTRU :: xmstflush(char *dbnamp)$/;"	f	class:DBXSTRU
+xmstsetup	cirec.c	/^void RECSTRU :: xmstsetup(char *dbnamp,$/;"	f	class:RECSTRU
+xnocc	cirec.c	/^int RECSTRU :: xnocc(int tag)$/;"	f	class:RECSTRU
+xnoderead	cisisx.c	/^N0STRU * CISISX :: xnoderead(INVMAP *invp,$/;"	f	class:CISISX
+xpostread	cisisx.c	/^IFPSTRU * CISISX :: xpostread(UCHR   *xbufp,$/;"	f	class:CISISX
+XRBSIZ	cisis.h	649;"	d
+xrecalloc	cirec.c	/^long RECSTRU :: xrecalloc(long nbytes)$/;"	f	class:RECSTRU
+xRecAlloc	cirec.c	/^RECSTRU * RECSTRU :: xRecAlloc (long nbytes)$/;"	f	class:RECSTRU
+xrecisis0	cisisx.c	/^int CISISX :: xrecisis0(char *dbnamp)$/;"	f	class:CISISX
+xrecord	cirec.c	/^long RECSTRU :: xrecord(char *dbnamp,$/;"	f	class:RECSTRU
+xRecord	cirec.c	/^RECSTRU * RECSTRU :: xRecord (char *dbname,$/;"	f	class:RECSTRU
+xrecread	cirec.c	/^int RECSTRU :: xrecread(long mfn)$/;"	f	class:RECSTRU
+xrecreset	cisisx.c	/^void CISISX :: xrecreset(char *dbnp,$/;"	f	class:CISISX
+xrecxref	cirec.c	/^int RECSTRU :: xrecxref(long     mfn,$/;"	f	class:RECSTRU
+XRMAXTIV	cisis.h	652;"	d
+XRMAXTV1	cisis.h	653;"	d
+xrmfptr	cisis.h	/^    XRPTR     xrmfptr[XRMAXTIV]; \/* gdb mfr ptrs *\/$/;"	m	struct:xrstru
+XRPOS	cisis.h	668;"	d
+XRPOSSIZ	cisis.h	670;"	d
+XRPTR	cisis.h	669;"	d
+XRPTRSIZ	cisis.h	671;"	d
+XRSHIFT	cisis.h	650;"	d
+xrstru	cisis.h	/^typedef struct xrstru {$/;"	s
+XRSTRU	cisis.h	/^} XRSTRU;$/;"	t	typeref:struct:xrstru
+XRXDIVIDE	cisis.h	658;"	d
+XRXMASK	cisis.h	660;"	d
+XRXMASKN	cisis.h	661;"	d
+XRXMASKU	cisis.h	662;"	d
+xrxrpos	cisis.h	/^    XRPOS     xrxrpos;           \/* gdb .xrf blk order *\/$/;"	m	struct:xrstru
+XRXSHIFT	cisis.h	659;"	d
+x_spac	cisis.h	/^   x_spac, c_spac, slash_spac, n_sigx_spac, n_sign_spac, percent_spac,$/;"	e	enum:ins
+xstrrev	cidbx.c	/^char * DBXSTRU :: xstrrev (char *p)$/;"	f	class:DBXSTRU
+xstrstr	cidbx.c	/^char * DBXSTRU :: xstrstr (CONST char *p1,$/;"	f	class:DBXSTRU
+xstrupr	cidbx.c	/^char * DBXSTRU :: xstrupr (char* p)$/;"	f	class:DBXSTRU
+XTC	cidbx.c	547;"	d	file:
+xtrac	cisis.h	/^   int xtrac;$/;"	m	struct:__anon6
+xx1extp	cidbx.c	/^char *xx1extp = ".xrf";                         \/* mstsetup\/recisis0 *\/$/;"	v
+YES	cisisx.c	59;"	d	file:
+_YOURCLASS	cisis.h	282;"	d
+_YOURCLASS	cisis.h	285;"	d
+_YOURCLASS	cisis.h	287;"	d
+ZAND	cisis.h	2485;"	d
+ZAND	cisis.h	2737;"	d
+ZAND	cisis.h	2848;"	d
+ZANE	cisis.h	2491;"	d
+ZANE	cisis.h	2744;"	d
+ZANF	cisis.h	2489;"	d
+ZANF	cisis.h	2741;"	d
+ZANG	cisis.h	2488;"	d
+ZANG	cisis.h	2740;"	d
+ZANN	cisis.h	2486;"	d
+ZANN	cisis.h	2738;"	d
+ZANN	cisis.h	2849;"	d
+ZANP	cisis.h	2490;"	d
+ZANP	cisis.h	2743;"	d
+ZASS	cisis.h	2493;"	d
+ZASS	cisis.h	2745;"	d
+ZLDV	cisis.h	2494;"	d
+ZLDV	cisis.h	2746;"	d
+ZLDV	cisis.h	2850;"	d
+ZORX	cisis.h	2484;"	d
+ZORX	cisis.h	2736;"	d
+ZORX	cisis.h	2847;"	d
+ZPDL	cisis.h	2852;"	d
+ZPFX	cisis.h	2495;"	d
+ZPFX	cisis.h	2851;"	d
+ZQUA	cisis.h	2496;"	d
+ZQUA	cisis.h	2747;"	d
+ZTREE	cisis.h	218;"	d
+ZTREE	cisis.h	253;"	d
+zzzzzz	cisis.h	/^   zzzzzz$/;"	e	enum:ins

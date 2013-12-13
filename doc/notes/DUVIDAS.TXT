@@ -1,0 +1,7 @@
+- detalhar o tamanho do registro de controle e o que tem dentro dele
+- detalhar que valores possiveis podem existir dentro do registro
+  de status (encontrei 48 - o que significa (alem de deletado?))
+- considerando as caches de disco e sistemas de arquivo baseados
+  em Inodes, a organizacao em blocos de 512 bytes nao faz mais sentido.
+  Nao seria melhor remodelar o sistema de armazenamento ?
+  (fazer proposta)

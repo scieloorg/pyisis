@@ -1,0 +1,19 @@
+Calculo do XREF pointer
+
+#if DBXMSTXL (extended .mst capacity)
+
+                      2048          0
+    *comb = xrftiv / (XRXDIVIDE>>DBXmstxl);
+
+    *comp = xrftiva & (XRXMASK>>DBXmstxl);
+    *comp = *comp << DBXmstxl;
+    recxrefn = xrftiva & (XRXMASKN>>DBXmstxl);
+    recxrefm = xrftiva & (XRXMASKU>>DBXmstxl);
+    recxrefn = recxrefn<<DBXmstxl; /* 1024 */
+    recxrefm = recxrefm<<DBXmstxl; /*  512 */
+#else
+    *comb = xrftiv / XRXDIVIDE;
+    *comp = xrftiva & XRXMASK;
+    recxrefn = xrftiva & XRXMASKN;
+    recxrefm = xrftiva & XRXMASKU;
+#endif

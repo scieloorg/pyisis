@@ -1,0 +1,30 @@
+BODY {
+	margin: 0px;
+	background: #ECF3F3 url(top.jpg) top left repeat-x;	;
+	color: #555;
+}
+
+h1 {
+margin-left: 1em;
+}
+
+h1 a {
+    text-decoration: none;
+    border-bottom: 2px dotted #555;
+    color: #555;
+}
+
+h1 a:visited{
+    color: #555;
+}
+
+.actionlet {
+background-color: #e4eded;
+margin: 1em 2em 0 3em;
+font-size: 12pt;
+font-family: Verdana, Helvetica;
+border: 1px solid #b1c1c1;
+padding: 1em;
+width: auto;
+overflow: auto;
+}

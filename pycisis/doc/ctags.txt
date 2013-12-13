@@ -1,0 +1,316 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+CIDBX_CISISX_SOURCE	src/cidbx.c	272;"	d	file:
+CIDBX_SOURCE	src/cidbx.c	19;"	d	file:
+CIREC_SOURCE	src/cirec.c	7;"	d	file:
+CIUPD_CISISX_SOURCE	src/ciupd.c	82;"	d	file:
+CLOSE	src/cidbx.c	544;"	f
+CNVTRACE	src/cidbx.c	98;"	d	file:
+CORELEFT	src/cigiz.c	1529;"	d	file:
+CORELEFT	src/cigiz.c	95;"	d	file:
+ConvertBuffer	src/cidbx.c	1478;"	f
+ConvertCNT_REC	src/cidbx.c	1457;"	f
+ConvertIFP_BLKCTL	src/cidbx.c	1497;"	f
+ConvertIFP_PSTHDR	src/cidbx.c	1527;"	f
+ConvertL01_REC	src/cidbx.c	1386;"	f
+ConvertL02_REC	src/cidbx.c	1316;"	f
+ConvertMST_CTLSTRUCT	src/cidbx.c	1196;"	f
+ConvertMST_DIR	src/cidbx.c	1250;"	f
+ConvertMST_LEADER	src/cidbx.c	1216;"	f
+ConvertN01_REC	src/cidbx.c	1422;"	f
+ConvertN02_REC	src/cidbx.c	1352;"	f
+ConvertXRF_PTR	src/cidbx.c	1282;"	f
+ConvertXRF_REC	src/cidbx.c	1296;"	f
+DBGTRACE	src/cidbx.c	101;"	d	file:
+DBXSTRU	src/cidbx.c	277;"	f	class:DBXSTRU
+DBXTRAC0	src/cidbx.c	95;"	d	file:
+DBXTRAC1	src/cidbx.c	96;"	d	file:
+DBXTRAC2	src/cidbx.c	97;"	d	file:
+DBXTRACE	src/cidbx.c	100;"	d	file:
+DBXTRACw	src/cidbx.c	94;"	d	file:
+ErrorObject	src/cisismodule.c	7;"	v	file:
+FLDTRACE	src/cirec.c	945;"	d	file:
+GETCHAR	src/cigiz.c	1000;"	d	file:
+GETCHAR	src/cigiz.c	1532;"	d	file:
+GETCHAR	src/cigiz.c	21;"	d	file:
+GETCHAR	src/cigiz.c	23;"	d	file:
+GETCHAR	src/cigiz.c	683;"	d	file:
+GETCHAR	src/cigiz.c	996;"	d	file:
+GETX	src/cigiz.c	998;"	d	file:
+INCPRCCX	src/ciupd.c	21;"	d	file:
+INCPRECX	src/ciupd.c	17;"	d	file:
+INCPROCX	src/ciupd.c	12;"	d	file:
+INCPROCXT	src/ciupd.c	13;"	d	file:
+INCPRSSX	src/ciupd.c	25;"	d	file:
+KEEPDBX	src/ciupd.c	1497;"	d	file:
+MAYBE	src/ciupd.c	518;"	d	file:
+MAYBE	src/ciupd.c	923;"	d	file:
+MULTRACE	src/ciupd.c	72;"	d	file:
+NEVER	src/ciupd.c	517;"	d	file:
+NEVER	src/ciupd.c	922;"	d	file:
+NO_IREC	src/cirec.c	62;"	d	file:
+NO_IREC	src/ciupd.c	87;"	d	file:
+PROCG	src/ciupd.c	1630;"	d	file:
+PROCXCLPSREC	src/ciupd.c	1513;"	d	file:
+PROCXDECOREC	src/ciupd.c	1510;"	d	file:
+PROCXDUMPREC	src/ciupd.c	1534;"	d	file:
+PROCXFSUPDATE	src/ciupd.c	1589;"	d	file:
+PROCXGIZMREC	src/ciupd.c	1506;"	d	file:
+PROCXIFPRESET	src/ciupd.c	1557;"	d	file:
+PROCXIFUPDATE	src/ciupd.c	1568;"	d	file:
+PROCXLOADREC	src/ciupd.c	1528;"	d	file:
+PROCXMARKREC	src/ciupd.c	1518;"	d	file:
+PROCXMFUPDATE	src/ciupd.c	1479;"	d	file:
+PROCXREADREC	src/ciupd.c	1540;"	d	file:
+PROCXSERVREC	src/ciupd.c	1412;"	d	file:
+PROCXSOCKREC	src/ciupd.c	30;"	d	file:
+PROCXSPLIREC	src/ciupd.c	1512;"	d	file:
+PROCXWRITEFILE	src/ciupd.c	1491;"	d	file:
+R2DIRlen	src/cigiz.c	958;"	d	file:
+R2DIRlen	src/cigiz.c	983;"	d	file:
+R2DIRpos	src/cigiz.c	957;"	d	file:
+R2DIRpos	src/cigiz.c	982;"	d	file:
+R2DIRtag	src/cigiz.c	956;"	d	file:
+R2DIRtag	src/cigiz.c	981;"	d	file:
+R2FIELDP	src/cigiz.c	960;"	d	file:
+R2FIELDP	src/cigiz.c	985;"	d	file:
+R2MFRbase	src/cigiz.c	951;"	d	file:
+R2MFRbase	src/cigiz.c	976;"	d	file:
+R2MFRdir	src/cigiz.c	954;"	d	file:
+R2MFRdir	src/cigiz.c	979;"	d	file:
+R2MFRmfbwb	src/cigiz.c	949;"	d	file:
+R2MFRmfbwb	src/cigiz.c	974;"	d	file:
+R2MFRmfbwp	src/cigiz.c	950;"	d	file:
+R2MFRmfbwp	src/cigiz.c	975;"	d	file:
+R2MFRmfn	src/cigiz.c	947;"	d	file:
+R2MFRmfn	src/cigiz.c	972;"	d	file:
+R2MFRmfrl	src/cigiz.c	948;"	d	file:
+R2MFRmfrl	src/cigiz.c	973;"	d	file:
+R2MFRnvf	src/cigiz.c	952;"	d	file:
+R2MFRnvf	src/cigiz.c	977;"	d	file:
+R2MFRstatus	src/cigiz.c	953;"	d	file:
+R2MFRstatus	src/cigiz.c	978;"	d	file:
+R2RDBname	src/cigiz.c	962;"	d	file:
+R2RDBname	src/cigiz.c	987;"	d	file:
+R2RECORD	src/cigiz.c	939;"	d	file:
+R2RECORD	src/cigiz.c	964;"	d	file:
+R2RECdbxp	src/cigiz.c	944;"	d	file:
+R2RECdbxp	src/cigiz.c	969;"	d	file:
+R2RECnbytes	src/cigiz.c	942;"	d	file:
+R2RECnbytes	src/cigiz.c	967;"	d	file:
+R2RECrc	src/cigiz.c	945;"	d	file:
+R2RECrc	src/cigiz.c	970;"	d	file:
+R2RECtype	src/cigiz.c	943;"	d	file:
+R2RECtype	src/cigiz.c	968;"	d	file:
+REATRACE	src/cirec.c	37;"	d	file:
+RECMSTFLUSH	src/cirec.c	345;"	d	file:
+RECSTRU	src/cirec.c	68;"	f	class:RECSTRU
+RECSTRU	src/cirec.c	79;"	f	class:RECSTRU
+RECTRACE	src/cirec.c	36;"	d	file:
+RERTRACE	src/cirec.c	38;"	d	file:
+RESTRACE	src/cirec.c	42;"	d	file:
+RESXRACE	src/cirec.c	41;"	d	file:
+REXTRACE	src/cirec.c	39;"	d	file:
+REYTRACE	src/cirec.c	40;"	d	file:
+RUCTRAC2	src/ciupd.c	61;"	d	file:
+RUCTRACE	src/ciupd.c	59;"	d	file:
+RUCTRACX	src/ciupd.c	60;"	d	file:
+RUFTRACE	src/ciupd.c	62;"	d	file:
+RUFxRACE	src/ciupd.c	68;"	d	file:
+RUGTRACE	src/ciupd.c	63;"	d	file:
+RUHTRACE	src/ciupd.c	64;"	d	file:
+RUITRACE	src/ciupd.c	65;"	d	file:
+RUJTRACE	src/ciupd.c	66;"	d	file:
+RUKTRACE	src/ciupd.c	67;"	d	file:
+RUUTRACE	src/ciupd.c	70;"	d	file:
+SHTEST	src/cidbx.c	103;"	d	file:
+SIZEOFTAG	src/cigiz.c	698;"	d	file:
+SIZEOFTAG	src/cigiz.c	926;"	d	file:
+STRIPMARKUP	src/ciupd.c	1466;"	d	file:
+TRACED1	src/cigiz.c	991;"	d	file:
+TRACED2	src/cigiz.c	992;"	d	file:
+TRACEDT	src/cigiz.c	994;"	d	file:
+TRACEDx	src/cigiz.c	993;"	d	file:
+TRACEG1	src/cigiz.c	16;"	d	file:
+TRACEG2	src/cigiz.c	17;"	d	file:
+TRACEG3	src/cigiz.c	18;"	d	file:
+TRACEGT	src/cigiz.c	19;"	d	file:
+TRACER0	src/cigiz.c	15;"	d	file:
+TRACXG1	src/cigiz.c	691;"	d	file:
+TRACXG3	src/cigiz.c	692;"	d	file:
+TRACYG1	src/cigiz.c	694;"	d	file:
+TRACYG3	src/cigiz.c	695;"	d	file:
+USE_INFO_SYS	src/ciupd.c	54;"	d	file:
+XTC	src/cidbx.c	547;"	d	file:
+b40trace	src/cidbx.c	130;"	v
+b50trace	src/cidbx.c	131;"	v
+b70trace	src/cidbx.c	132;"	v
+bitmask	src/cidbx.c	181;"	v
+bugadddel	src/cidbx.c	137;"	v
+cgitrace	src/cidbx.c	136;"	v
+cicopyr	src/cidbx.c	64;"	d	file:
+cipmstxl	src/cidbx.c	213;"	v
+cipmstxl	src/cidbx.c	215;"	v
+cipnetws	src/cidbx.c	208;"	v
+cisis_methods	src/cisismodule.c	23;"	v	file:
+cisis_read	src/cisismodule.c	10;"	f	file:
+cistderr	src/cidbx.c	220;"	v
+cistderr	src/cidbx.c	222;"	d	file:
+cnv_pcbuff	src/cidbx.c	111;"	v
+coreleft	src/cidbx.c	66;"	d	file:
+cx1extp	src/cidbx.c	194;"	v
+dbxcdcip	src/cidbx.c	228;"	v
+dbxcikey	src/cidbx.c	229;"	v
+dbxcipfp	src/cidbx.c	227;"	v
+dbxcipok	src/cidbx.c	230;"	v
+dbxewlrc	src/cidbx.c	170;"	v
+dbxflock	src/cidbx.c	30;"	d	file:
+dbxfloff	src/cidbx.c	154;"	v
+dbxfloff	src/cidbx.c	157;"	v
+dbxfloop	src/cidbx.c	161;"	v
+dbxfloop	src/cidbx.c	165;"	v
+dbxflsiz	src/cidbx.c	155;"	v
+dbxflsiz	src/cidbx.c	158;"	v
+dbxflush	src/cidbx.c	42;"	d	file:
+dbxgiexn	src/cidbx.c	256;"	v
+dbxgiext	src/cidbx.c	235;"	v
+dbxgikey	src/cidbx.c	233;"	v
+dbxiloop	src/cidbx.c	163;"	v
+dbxiloop	src/cidbx.c	167;"	v
+dbxinvmp	src/cidbx.c	51;"	d	file:
+dbxopt_errno	src/cidbx.c	140;"	v
+dbxopt_fatal	src/cidbx.c	139;"	v
+dbxopt_iflush	src/cidbx.c	144;"	v
+dbxopt_mclose	src/cidbx.c	143;"	v
+dbxopt_mflush	src/cidbx.c	142;"	v
+dbxopt_ordwr	src/cidbx.c	175;"	v
+dbxopt_ordwr	src/cidbx.c	177;"	v
+dbxordwr	src/cidbx.c	179;"	v
+dbxsleep	src/cidbx.c	171;"	v
+dbxtrace	src/cidbx.c	126;"	v
+dbxuclos	src/cidbx.c	169;"	v
+dbxulock	src/cidbx.c	31;"	d	file:
+dbxwlock	src/cidbx.c	33;"	d	file:
+dbxwloop	src/cidbx.c	162;"	v
+dbxwloop	src/cidbx.c	166;"	v
+dectrace	src/cidbx.c	128;"	v
+fieldn	src/cirec.c	15;"	d	file:
+fieldx	src/cirec.c	16;"	d	file:
+fldupdat	src/cirec.c	26;"	d	file:
+fldupdat	src/ciupd.c	1428;"	f
+fmt_fsiz	src/cidbx.c	150;"	v
+fmttrace	src/cidbx.c	133;"	v
+fpc_buffer	src/cidbx.c	185;"	v
+fpc_fd	src/cidbx.c	183;"	v
+fpc_left	src/cidbx.c	184;"	v
+fpcclose	src/cidbx.c	62;"	d	file:
+fpccreat	src/cidbx.c	60;"	d	file:
+fpcwrite	src/cidbx.c	61;"	d	file:
+freex	src/ciupd.c	1597;"	d	file:
+freex	src/ciupd.c	2105;"	d	file:
+fsttrace	src/cidbx.c	134;"	v
+gizmalloc	src/cigiz.c	30;"	f
+gizmread	src/cigiz.c	99;"	f
+initcisis	src/cisismodule.c	33;"	f
+invclose	src/cidbx.c	52;"	d	file:
+invflush	src/cidbx.c	53;"	d	file:
+ix1extp	src/cidbx.c	198;"	v
+ix1extp	src/cidbx.c	201;"	v
+iy0extp	src/cidbx.c	204;"	v
+labs	src/cidbx.c	69;"	d	file:
+lastrecread	src/cirec.c	46;"	v
+leafunibuff	src/cidbx.c	118;"	v
+lx12extp	src/cidbx.c	197;"	v
+lx12extp	src/cidbx.c	200;"	v
+lxbsiz	src/cidbx.c	189;"	v
+memicmp	src/cidbx.c	81;"	d	file:
+mstclose	src/cidbx.c	43;"	d	file:
+mstflush	src/cidbx.c	44;"	d	file:
+mstsetup	src/cirec.c	17;"	d	file:
+multrace	src/cidbx.c	135;"	v
+mx1extp	src/cidbx.c	191;"	v
+nocc	src/cirec.c	14;"	d	file:
+nodeunibuff	src/cidbx.c	115;"	v
+nx12extp	src/cidbx.c	195;"	v
+nxbsiz	src/cidbx.c	188;"	v
+partrace	src/cidbx.c	125;"	v
+pattalloc	src/cigiz.c	61;"	f
+rec_maxmfrl	src/cidbx.c	146;"	v
+rec_mstload	src/cidbx.c	147;"	v
+recallok	src/cirec.c	10;"	d	file:
+recdecex	src/cigiz.c	1239;"	f
+recdecod	src/cigiz.c	1005;"	f
+recgizmo	src/cigiz.c	474;"	f
+recinit	src/cirec.c	110;"	f
+recisis0_m	src/ciupd.c	76;"	v
+recisis0_s	src/ciupd.c	77;"	v
+record	src/cirec.c	11;"	d	file:
+recread	src/cirec.c	12;"	d	file:
+recreadb	src/cirec.c	55;"	v
+recreadl	src/cirec.c	52;"	v
+recreadp	src/cirec.c	56;"	v
+rectrace	src/cidbx.c	127;"	v
+recunlck	src/cirec.c	19;"	d	file:
+recunlck	src/ciupd.c	95;"	f
+recupdat	src/cirec.c	22;"	d	file:
+recupdat	src/ciupd.c	339;"	f
+recwmast	src/cirec.c	24;"	d	file:
+recwmast	src/ciupd.c	934;"	f
+recwrite	src/cirec.c	23;"	d	file:
+recwrite	src/ciupd.c	464;"	f
+recwxref	src/cirec.c	25;"	d	file:
+recwxref	src/ciupd.c	1091;"	f
+recxpn00	src/cigiz.c	818;"	f
+recxpnmo	src/cigiz.c	702;"	f
+recxref	src/cirec.c	13;"	d	file:
+recxrefb	src/cirec.c	48;"	v
+recxrefm	src/cirec.c	51;"	v
+recxrefn	src/cirec.c	50;"	v
+recxrefp	src/cirec.c	49;"	v
+shtest	src/cidbx.c	107;"	v	file:
+strrev	src/cidbx.c	78;"	d	file:
+strstr	src/cidbx.c	72;"	d	file:
+strupr	src/cidbx.c	75;"	d	file:
+trm_invload	src/cidbx.c	148;"	v
+trmtrace	src/cidbx.c	129;"	v
+upmF1	src/ciupd.c	1520;"	d	file:
+upmF2	src/ciupd.c	1521;"	d	file:
+upmF3	src/ciupd.c	1522;"	d	file:
+upmF4	src/ciupd.c	1523;"	d	file:
+vlex	src/cidbx.c	187;"	v
+xRecAlloc	src/cirec.c	1266;"	f	class:RECSTRU
+xRecord	src/cirec.c	1259;"	f	class:RECSTRU
+xcicopyr	src/cidbx.c	1054;"	f	class:DBXSTRU
+xcoreleft	src/cidbx.c	817;"	f	class:DBXSTRU
+xdbxflock	src/cidbx.c	294;"	f	class:DBXSTRU
+xdbxflush	src/cidbx.c	465;"	f	class:DBXSTRU
+xdbxinvmp	src/cidbx.c	659;"	f	class:DBXSTRU
+xdbxulock	src/cidbx.c	349;"	f	class:DBXSTRU
+xdbxwlock	src/cidbx.c	407;"	f	class:DBXSTRU
+xfieldn	src/cirec.c	992;"	f	class:RECSTRU
+xfieldx	src/cirec.c	1042;"	f	class:RECSTRU
+xfpcclose	src/cidbx.c	989;"	f	class:DBXSTRU
+xfpccreat	src/cidbx.c	1019;"	f	class:DBXSTRU
+xfpcwrite	src/cidbx.c	936;"	f	class:DBXSTRU
+xgetx	src/cigiz.c	999;"	v
+xinvclose	src/cidbx.c	693;"	f	class:DBXSTRU
+xinvflush	src/cidbx.c	733;"	f	class:DBXSTRU
+xlabs	src/cidbx.c	836;"	f	class:DBXSTRU
+xmemicmp	src/cidbx.c	911;"	f	class:DBXSTRU
+xmstclose	src/cidbx.c	573;"	f	class:DBXSTRU
+xmstflush	src/cidbx.c	594;"	f	class:DBXSTRU
+xmstsetup	src/cirec.c	1092;"	f	class:RECSTRU
+xnocc	src/cirec.c	948;"	f	class:RECSTRU
+xrecalloc	src/cirec.c	129;"	f	class:RECSTRU
+xrecord	src/cirec.c	215;"	f	class:RECSTRU
+xrecread	src/cirec.c	355;"	f	class:RECSTRU
+xrecxref	src/cirec.c	785;"	f	class:RECSTRU
+xstrrev	src/cidbx.c	888;"	f	class:DBXSTRU
+xstrstr	src/cidbx.c	849;"	f	class:DBXSTRU
+xstrupr	src/cidbx.c	873;"	f	class:DBXSTRU
+xx1extp	src/cidbx.c	192;"	v
+~RECSTRU	src/cirec.c	100;"	f	class:RECSTRU

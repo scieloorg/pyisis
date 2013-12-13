@@ -1,0 +1,70 @@
+
+fonte: http://www.jcp.org/en/jsr/detail?id=170
+
+JSR-170
+=======
+
+This API will focus on transactional read/write access, binary content
+(stream operations), textual  content, full-text searching, filtering,
+observation, versioning, handling of hard and soft structured content.
+
+
+
+fonte: http://en.wikipedia.org/wiki/ISO_2709
+
+Intro
+=====
+
+- developed in the 1960 
+- Henriette Avram of the Library of Congress
+- ANSI standard Z39.2
+- latest edition of that standard is Z39.2-1994 (ISSN: 1041-5653)
+- 2005 the current standard is ISO 2709:1996
+
+
+Basic Structure
+===============
+
+A ISO 2709 record has three sections:
+
+    * Leader - the first 24 characters of the record. This is the only
+    * portion  of the  record  that  is fixed  in  length. The  Leader
+    * includes  the record  length and  the base  address of  the data
+    * contained in the record. It also has data elements that indicate
+    * how  many  characters  are  used  for  indicators  and  subfield
+    * codes. (See  Variable Fields,  below) Directory -  the directory
+    * provides the entry positions to  the fields in the record, along
+    * with the  field tags.  Each  Directory entry has three  parts: o
+    * Field tag (3 characters) o  Length of the field (4 characters) o
+    * Starting character position of the field (5 characters) Data - a
+    * string containing all field and subfield data in the record.
+ 
+
+
+Fonte: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-19651999000300002
+
+A ISO se  preocupa em apresentar uma estrutura  generalizada, ou seja,
+um arcabouço projetado especialmente para a comunicação entre sistemas
+de  processamento   de  dados,  e   não  para  uso  como   formato  de
+processamento dentro  dos sistemas. Da  forma como foi  estruturada, é
+item  indispensável  que  deve  ser contemplado  pelos  produtores  de
+softwares   para  automação   de  bibliotecas,   pois   possibilita  a
+padronização  entre  registros  no  que  se refere  à  estrutura  para
+intercâmbio de  informações que, do ponto  de vista técnico,  é a base
+filosófica  que  norteia,  direciona  e  fundamenta as  ações  de  uma
+biblioteca. Este preceito legitima o  uso desta norma nos processos de
+automação.
+
+
+
+ISIS record example
+===================
+tag=24 data=<La> Mise en place de politiques éducatives: rôle et méthodologie de la carte scolaire tag=26 data=^aParis^bPresses de l'Unesco ^bNathan^aBruxelles^bEditions Labor^c1976 tag=30 data=^a325 p.^billus., maps, plan^c22 cm. tag=50 data=(Education 2000). Incl. bibl. tag=69 data=<school mapping><educational planning><methodology><primary schools><secondary schools> - <definitions><pilot projects><case studies><educational goals><compulsory education><primary education><educational reform><educational needs><educational environment><rural areas><urban areas><educational statistics><enrolment><educational costs> tag=70 data=Hallak, Jacques tag=71 data=IIEP tag=76 data=El Mapa escolar: un instrumento de la política de educación^zspa
+
+Experimentacao com mx
+=====================
+
+mx iso=cds.iso
+mx cds +control
+mx cds now pft=mfn/
+mx cds pft=v24## -all now | more

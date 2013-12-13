@@ -1,0 +1,1676 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+ABNORMAL	includes/cisis.h	2132;"	d
+ACCLEVEL	includes/cisis.h	2526;"	d
+ACCLEVEL	includes/cisis.h	2758;"	d
+ACCLEVEL	includes/cisis.h	2863;"	d
+ACTIVE	includes/cisis.h	1578;"	d
+ALLOC	includes/cisis.h	388;"	d
+ALLOC	includes/cisis.h	401;"	d
+ALLOC	includes/cisis.h	409;"	d
+ALLOC	includes/cisis.h	419;"	d
+ALLOC	includes/cisis.h	429;"	d
+ALLOC	includes/cisis.h	439;"	d
+ALLOMAXV	includes/cisis.h	377;"	d
+ALLOMAXV	includes/cisis.h	387;"	d
+ALLOMAXV	includes/cisis.h	397;"	d
+ALLOMAXV	includes/cisis.h	399;"	d
+ALLOMAXV	includes/cisis.h	408;"	d
+ALLOMAXV	includes/cisis.h	421;"	d
+ALLOMAXV	includes/cisis.h	431;"	d
+ALLOMAXV	includes/cisis.h	441;"	d
+ALLONULL	includes/cisis.h	379;"	d
+ALLONULL	includes/cisis.h	390;"	d
+ALLONULL	includes/cisis.h	403;"	d
+ALLONULL	includes/cisis.h	411;"	d
+ALLONULL	includes/cisis.h	422;"	d
+ALLONULL	includes/cisis.h	432;"	d
+ALLONULL	includes/cisis.h	442;"	d
+ALLOPARM	includes/cisis.h	378;"	d
+ALLOPARM	includes/cisis.h	389;"	d
+ALLOPARM	includes/cisis.h	402;"	d
+ALLOPARM	includes/cisis.h	410;"	d
+ALLOPARM	includes/cisis.h	420;"	d
+ALLOPARM	includes/cisis.h	430;"	d
+ALLOPARM	includes/cisis.h	440;"	d
+ANSI	includes/cisis.h	99;"	d
+B4DELADD	includes/cisis.h	2786;"	d
+B4EDIT1	includes/cisis.h	2787;"	d
+B4UPLEN	includes/cisis.h	2785;"	d
+B5DELADD	includes/cisis.h	2890;"	d
+B5EDIT1	includes/cisis.h	2891;"	d
+B5RE_1	includes/cisis.h	2899;"	d
+B5RE_10	includes/cisis.h	2903;"	d
+B5RE_18	includes/cisis.h	2904;"	d
+B5RE_2	includes/cisis.h	2900;"	d
+B5RE_28	includes/cisis.h	2905;"	d
+B5RE_3	includes/cisis.h	2901;"	d
+B5RE_4	includes/cisis.h	2902;"	d
+B5RE_53	includes/cisis.h	2898;"	d
+B5RE_PFX	includes/cisis.h	2906;"	d
+B5RE_SET	includes/cisis.h	2907;"	d
+B5RE_X1	includes/cisis.h	2897;"	d
+B5RE_X2	includes/cisis.h	2895;"	d
+B5RE_X3	includes/cisis.h	2896;"	d
+B5UPLEN	includes/cisis.h	2889;"	d
+B6HITBUF	includes/cisis.h	2917;"	t	typeref:struct:b6hitbuf
+B7DELADD	includes/cisis.h	2529;"	d
+B7EDIT1	includes/cisis.h	2530;"	d
+B7EE_PFX	includes/cisis.h	2549;"	d
+B7EE_X2	includes/cisis.h	2548;"	d
+B7HITBUF	includes/cisis.h	2588;"	t	typeref:struct:b7hitbuf
+B7HITBUF	includes/cisis.h	2607;"	t	typeref:struct:b7hitbuf
+B7HITLIST	includes/cisis.h	2592;"	t	typeref:struct:b7hitlist
+B7HITLISTLONG	includes/cisis.h	2577;"	d
+B7HITLISTSH	includes/cisis.h	2596;"	t	typeref:struct:b7hitlistshort
+B7HITLISTSHORT	includes/cisis.h	2578;"	d
+B7RE_1	includes/cisis.h	2538;"	d
+B7RE_10	includes/cisis.h	2542;"	d
+B7RE_18	includes/cisis.h	2543;"	d
+B7RE_2	includes/cisis.h	2539;"	d
+B7RE_28	includes/cisis.h	2544;"	d
+B7RE_3	includes/cisis.h	2540;"	d
+B7RE_4	includes/cisis.h	2541;"	d
+B7RE_53	includes/cisis.h	2537;"	d
+B7RE_PFX	includes/cisis.h	2545;"	d
+B7RE_SET	includes/cisis.h	2546;"	d
+B7RE_X1	includes/cisis.h	2536;"	d
+B7RE_X2	includes/cisis.h	2534;"	d
+B7RE_X3	includes/cisis.h	2535;"	d
+B7UPLEN	includes/cisis.h	2528;"	d
+BAD_ALLOC	includes/cisis.h	366;"	d
+BAD_ALLOC	includes/cisis.h	373;"	d
+BIGREC	includes/cisis.h	164;"	d
+BITSTRING	includes/cisis.h	1895;"	d
+BRME	includes/cisis.h	52;"	d
+BRMXCPU	includes/cisis.h	53;"	d
+BUFFUPL	includes/cisis.h	2207;"	d
+BX0CDROM	includes/cisis.h	2728;"	d
+BX0CDROM	includes/cisis.h	2838;"	d
+BY8RMASK	includes/cisis.h	1158;"	d
+BY8SHIFT	includes/cisis.h	1157;"	d
+C1	includes/cisis.h	1880;"	d
+C1	includes/cisis.h	1891;"	d
+C2	includes/cisis.h	1881;"	d
+C2	includes/cisis.h	1892;"	d
+CDCS4320	includes/cisis.h	54;"	d
+CDMDL	includes/cisis.h	161;"	d
+CGIClass	includes/cisis.h	3480;"	v	typeref:class:_YOURCLASS
+CHAR	includes/cisis.h	338;"	d
+CIAOTWCT	includes/cisisx.c	362;"	d	file:
+CIAPI	includes/cisis.h	146;"	d
+CIB64	includes/cisis.h	158;"	d
+CIB71	includes/cisis.h	155;"	d
+CIB7HITLIST	includes/cisis.h	2469;"	d
+CIB7TMPNULL	includes/cisis.h	2472;"	d
+CICGI	includes/cisis.h	170;"	d
+CICGI_ENTRY	includes/cisis.h	3477;"	t	typeref:struct:__anon5
+CICGI_MAXENTRIES	includes/cisis.h	3465;"	d
+CICGI_MAXENTRIES	includes/cisis.h	3470;"	d
+CICGI_NAMESIZE	includes/cisis.h	3464;"	d
+CICGI_NAMESIZE	includes/cisis.h	3469;"	d
+CICGI_VALSIZE	includes/cisis.h	3463;"	d
+CICGI_VALSIZE	includes/cisis.h	3468;"	d
+CICGI_WORDSIZE	includes/cisis.h	3466;"	d
+CICGI_WORDSIZE	includes/cisis.h	3471;"	d
+CICPP	includes/cisis.h	62;"	d
+CICPP	includes/cisis.h	65;"	d
+CICPP	includes/cisis.h	68;"	d
+CICPP	includes/cisis.h	71;"	d
+CIFFI	includes/cisis.h	179;"	d
+CIIFLFIX	includes/cisis.h	3337;"	d
+CIIFU	includes/cisis.h	3293;"	v	typeref:class:_YOURCLASS
+CIMPL	includes/cisis.h	458;"	d
+CIMPL	includes/cisis.h	460;"	d
+CIMPL	includes/cisis.h	463;"	d
+CINEWCPP	includes/cisis.h	362;"	d
+CIPAR	includes/cisis.h	232;"	d
+CIPAR	includes/cisis.h	265;"	d
+CIPARIC	includes/cisis.h	233;"	d
+CIPARIC	includes/cisis.h	266;"	d
+CIREAD	includes/cisis.h	475;"	d
+CIREAD	includes/cisis.h	488;"	d
+CIREAD	includes/cisis.h	496;"	d
+CIREAD	includes/cisis.h	502;"	d
+CIREAD	includes/cisis.h	519;"	d
+CISISX	includes/cisis.h	592;"	v	typeref:class:_YOURCLASS
+CISIS_H	includes/cisis.h	28;"	d
+CIWRITE	includes/cisis.h	476;"	d
+CIWRITE	includes/cisis.h	489;"	d
+CIWRITE	includes/cisis.h	497;"	d
+CIWRITE	includes/cisis.h	503;"	d
+CIWRITE	includes/cisis.h	520;"	d
+CIWTF	includes/cisis.h	186;"	d
+CIWTF	includes/cisis.h	188;"	d
+CI_XMLELEM	includes/cisis.h	3033;"	d
+CLOSE	includes/cisis.h	474;"	d
+CLOSE	includes/cisis.h	487;"	d
+CLOSE	includes/cisis.h	495;"	d
+CLOSE	includes/cisis.h	501;"	d
+CLOSE	includes/cisis.h	518;"	d
+CLOSFCHR	includes/cisis.h	2310;"	d
+CLOSFCHR	includes/cisis.h	2314;"	d
+CLOSFCHR	includes/cisis.h	2318;"	d
+CNBSIZ	includes/cisis.h	1935;"	d
+CNBUNI	includes/cisis.h	1943;"	d
+CNBUNI	includes/cisis.h	1949;"	d
+CNLI	includes/cisis.h	216;"	d
+CNLI	includes/cisis.h	252;"	d
+CNSTRU	includes/cisis.h	728;"	t	typeref:struct:cnstru
+CNTK	includes/cisis.h	708;"	d
+CNTN	includes/cisis.h	707;"	d
+CNTSTRING	includes/cisis.h	1897;"	d
+CNV_PCBINUM	includes/cisis.h	57;"	d
+CNV_PCFILES	includes/cisis.h	56;"	d
+CONST	includes/cisis.h	537;"	d
+CONST	includes/cisis.h	539;"	d
+CORELEFT	includes/cisis.h	392;"	d
+CORELEFT	includes/cisis.h	405;"	d
+CORELEFT	includes/cisis.h	413;"	d
+CORELEFT	includes/cisis.h	424;"	d
+CORELEFT	includes/cisis.h	434;"	d
+CORELEFT	includes/cisis.h	444;"	d
+CREAT	includes/cisis.h	472;"	d
+CREAT	includes/cisis.h	481;"	d
+CREAT	includes/cisis.h	493;"	d
+CREAT	includes/cisis.h	499;"	d
+CREAT	includes/cisis.h	516;"	d
+CRLF	includes/cisis.h	103;"	d
+CRLF	includes/cisis.h	105;"	d
+DBIci_offset	includes/cisis.h	1044;"	d
+DBIcl_offset	includes/cisis.h	1043;"	d
+DBIcn	includes/cisis.h	1036;"	d
+DBIcn_offset	includes/cisis.h	1042;"	d
+DBIcnopn	includes/cisis.h	1019;"	d
+DBIcnopw	includes/cisis.h	1029;"	d
+DBIifl1p	includes/cisis.h	1015;"	d
+DBIifl2p	includes/cisis.h	1016;"	d
+DBIiflxn	includes/cisis.h	1017;"	d
+DBIiflzx	includes/cisis.h	1018;"	d
+DBIifopn	includes/cisis.h	1025;"	d
+DBIifopn	includes/cisis.h	1027;"	d
+DBIifopv	includes/cisis.h	1035;"	d
+DBIifopw	includes/cisis.h	1034;"	d
+DBIiybasep	includes/cisis.h	1040;"	d
+DBIl1opn	includes/cisis.h	1022;"	d
+DBIl1opw	includes/cisis.h	1032;"	d
+DBIl2opn	includes/cisis.h	1023;"	d
+DBIl2opw	includes/cisis.h	1033;"	d
+DBIlybasep	includes/cisis.h	1039;"	d
+DBIn1opn	includes/cisis.h	1020;"	d
+DBIn1opw	includes/cisis.h	1030;"	d
+DBIn2opn	includes/cisis.h	1021;"	d
+DBIn2opw	includes/cisis.h	1031;"	d
+DBInx	includes/cisis.h	1037;"	d
+DBInybasep	includes/cisis.h	1038;"	d
+DBXMSTXL	includes/cisis.h	168;"	d
+DBXSTRU	includes/cisis.h	861;"	t
+DBXSTRU	includes/cisis.h	864;"	v	typeref:class:_YOURCLASS
+DBXSTRU	includes/cisis.h	916;"	t	typeref:struct:dbxstru
+DBXdelxx	includes/cisis.h	938;"	d
+DBXewlxx	includes/cisis.h	939;"	d
+DBXgicip	includes/cisis.h	928;"	d
+DBXiflush	includes/cisis.h	935;"	d
+DBXiflxx	includes/cisis.h	944;"	d
+DBXifmap	includes/cisis.h	943;"	d
+DBXiinit	includes/cisis.h	958;"	d
+DBXipadd	includes/cisis.h	963;"	d
+DBXipdel	includes/cisis.h	964;"	d
+DBXirang	includes/cisis.h	961;"	d
+DBXirecs	includes/cisis.h	962;"	d
+DBXitell	includes/cisis.h	960;"	d
+DBXitrac	includes/cisis.h	959;"	d
+DBXmclose	includes/cisis.h	934;"	d
+DBXmflush	includes/cisis.h	933;"	d
+DBXmsibp	includes/cisis.h	926;"	d
+DBXmsmfn	includes/cisis.h	942;"	d
+DBXmsopn	includes/cisis.h	921;"	d
+DBXmsopv	includes/cisis.h	924;"	d
+DBXmsopw	includes/cisis.h	923;"	d
+DBXmstxl	includes/cisis.h	931;"	d
+DBXmsyyp	includes/cisis.h	946;"	d
+DBXmxtmp	includes/cisis.h	940;"	d
+DBXname	includes/cisis.h	919;"	d
+DBXnetws	includes/cisis.h	937;"	d
+DBXvderp	includes/cisis.h	955;"	d
+DBXvgzrp	includes/cisis.h	948;"	d
+DBXxpn01	includes/cisis.h	951;"	d
+DBXxpn02	includes/cisis.h	952;"	d
+DBXxribp	includes/cisis.h	925;"	d
+DBXxropn	includes/cisis.h	920;"	d
+DBXxropw	includes/cisis.h	922;"	d
+DBXxryyp	includes/cisis.h	945;"	d
+DECOTAG1	includes/cisis.h	1687;"	d
+DECOTAG2	includes/cisis.h	1688;"	d
+DECOTAG3	includes/cisis.h	1689;"	d
+DECOTAG4	includes/cisis.h	1690;"	d
+DELETED	includes/cisis.h	1579;"	d
+DELOCK	includes/cisis.h	1563;"	d
+DIRSTRU	includes/cisis.h	1259;"	t	typeref:struct:dir_entry
+DIRlen	includes/cisis.h	1416;"	d
+DIRlen	includes/cisis.h	1441;"	d
+DIRpos	includes/cisis.h	1415;"	d
+DIRpos	includes/cisis.h	1440;"	d
+DIRtag	includes/cisis.h	1414;"	d
+DIRtag	includes/cisis.h	1439;"	d
+DISTRACE	includes/cisis.h	2617;"	d
+DOS32BITS	includes/cisis.h	42;"	d
+ERRTRACE	includes/cisis.h	2837;"	d
+EWLOCK	includes/cisis.h	1565;"	d
+FATRAP	includes/cisis.h	173;"	d
+FATRAP	includes/cisis.h	175;"	d
+FFI	includes/cisis.h	347;"	d
+FFI	includes/cisis.h	350;"	d
+FIELDP	includes/cisis.h	1549;"	d
+FLDUPXB5	includes/cisis.h	2864;"	d
+FMTSTRU	includes/cisis.h	3109;"	v	typeref:class:_YOURCLASS
+FMT_CODE	includes/cisis.h	3113;"	t
+FMT_CODE	includes/cisis.h	3119;"	t	typeref:struct:lista
+FMT_CODX	includes/cisis.h	3167;"	d
+FMT_CODX	includes/cisis.h	3169;"	d
+FMT_CODX	includes/cisis.h	3172;"	d
+FORCE	includes/cisis.h	1566;"	d
+FPCBSIZ	includes/cisis.h	1163;"	d
+FREE	includes/cisis.h	391;"	d
+FREE	includes/cisis.h	404;"	d
+FREE	includes/cisis.h	412;"	d
+FREE	includes/cisis.h	423;"	d
+FREE	includes/cisis.h	433;"	d
+FREE	includes/cisis.h	443;"	d
+FSTERR1	includes/cisis.h	3196;"	d
+FSTERR2	includes/cisis.h	3197;"	d
+FSTERR3	includes/cisis.h	3198;"	d
+FSTERRF	includes/cisis.h	3199;"	d
+FSTSTRU	includes/cisis.h	3176;"	v	typeref:class:_YOURCLASS
+FST_CODE	includes/cisis.h	3184;"	t	typeref:struct:fst_code
+FULLNETS	includes/cisis.h	2203;"	d
+GCC	includes/cisis.h	34;"	d
+GEN_CORELEFT	includes/cisis.h	529;"	d
+GEN_ISI	includes/cisis.h	226;"	d
+GEN_ISI	includes/cisis.h	259;"	d
+GEN_LABS	includes/cisis.h	530;"	d
+GEN_MEMICMP	includes/cisis.h	534;"	d
+GEN_STRREV	includes/cisis.h	533;"	d
+GEN_STRSTR	includes/cisis.h	531;"	d
+GEN_STRUPR	includes/cisis.h	532;"	d
+GEN_UTL	includes/cisis.h	227;"	d
+GEN_UTL	includes/cisis.h	260;"	d
+GETACUCTAB	includes/cisisx.c	425;"	d	file:
+GIPAR	includes/cisis.h	235;"	d
+GIPAR	includes/cisis.h	238;"	d
+GIPAR	includes/cisis.h	241;"	d
+GIPAR	includes/cisis.h	267;"	d
+GIZMSTRU	includes/cisis.h	826;"	t	typeref:struct:gizmstru
+GIZMTAG1	includes/cisis.h	1638;"	d
+GIZMTAG11	includes/cisis.h	1640;"	d
+GIZMTAG2	includes/cisis.h	1639;"	d
+GIZMTAG21	includes/cisis.h	1641;"	d
+IFBSIZ	includes/cisis.h	684;"	d
+IFHDRINFOS	includes/cisis.h	694;"	d
+IFHDRSIZ	includes/cisis.h	1923;"	d
+IFLOADFUN	includes/cisis.h	3386;"	d
+IFMAXTIV	includes/cisis.h	687;"	d
+IFNVSPLT	includes/cisis.h	696;"	d
+IFPCTRL	includes/cisis.h	1913;"	t	typeref:struct:ifpctrl
+IFPHEAD	includes/cisis.h	1921;"	t	typeref:struct:ifphead
+IFPSTINFOS	includes/cisis.h	695;"	d
+IFPSTRU	includes/cisis.h	1902;"	t	typeref:struct:ifpstru
+IFPSTRU	includes/cisis.h	1907;"	t	typeref:struct:ifpstru
+IFPSTSIZ	includes/cisis.h	1933;"	d
+IFSHIFT	includes/cisis.h	685;"	d
+IFUPCLOS	includes/cisis.h	3282;"	d
+IFUPCORE	includes/cisis.h	3280;"	d
+IFUPDATE	includes/cisis.h	245;"	d
+IFUPDATE	includes/cisis.h	270;"	d
+IFUPDICT	includes/cisis.h	3277;"	d
+IFUPDXLD	includes/cisis.h	3285;"	d
+IFUPDXUP	includes/cisis.h	3284;"	d
+IFUPISIS	includes/cisis.h	3278;"	d
+IFUPWRIT	includes/cisis.h	3281;"	d
+INCLOADX	includes/cisisx.c	422;"	d	file:
+INFO	includes/cisis.h	691;"	d
+INFOSIZE	includes/cisis.h	693;"	d
+INT	includes/cisis.h	343;"	d
+INTELCPU	includes/cisis.h	51;"	d
+INVMAP	includes/cisis.h	815;"	t	typeref:struct:invmap
+INVXBOOL	includes/cisis.h	229;"	d
+INVXBOOL	includes/cisis.h	262;"	d
+IRXSTRU	includes/cisis.h	2795;"	t	typeref:struct:irxstru
+ISISUNISYS	includes/cisis.h	95;"	d
+ISISXL	includes/cisis.h	207;"	d
+ISISXL	includes/cisis.h	209;"	d
+ISISXL	includes/cisis.h	250;"	d
+ISISXL512	includes/cisis.h	213;"	d
+ISOBSIZ	includes/cisis.h	2405;"	d
+ISODSIZE	includes/cisis.h	2439;"	d
+ISODSTRU	includes/cisis.h	2436;"	t	typeref:struct:isodstru
+ISOHSIZE	includes/cisis.h	2438;"	d
+ISOHSTRU	includes/cisis.h	2430;"	t	typeref:struct:isohstru
+ISOLLEF	includes/cisis.h	2407;"	d
+ISOLSCP	includes/cisis.h	2408;"	d
+ISOXFS	includes/cisis.h	2409;"	d
+ISOXFSMARC	includes/cisis.h	2411;"	d
+ISOXGS	includes/cisis.h	2410;"	d
+ISOXGSMARC	includes/cisis.h	2412;"	d
+ISOXXSMARC	includes/cisis.h	2413;"	d
+ISO_2709	includes/cisis.h	2416;"	v	typeref:class:_YOURCLASS
+ISPACKED	includes/cisis.h	113;"	d
+ISPACKED	includes/cisis.h	117;"	d
+L0STRU	includes/cisis.h	746;"	t	typeref:struct:l0stru
+L1BSIZ	includes/cisis.h	1938;"	d
+L1BUNI	includes/cisis.h	1946;"	d
+L1BUNI	includes/cisis.h	1952;"	d
+L1IDXE	includes/cisis.h	1759;"	t	typeref:struct:l1idxe
+L1STRU	includes/cisis.h	1785;"	t	typeref:struct:l1stru
+L2BSIZ	includes/cisis.h	1939;"	d
+L2BUNI	includes/cisis.h	1947;"	d
+L2BUNI	includes/cisis.h	1953;"	d
+L2IDXE	includes/cisis.h	1774;"	t	typeref:struct:l2idxe
+L2STRU	includes/cisis.h	1796;"	t	typeref:struct:l2stru
+LE1	includes/cisis.h	637;"	d
+LE1	includes/cisis.h	644;"	d
+LE2	includes/cisis.h	639;"	d
+LE2	includes/cisis.h	641;"	d
+LE2	includes/cisis.h	645;"	d
+LEADER	includes/cisis.h	1299;"	d
+LEADER	includes/cisis.h	1303;"	d
+LEADER	includes/cisis.h	1306;"	d
+LEAFCNV_PCFILES	includes/cisis.h	1141;"	d
+LEAFCNV_PCFILES	includes/cisis.h	1143;"	d
+LIND	includes/cisis.h	200;"	d
+LIND	includes/cisis.h	202;"	d
+LIND	includes/cisis.h	251;"	d
+LINDLUX	includes/cisis.h	166;"	d
+LINK1	includes/cisis.h	3189;"	t	typeref:struct:link1
+LINK2	includes/cisis.h	3194;"	t	typeref:struct:link2
+LINK_7544KEY	includes/cisis.h	141;"	d
+LTXPAGES	includes/cisis.h	756;"	d
+LUXPAGES	includes/cisis.h	757;"	d
+LVXIYPBS	includes/cisis.h	759;"	d
+LVXPAGES	includes/cisis.h	758;"	d
+LXIDXE	includes/cisis.h	1810;"	t	typeref:struct:lxidxe
+LXL1STRU	includes/cisis.h	1822;"	t	typeref:struct:lxl1stru
+LXL2STRU	includes/cisis.h	1834;"	t	typeref:struct:lxl2stru
+LZHSIZE	includes/cisis.h	1860;"	d
+LZKASZ1	includes/cisis.h	1841;"	d
+LZKASZ2	includes/cisis.h	1842;"	d
+LZSTRU	includes/cisis.h	1858;"	t	typeref:struct:lzstru
+M0STRU	includes/cisis.h	1253;"	t	typeref:struct:m0stru
+M1	includes/cisis.h	1872;"	d
+M1	includes/cisis.h	1883;"	d
+M1STRU	includes/cisis.h	1271;"	t	typeref:struct:m1stru
+M1STRU	includes/cisis.h	1291;"	t	typeref:struct:m1stru
+M2	includes/cisis.h	1873;"	d
+M2	includes/cisis.h	1884;"	d
+M3	includes/cisis.h	1874;"	d
+M3	includes/cisis.h	1885;"	d
+M4	includes/cisis.h	1875;"	d
+M4	includes/cisis.h	1886;"	d
+MASTNETS	includes/cisis.h	2204;"	d
+MAXDECR	includes/cisis.h	843;"	d
+MAXDECX	includes/cisis.h	844;"	d
+MAXERRL	includes/cisis.h	2482;"	d
+MAXERRL	includes/cisis.h	2734;"	d
+MAXERRL	includes/cisis.h	2845;"	d
+MAXFATML	includes/cisis.h	1194;"	d
+MAXGIZR	includes/cisis.h	828;"	d
+MAXIFMRG	includes/cisis.h	3287;"	d
+MAXLIV	includes/cisis.h	698;"	d
+MAXMFRL	includes/cisis.h	618;"	d
+MAXMFRL	includes/cisis.h	622;"	d
+MAXMFRL	includes/cisis.h	625;"	d
+MAXMFRL	includes/cisis.h	627;"	d
+MAXMFRL	includes/cisis.h	631;"	d
+MAXNDBX	includes/cirun.h	13;"	d
+MAXNDBX	includes/cirun.h	15;"	d
+MAXNDBX	includes/cisis.h	87;"	d
+MAXNDBX	includes/cisis.h	89;"	d
+MAXNREC	includes/cirun.h	19;"	d
+MAXNTRM	includes/cirun.h	22;"	d
+MAXPATH	includes/cisisx.c	9;"	d	file:
+MAXPDLS	includes/cisis.h	2481;"	d
+MAXPDLS	includes/cisis.h	2733;"	d
+MAXPDLS	includes/cisis.h	2844;"	d
+MAXQUAL	includes/cisis.h	2480;"	d
+MAXQUAL	includes/cisis.h	2732;"	d
+MAXSAMEL	includes/cisis.h	711;"	d
+MAXUPDMFN	includes/cisis.h	664;"	d
+MAXVOPR	includes/cisis.h	2476;"	d
+MAXVOPR	includes/cisis.h	2478;"	d
+MAXVOPR	includes/cisis.h	2731;"	d
+MF0ctlmfn	includes/cisis.h	1395;"	d
+MF0ctlmfn	includes/cisis.h	1420;"	d
+MF0mfcxx1	includes/cisis.h	1401;"	d
+MF0mfcxx1	includes/cisis.h	1426;"	d
+MF0mfcxx2	includes/cisis.h	1402;"	d
+MF0mfcxx2	includes/cisis.h	1427;"	d
+MF0mfcxx3	includes/cisis.h	1403;"	d
+MF0mfcxx3	includes/cisis.h	1428;"	d
+MF0mftype	includes/cisis.h	1399;"	d
+MF0mftype	includes/cisis.h	1424;"	d
+MF0nxtmfb	includes/cisis.h	1397;"	d
+MF0nxtmfb	includes/cisis.h	1422;"	d
+MF0nxtmfn	includes/cisis.h	1396;"	d
+MF0nxtmfn	includes/cisis.h	1421;"	d
+MF0nxtmfp	includes/cisis.h	1398;"	d
+MF0nxtmfp	includes/cisis.h	1423;"	d
+MF0reccnt	includes/cisis.h	1400;"	d
+MF0reccnt	includes/cisis.h	1425;"	d
+MFNSTRING	includes/cisis.h	1896;"	d
+MFQSWDBN	includes/cisis.h	2511;"	d
+MFQSWDBN	includes/cisis.h	2767;"	d
+MFQSWDBN	includes/cisis.h	2873;"	d
+MFQSWQTY	includes/cisis.h	2512;"	d
+MFQSWQTY	includes/cisis.h	2768;"	d
+MFQSWQTY	includes/cisis.h	2874;"	d
+MFQSWTIM	includes/cisis.h	2510;"	d
+MFQSWTIM	includes/cisis.h	2766;"	d
+MFQSWTIM	includes/cisis.h	2872;"	d
+MFQTALCC	includes/cisis.h	2515;"	d
+MFQTALCC	includes/cisis.h	2771;"	d
+MFQTALCC	includes/cisis.h	2877;"	d
+MFQTASET	includes/cisis.h	2514;"	d
+MFQTASET	includes/cisis.h	2770;"	d
+MFQTASET	includes/cisis.h	2876;"	d
+MFQTDBN0	includes/cisis.h	2504;"	d
+MFQTDBN0	includes/cisis.h	2760;"	d
+MFQTDBN0	includes/cisis.h	2866;"	d
+MFQTHCUR	includes/cisis.h	2518;"	d
+MFQTHCUR	includes/cisis.h	2774;"	d
+MFQTHCUR	includes/cisis.h	2880;"	d
+MFQTHITS	includes/cisis.h	2517;"	d
+MFQTHITS	includes/cisis.h	2773;"	d
+MFQTHITS	includes/cisis.h	2879;"	d
+MFQTHITX	includes/cisis.h	2887;"	d
+MFQTHMEM	includes/cisis.h	2521;"	d
+MFQTHMEM	includes/cisis.h	2777;"	d
+MFQTHMEM	includes/cisis.h	2883;"	d
+MFQTHMFN	includes/cisis.h	2519;"	d
+MFQTHMFN	includes/cisis.h	2775;"	d
+MFQTHMFN	includes/cisis.h	2881;"	d
+MFQTHSIZ	includes/cisis.h	2520;"	d
+MFQTHSIZ	includes/cisis.h	2776;"	d
+MFQTHSIZ	includes/cisis.h	2882;"	d
+MFQTOBJ0	includes/cisis.h	2506;"	d
+MFQTOBJ0	includes/cisis.h	2762;"	d
+MFQTOBJ0	includes/cisis.h	2868;"	d
+MFQTQRY0	includes/cisis.h	2505;"	d
+MFQTQRY0	includes/cisis.h	2761;"	d
+MFQTQRY0	includes/cisis.h	2867;"	d
+MFQTSNAM	includes/cisis.h	2885;"	d
+MFQTXCTS	includes/cisis.h	2508;"	d
+MFQTXCTS	includes/cisis.h	2764;"	d
+MFQTXCTS	includes/cisis.h	2870;"	d
+MFQTXTAG	includes/cisis.h	2532;"	d
+MFQTXTAG	includes/cisis.h	2789;"	d
+MFQTXTAG	includes/cisis.h	2893;"	d
+MFQXHCNTx	includes/cisis.h	2782;"	d
+MFQXHMFNx	includes/cisis.h	2779;"	d
+MFQXHOCCx	includes/cisis.h	2781;"	d
+MFQXHTAGx	includes/cisis.h	2780;"	d
+MFRL_MAX	includes/cisis.h	348;"	d
+MFRL_MAX	includes/cisis.h	351;"	d
+MFRbase	includes/cisis.h	1409;"	d
+MFRbase	includes/cisis.h	1434;"	d
+MFRdir	includes/cisis.h	1412;"	d
+MFRdir	includes/cisis.h	1437;"	d
+MFRmfbwb	includes/cisis.h	1407;"	d
+MFRmfbwb	includes/cisis.h	1432;"	d
+MFRmfbwp	includes/cisis.h	1408;"	d
+MFRmfbwp	includes/cisis.h	1433;"	d
+MFRmfn	includes/cisis.h	1405;"	d
+MFRmfn	includes/cisis.h	1430;"	d
+MFRmfrl	includes/cisis.h	1406;"	d
+MFRmfrl	includes/cisis.h	1431;"	d
+MFRnvf	includes/cisis.h	1410;"	d
+MFRnvf	includes/cisis.h	1435;"	d
+MFRstatus	includes/cisis.h	1411;"	d
+MFRstatus	includes/cisis.h	1436;"	d
+MFUNION	includes/cisis.h	1316;"	t	typeref:union:mfunion
+MFUPDATE	includes/cisis.h	246;"	d
+MFUPDATE	includes/cisis.h	271;"	d
+MFX	includes/cisis.h	1418;"	d
+MFX	includes/cisis.h	1443;"	d
+MINLCHR	includes/cisis.h	1864;"	d
+MONONETS	includes/cisis.h	2202;"	d
+MPE	includes/cisis.h	45;"	d
+MS0ctlmfn	includes/cisis.h	2209;"	d
+MS0mfcxx1	includes/cisis.h	2215;"	d
+MS0mfcxx2	includes/cisis.h	2216;"	d
+MS0mfcxx3	includes/cisis.h	2217;"	d
+MS0mftype	includes/cisis.h	2213;"	d
+MS0nxtmfb	includes/cisis.h	2211;"	d
+MS0nxtmfn	includes/cisis.h	2210;"	d
+MS0nxtmfp	includes/cisis.h	2212;"	d
+MS0reccnt	includes/cisis.h	2214;"	d
+MS1base	includes/cisis.h	2231;"	d
+MS1dir	includes/cisis.h	2234;"	d
+MS1mfbwb	includes/cisis.h	2229;"	d
+MS1mfbwp	includes/cisis.h	2230;"	d
+MS1mfn	includes/cisis.h	2227;"	d
+MS1mfrl	includes/cisis.h	2228;"	d
+MS1nvf	includes/cisis.h	2232;"	d
+MS1status	includes/cisis.h	2233;"	d
+MSBSHIFT	includes/cisis.h	656;"	d
+MSBSIZ	includes/cisis.h	655;"	d
+MSC	includes/cisis.h	43;"	d
+MSDlen	includes/cisis.h	2238;"	d
+MSDpos	includes/cisis.h	2237;"	d
+MSDtag	includes/cisis.h	2236;"	d
+MSHbase	includes/cisis.h	2223;"	d
+MSHmfbwb	includes/cisis.h	2221;"	d
+MSHmfbwp	includes/cisis.h	2222;"	d
+MSHmfn	includes/cisis.h	2219;"	d
+MSHmfrl	includes/cisis.h	2220;"	d
+MSHnvf	includes/cisis.h	2224;"	d
+MSHstatus	includes/cisis.h	2225;"	d
+MSMFTMSG	includes/cisis.h	666;"	d
+MSMFTUSR	includes/cisis.h	665;"	d
+MSNVSPLT	includes/cisis.h	1300;"	d
+MSNVSPLT	includes/cisis.h	1304;"	d
+MSNVSPLT	includes/cisis.h	1307;"	d
+MSSTRU	includes/cisis.h	681;"	t	typeref:struct:msstru
+MST0FILL0XFF	includes/cisis.h	142;"	d
+MULTI	includes/cisis.h	244;"	d
+MULTI	includes/cisis.h	269;"	d
+MXFUN	includes/cisis.h	3383;"	d
+MYSFUN	includes/cisis.h	3391;"	d
+MYSFUN	includes/cisis.h	3395;"	d
+N0STRU	includes/cisis.h	735;"	t	typeref:struct:n0stru
+N1BSIZ	includes/cisis.h	1936;"	d
+N1BUNI	includes/cisis.h	1944;"	d
+N1BUNI	includes/cisis.h	1950;"	d
+N1IDXE	includes/cisis.h	1724;"	t	typeref:struct:n1idxe
+N1STRU	includes/cisis.h	1736;"	t	typeref:struct:n1stru
+N2BSIZ	includes/cisis.h	1937;"	d
+N2BUNI	includes/cisis.h	1945;"	d
+N2BUNI	includes/cisis.h	1951;"	d
+N2IDXE	includes/cisis.h	1729;"	t	typeref:struct:n2idxe
+N2STRU	includes/cisis.h	1743;"	t	typeref:struct:n2stru
+NEGLIV	includes/cisis.h	699;"	d
+NEWREC	includes/cisis.h	1569;"	d
+NOLOCK	includes/cisis.h	1561;"	d
+NTREE	includes/cisis.h	755;"	d
+NXPAGES	includes/cirun.h	39;"	v
+NXPAGES	includes/cirun.h	51;"	d
+NXSTRU	includes/cisis.h	753;"	t	typeref:struct:nxstru
+NXTERM	includes/cirun.h	71;"	d
+NXTERM	includes/cisis.h	3018;"	d
+O1	includes/cisis.h	1878;"	d
+O1	includes/cisis.h	1889;"	d
+O2	includes/cisis.h	1879;"	d
+O2	includes/cisis.h	1890;"	d
+OFF	includes/cisis.h	1155;"	d
+ON	includes/cisis.h	1152;"	d
+OPEN	includes/cisis.h	473;"	d
+OPEN	includes/cisis.h	483;"	d
+OPEN	includes/cisis.h	485;"	d
+OPEN	includes/cisis.h	494;"	d
+OPEN	includes/cisis.h	500;"	d
+OPEN	includes/cisis.h	517;"	d
+OPENFCHR	includes/cisis.h	2309;"	d
+OPENFCHR	includes/cisis.h	2313;"	d
+OPENFCHR	includes/cisis.h	2317;"	d
+OPRNULL	includes/cisis.h	2523;"	d
+OPRNULL	includes/cisis.h	2755;"	d
+OPRNULL	includes/cisis.h	2860;"	d
+OPRXEND	includes/cisis.h	2524;"	d
+OPRXEND	includes/cisis.h	2756;"	d
+OPRXEND	includes/cisis.h	2861;"	d
+ORDF	includes/cisis.h	704;"	d
+ORDN	includes/cisis.h	701;"	d
+O_BINARY	includes/cisis.h	124;"	d
+O_DENYNONE	includes/cisis.h	125;"	d
+PACKED	includes/cisis.h	120;"	d
+PACKED	includes/cisis.h	1241;"	m	struct:m0stru
+PACKED	includes/cisis.h	1242;"	m	struct:m0stru
+PACKED	includes/cisis.h	1243;"	m	struct:m0stru
+PACKED	includes/cisis.h	1244;"	m	struct:m0stru
+PACKED	includes/cisis.h	1245;"	m	struct:m0stru
+PACKED	includes/cisis.h	1249;"	m	struct:m0stru
+PACKED	includes/cisis.h	1250;"	m	struct:m0stru
+PACKED	includes/cisis.h	1251;"	m	struct:m0stru
+PACKED	includes/cisis.h	1252;"	m	struct:m0stru
+PACKED	includes/cisis.h	1256;"	m	struct:dir_entry
+PACKED	includes/cisis.h	1257;"	m	struct:dir_entry
+PACKED	includes/cisis.h	1258;"	m	struct:dir_entry
+PACKED	includes/cisis.h	1275;"	m	struct:m1stru
+PACKED	includes/cisis.h	1276;"	m	struct:m1stru
+PACKED	includes/cisis.h	1280;"	m	struct:m1stru
+PACKED	includes/cisis.h	1281;"	m	struct:m1stru
+PACKED	includes/cisis.h	1282;"	m	struct:m1stru
+PACKED	includes/cisis.h	1285;"	m	struct:m1stru
+PACKED	includes/cisis.h	1286;"	m	struct:m1stru
+PACKED	includes/cisis.h	1289;"	m	struct:m1stru
+PACKED	includes/cisis.h	1722;"	m	struct:n1idxe
+PACKED	includes/cisis.h	1723;"	m	struct:n1idxe
+PACKED	includes/cisis.h	1727;"	m	struct:n2idxe
+PACKED	includes/cisis.h	1728;"	m	struct:n2idxe
+PACKED	includes/cisis.h	1732;"	m	struct:n1stru
+PACKED	includes/cisis.h	1733;"	m	struct:n1stru
+PACKED	includes/cisis.h	1734;"	m	struct:n1stru
+PACKED	includes/cisis.h	1735;"	m	struct:n1stru
+PACKED	includes/cisis.h	1739;"	m	struct:n2stru
+PACKED	includes/cisis.h	1740;"	m	struct:n2stru
+PACKED	includes/cisis.h	1741;"	m	struct:n2stru
+PACKED	includes/cisis.h	1742;"	m	struct:n2stru
+PACKED	includes/cisis.h	1747;"	m	struct:l1idxe
+PACKED	includes/cisis.h	1749;"	m	struct:l1idxe
+PACKED	includes/cisis.h	1751;"	m	struct:l1idxe
+PACKED	includes/cisis.h	1752;"	m	struct:l1idxe
+PACKED	includes/cisis.h	1755;"	m	union:l1idxe::__anon1
+PACKED	includes/cisis.h	1756;"	m	union:l1idxe::__anon1
+PACKED	includes/cisis.h	1762;"	m	struct:l2idxe
+PACKED	includes/cisis.h	1764;"	m	struct:l2idxe
+PACKED	includes/cisis.h	1766;"	m	struct:l2idxe
+PACKED	includes/cisis.h	1767;"	m	struct:l2idxe
+PACKED	includes/cisis.h	1770;"	m	union:l2idxe::__anon2
+PACKED	includes/cisis.h	1771;"	m	union:l2idxe::__anon2
+PACKED	includes/cisis.h	1777;"	m	struct:l1stru
+PACKED	includes/cisis.h	1778;"	m	struct:l1stru
+PACKED	includes/cisis.h	1779;"	m	struct:l1stru
+PACKED	includes/cisis.h	1780;"	m	struct:l1stru
+PACKED	includes/cisis.h	1782;"	m	struct:l1stru
+PACKED	includes/cisis.h	1784;"	m	struct:l1stru
+PACKED	includes/cisis.h	1788;"	m	struct:l2stru
+PACKED	includes/cisis.h	1789;"	m	struct:l2stru
+PACKED	includes/cisis.h	1790;"	m	struct:l2stru
+PACKED	includes/cisis.h	1791;"	m	struct:l2stru
+PACKED	includes/cisis.h	1793;"	m	struct:l2stru
+PACKED	includes/cisis.h	1795;"	m	struct:l2stru
+PACKED	includes/cisis.h	1845;"	m	struct:lzstru
+PACKED	includes/cisis.h	1846;"	m	struct:lzstru
+PACKED	includes/cisis.h	1847;"	m	struct:lzstru
+PACKED	includes/cisis.h	1848;"	m	struct:lzstru
+PACKED	includes/cisis.h	1850;"	m	struct:lzstru
+PACKED	includes/cisis.h	1852;"	m	struct:lzstru
+PACKED	includes/cisis.h	1853;"	m	struct:lzstru
+PACKED	includes/cisis.h	1855;"	m	struct:lzstru
+PACKED	includes/cisis.h	1857;"	m	struct:lzstru
+PACKED	includes/cisis.h	37;"	d
+PACKED	includes/cisis.h	716;"	m	struct:cnstru
+PACKED	includes/cisis.h	717;"	m	struct:cnstru
+PACKED	includes/cisis.h	718;"	m	struct:cnstru
+PACKED	includes/cisis.h	719;"	m	struct:cnstru
+PACKED	includes/cisis.h	720;"	m	struct:cnstru
+PACKED	includes/cisis.h	721;"	m	struct:cnstru
+PACKED	includes/cisis.h	723;"	m	struct:cnstru
+PACKED	includes/cisis.h	724;"	m	struct:cnstru
+PACKED	includes/cisis.h	725;"	m	struct:cnstru
+PACKED	includes/cisis.h	726;"	m	struct:cnstru
+PACKED	includes/cisis.h	731;"	m	struct:n0stru
+PACKED	includes/cisis.h	732;"	m	struct:n0stru
+PACKED	includes/cisis.h	733;"	m	struct:n0stru
+PACKED	includes/cisis.h	734;"	m	struct:n0stru
+PACKED	includes/cisis.h	738;"	m	struct:l0stru
+PACKED	includes/cisis.h	739;"	m	struct:l0stru
+PACKED	includes/cisis.h	740;"	m	struct:l0stru
+PACKED	includes/cisis.h	741;"	m	struct:l0stru
+PACKED	includes/cisis.h	743;"	m	struct:l0stru
+PACKED	includes/cisis.h	745;"	m	struct:l0stru
+PC	includes/cisis.h	41;"	d
+PCNTSIZ	includes/cisis.h	1869;"	d
+PCREADLINUX	includes/cisis.h	59;"	d
+PDLSTRU	includes/cisis.h	2562;"	t	typeref:struct:pdlstru
+PERMIS	includes/cisis.h	471;"	d
+PERMIS	includes/cisis.h	480;"	d
+PERMIS	includes/cisis.h	491;"	d
+PERMIS	includes/cisis.h	508;"	d
+PERMIS	includes/cisis.h	511;"	d
+PERMIS	includes/cisis.h	514;"	d
+PGCC	includes/cisis.h	3513;"	d
+PMFNSIZ	includes/cisis.h	1866;"	d
+POCCSIZ	includes/cisis.h	1868;"	d
+POSTSTRU	includes/cisis.h	1931;"	t	typeref:struct:poststru
+PSTLEVEL	includes/cisis.h	2525;"	d
+PSTLEVEL	includes/cisis.h	2757;"	d
+PSTLEVEL	includes/cisis.h	2862;"	d
+PTAGSIZ	includes/cisis.h	1867;"	d
+PUNT	includes/cisis.h	689;"	d
+RCEOF	includes/cisis.h	1573;"	d
+RCEOF	includes/cisis.h	2128;"	d
+RCLDEL	includes/cisis.h	1575;"	d
+RCLOCK	includes/cisis.h	1572;"	d
+RCNEXT	includes/cisis.h	2130;"	d
+RCNORMAL	includes/cisis.h	1574;"	d
+RCNORMAL	includes/cisis.h	2129;"	d
+RCPDEL	includes/cisis.h	1576;"	d
+RDBdelxx	includes/cisis.h	1366;"	d
+RDBewlxx	includes/cisis.h	1367;"	d
+RDBgicip	includes/cisis.h	1357;"	d
+RDBiflxx	includes/cisis.h	1372;"	d
+RDBifmap	includes/cisis.h	1371;"	d
+RDBmclose	includes/cisis.h	1363;"	d
+RDBmflush	includes/cisis.h	1362;"	d
+RDBmsibp	includes/cisis.h	1355;"	d
+RDBmsmfn	includes/cisis.h	1370;"	d
+RDBmsopn	includes/cisis.h	1350;"	d
+RDBmsopv	includes/cisis.h	1353;"	d
+RDBmsopw	includes/cisis.h	1352;"	d
+RDBmstxl	includes/cisis.h	1360;"	d
+RDBmsyyp	includes/cisis.h	1374;"	d
+RDBmxtmp	includes/cisis.h	1368;"	d
+RDBname	includes/cisis.h	1348;"	d
+RDBnetws	includes/cisis.h	1365;"	d
+RDBvderp	includes/cisis.h	1383;"	d
+RDBvgzrp	includes/cisis.h	1376;"	d
+RDBxpn01	includes/cisis.h	1379;"	d
+RDBxpn02	includes/cisis.h	1380;"	d
+RDBxribp	includes/cisis.h	1354;"	d
+RDBxropn	includes/cisis.h	1349;"	d
+RDBxropw	includes/cisis.h	1351;"	d
+RDBxryyp	includes/cisis.h	1373;"	d
+RDELOCK	includes/cisis.h	1564;"	d
+RECALLOC	includes/cisis.h	3009;"	d
+RECDECO	includes/cisis.h	224;"	d
+RECDECO	includes/cisis.h	258;"	d
+RECGIZM	includes/cisis.h	222;"	d
+RECGIZM	includes/cisis.h	256;"	d
+RECHSIZE	includes/cisis.h	1340;"	d
+RECORD	includes/cirun.h	69;"	d
+RECORD	includes/cisis.h	3008;"	d
+RECSTRU	includes/cisis.h	1319;"	t
+RECSTRU	includes/cisis.h	1322;"	v	typeref:class:_YOURCLASS
+RECSTRU	includes/cisis.h	1338;"	t	typeref:struct:recstru
+RECXPND	includes/cisis.h	223;"	d
+RECXPND	includes/cisis.h	257;"	d
+RECdbxp	includes/cisis.h	1346;"	d
+RECgdbl	includes/cisis.h	1391;"	d
+RECgdbw	includes/cisis.h	1392;"	d
+REClock	includes/cisis.h	1388;"	d
+RECnbytes	includes/cisis.h	1343;"	d
+RECrc	includes/cisis.h	1386;"	d
+RECtype	includes/cisis.h	1344;"	d
+RECwlock	includes/cisis.h	1389;"	d
+RLOCK	includes/cisis.h	1562;"	d
+SAMEL	includes/cisis.h	219;"	d
+SAMEL	includes/cisis.h	254;"	d
+SFLDCHR	includes/cisis.h	2306;"	d
+SHOWCORE	includes/cisis.h	2729;"	d
+SHOWCORE	includes/cisis.h	2840;"	d
+SHOWCORE	includes/cisis.h	2842;"	d
+SUN	includes/cisis.h	47;"	d
+SUNBUG_GCC1	includes/cisis.h	131;"	d
+SUNBUG_UNSIGNED	includes/cisis.h	129;"	d
+SWAPPED	includes/cisis.h	109;"	d
+T1	includes/cisis.h	1876;"	d
+T1	includes/cisis.h	1887;"	d
+T2	includes/cisis.h	1877;"	d
+T2	includes/cisis.h	1888;"	d
+TBOOL	includes/cisis.h	2502;"	d
+TBOOL	includes/cisis.h	2753;"	d
+TBOOL	includes/cisis.h	2858;"	d
+TDBiflush	includes/cisis.h	2026;"	d
+TDBiflxx	includes/cisis.h	2025;"	d
+TDBifmap	includes/cisis.h	2024;"	d
+TDBname	includes/cisis.h	2023;"	d
+TERM	includes/cirun.h	70;"	d
+TERM	includes/cisis.h	3017;"	d
+TLS	includes/cisis.h	150;"	d
+TOKDELIM	includes/cisis.h	2499;"	d
+TOKDELIM	includes/cisis.h	2750;"	d
+TOKDELIM	includes/cisis.h	2855;"	d
+TOKNULL	includes/cisis.h	2498;"	d
+TOKNULL	includes/cisis.h	2749;"	d
+TOKNULL	includes/cisis.h	2854;"	d
+TOKTERM	includes/cisis.h	2500;"	d
+TOKTERM	includes/cisis.h	2751;"	d
+TOKTERM	includes/cisis.h	2856;"	d
+TRMALLOC	includes/cisis.h	3019;"	d
+TRMHSIZE	includes/cisis.h	2015;"	d
+TRMSTRU	includes/cisis.h	1958;"	t
+TRMSTRU	includes/cisis.h	1961;"	v	typeref:class:_YOURCLASS
+TRMSTRU	includes/cisis.h	2005;"	t	typeref:struct:trmstru
+TRMdbxp	includes/cisis.h	2021;"	d
+TRMifbuf	includes/cisis.h	2066;"	d
+TRMifhdr	includes/cisis.h	2063;"	d
+TRMifseg	includes/cisis.h	2062;"	d
+TRMkey	includes/cisis.h	2029;"	d
+TRMl1buf	includes/cisis.h	2037;"	d
+TRMl2buf	includes/cisis.h	2038;"	d
+TRMlcase	includes/cisis.h	2039;"	d
+TRMlidxp	includes/cisis.h	2044;"	d
+TRMliock	includes/cisis.h	2043;"	d
+TRMnbytes	includes/cisis.h	2018;"	d
+TRMpcblk	includes/cisis.h	2060;"	d
+TRMpchar	includes/cisis.h	2048;"	d
+TRMpcnt	includes/cisis.h	2035;"	d
+TRMpcpos	includes/cisis.h	2061;"	d
+TRMpcurr	includes/cisis.h	2047;"	d
+TRMpleft	includes/cisis.h	2046;"	d
+TRMpmfn	includes/cisis.h	2032;"	d
+TRMpocc	includes/cisis.h	2034;"	d
+TRMpost	includes/cisis.h	2031;"	d
+TRMptag	includes/cisis.h	2033;"	d
+TRMrc	includes/cisis.h	2028;"	d
+TRMrcase	includes/cisis.h	2040;"	d
+TRMrseek	includes/cisis.h	2041;"	d
+TRMrsize	includes/cisis.h	2042;"	d
+TRMtype	includes/cisis.h	2019;"	d
+TRMxytotp	includes/cisis.h	2009;"	d
+TRMxytotp	includes/cisis.h	2011;"	d
+TRMyaddr	includes/cisis.h	2051;"	d
+TRMycase	includes/cisis.h	2053;"	d
+TRMydisk	includes/cisis.h	2056;"	d
+TRMydocs	includes/cisis.h	2055;"	d
+TRMyleft	includes/cisis.h	2058;"	d
+TRMypsts	includes/cisis.h	2052;"	d
+TRMyread	includes/cisis.h	2057;"	d
+TRMysize	includes/cisis.h	2054;"	d
+TWORDF	includes/cisis.h	705;"	d
+TWORDN	includes/cisis.h	702;"	d
+TW_BOOL	includes/cisis.h	230;"	d
+TW_BOOL	includes/cisis.h	263;"	d
+TYPEMF0	includes/cisis.h	1555;"	d
+TYPEMFQ	includes/cisis.h	1558;"	d
+TYPEMFR	includes/cisis.h	1556;"	d
+TYPETRM	includes/cisis.h	2126;"	d
+TYPEX	includes/cisis.h	1557;"	d
+UBYTE	includes/cisis.h	332;"	d
+UCHR	includes/cisis.h	340;"	d
+UC_EXTENSION	includes/cisis.h	140;"	d
+ULONG	includes/cisis.h	335;"	d
+UNISYS	includes/cisis.h	48;"	d
+UNISYSCPU	includes/cisis.h	50;"	d
+UNISYSGDB	includes/cisis.h	49;"	d
+UNIX	includes/cisis.h	46;"	d
+USE_GDBFMT	includes/cisis.h	77;"	d
+USE_GDBFMT	includes/cisis.h	79;"	d
+UWORD	includes/cisis.h	333;"	d
+VAX	includes/cisis.h	44;"	d
+VDBXdelxx	includes/cisis.h	986;"	d
+VDBXewlxx	includes/cisis.h	987;"	d
+VDBXgicip	includes/cisis.h	976;"	d
+VDBXiflush	includes/cisis.h	983;"	d
+VDBXiflxx	includes/cisis.h	992;"	d
+VDBXifmap	includes/cisis.h	991;"	d
+VDBXiinit	includes/cisis.h	1006;"	d
+VDBXipadd	includes/cisis.h	1011;"	d
+VDBXipdel	includes/cisis.h	1012;"	d
+VDBXirang	includes/cisis.h	1009;"	d
+VDBXirecs	includes/cisis.h	1010;"	d
+VDBXitell	includes/cisis.h	1008;"	d
+VDBXitrac	includes/cisis.h	1007;"	d
+VDBXmclose	includes/cisis.h	982;"	d
+VDBXmflush	includes/cisis.h	981;"	d
+VDBXmsibp	includes/cisis.h	974;"	d
+VDBXmsmfn	includes/cisis.h	990;"	d
+VDBXmsopn	includes/cisis.h	969;"	d
+VDBXmsopv	includes/cisis.h	972;"	d
+VDBXmsopw	includes/cisis.h	971;"	d
+VDBXmstxl	includes/cisis.h	979;"	d
+VDBXmsyyp	includes/cisis.h	994;"	d
+VDBXmxtmp	includes/cisis.h	988;"	d
+VDBXname	includes/cisis.h	967;"	d
+VDBXnetws	includes/cisis.h	985;"	d
+VDBXvderp	includes/cisis.h	1003;"	d
+VDBXvgzrp	includes/cisis.h	996;"	d
+VDBXxpn01	includes/cisis.h	999;"	d
+VDBXxpn02	includes/cisis.h	1000;"	d
+VDBXxribp	includes/cisis.h	973;"	d
+VDBXxropn	includes/cisis.h	968;"	d
+VDBXxropw	includes/cisis.h	970;"	d
+VDBXxryyp	includes/cisis.h	993;"	d
+VDECPSTRU	includes/cisis.h	857;"	t	typeref:struct:vdecpstru
+VDIRlen	includes/cisis.h	1519;"	d
+VDIRlen	includes/cisis.h	1544;"	d
+VDIRpos	includes/cisis.h	1518;"	d
+VDIRpos	includes/cisis.h	1543;"	d
+VDIRtag	includes/cisis.h	1517;"	d
+VDIRtag	includes/cisis.h	1542;"	d
+VFIELDP	includes/cisis.h	1551;"	d
+VGIZPSTRU	includes/cisis.h	837;"	t	typeref:struct:vgizpstru
+VMF0ctlmfn	includes/cisis.h	1498;"	d
+VMF0ctlmfn	includes/cisis.h	1523;"	d
+VMF0mfcxx1	includes/cisis.h	1504;"	d
+VMF0mfcxx1	includes/cisis.h	1529;"	d
+VMF0mfcxx2	includes/cisis.h	1505;"	d
+VMF0mfcxx2	includes/cisis.h	1530;"	d
+VMF0mfcxx3	includes/cisis.h	1506;"	d
+VMF0mfcxx3	includes/cisis.h	1531;"	d
+VMF0mftype	includes/cisis.h	1502;"	d
+VMF0mftype	includes/cisis.h	1527;"	d
+VMF0nxtmfb	includes/cisis.h	1500;"	d
+VMF0nxtmfb	includes/cisis.h	1525;"	d
+VMF0nxtmfn	includes/cisis.h	1499;"	d
+VMF0nxtmfn	includes/cisis.h	1524;"	d
+VMF0nxtmfp	includes/cisis.h	1501;"	d
+VMF0nxtmfp	includes/cisis.h	1526;"	d
+VMF0reccnt	includes/cisis.h	1503;"	d
+VMF0reccnt	includes/cisis.h	1528;"	d
+VMFRbase	includes/cisis.h	1512;"	d
+VMFRbase	includes/cisis.h	1537;"	d
+VMFRdir	includes/cisis.h	1515;"	d
+VMFRdir	includes/cisis.h	1540;"	d
+VMFRmfbwb	includes/cisis.h	1510;"	d
+VMFRmfbwb	includes/cisis.h	1535;"	d
+VMFRmfbwp	includes/cisis.h	1511;"	d
+VMFRmfbwp	includes/cisis.h	1536;"	d
+VMFRmfn	includes/cisis.h	1508;"	d
+VMFRmfn	includes/cisis.h	1533;"	d
+VMFRmfrl	includes/cisis.h	1509;"	d
+VMFRmfrl	includes/cisis.h	1534;"	d
+VMFRnvf	includes/cisis.h	1513;"	d
+VMFRnvf	includes/cisis.h	1538;"	d
+VMFRstatus	includes/cisis.h	1514;"	d
+VMFRstatus	includes/cisis.h	1539;"	d
+VMFX	includes/cisis.h	1521;"	d
+VMFX	includes/cisis.h	1546;"	d
+VRDBdelxx	includes/cisis.h	1469;"	d
+VRDBewlxx	includes/cisis.h	1470;"	d
+VRDBgicip	includes/cisis.h	1460;"	d
+VRDBiflxx	includes/cisis.h	1475;"	d
+VRDBifmap	includes/cisis.h	1474;"	d
+VRDBmclose	includes/cisis.h	1466;"	d
+VRDBmflush	includes/cisis.h	1465;"	d
+VRDBmsibp	includes/cisis.h	1458;"	d
+VRDBmsmfn	includes/cisis.h	1473;"	d
+VRDBmsopn	includes/cisis.h	1453;"	d
+VRDBmsopv	includes/cisis.h	1456;"	d
+VRDBmsopw	includes/cisis.h	1455;"	d
+VRDBmstxl	includes/cisis.h	1463;"	d
+VRDBmsyyp	includes/cisis.h	1477;"	d
+VRDBmxtmp	includes/cisis.h	1471;"	d
+VRDBname	includes/cisis.h	1451;"	d
+VRDBnetws	includes/cisis.h	1468;"	d
+VRDBvderp	includes/cisis.h	1486;"	d
+VRDBvgzrp	includes/cisis.h	1479;"	d
+VRDBxpn01	includes/cisis.h	1482;"	d
+VRDBxpn02	includes/cisis.h	1483;"	d
+VRDBxribp	includes/cisis.h	1457;"	d
+VRDBxropn	includes/cisis.h	1452;"	d
+VRDBxropw	includes/cisis.h	1454;"	d
+VRDBxryyp	includes/cisis.h	1476;"	d
+VRECdbxp	includes/cisis.h	1449;"	d
+VRECgdbl	includes/cisis.h	1494;"	d
+VRECgdbw	includes/cisis.h	1495;"	d
+VREClock	includes/cisis.h	1491;"	d
+VRECnbytes	includes/cisis.h	1446;"	d
+VRECrc	includes/cisis.h	1489;"	d
+VRECtype	includes/cisis.h	1447;"	d
+VRECwlock	includes/cisis.h	1492;"	d
+VTDBiflush	includes/cisis.h	2076;"	d
+VTDBiflxx	includes/cisis.h	2075;"	d
+VTDBifmap	includes/cisis.h	2074;"	d
+VTDBname	includes/cisis.h	2073;"	d
+VTRMdbxp	includes/cisis.h	2071;"	d
+VTRMifbuf	includes/cisis.h	2122;"	d
+VTRMifhdr	includes/cisis.h	2113;"	d
+VTRMifseg	includes/cisis.h	2112;"	d
+VTRMkey	includes/cisis.h	2079;"	d
+VTRMl1buf	includes/cisis.h	2087;"	d
+VTRMl2buf	includes/cisis.h	2088;"	d
+VTRMlcase	includes/cisis.h	2089;"	d
+VTRMlidxp	includes/cisis.h	2094;"	d
+VTRMliock	includes/cisis.h	2093;"	d
+VTRMnbytes	includes/cisis.h	2068;"	d
+VTRMpcblk	includes/cisis.h	2110;"	d
+VTRMpchar	includes/cisis.h	2098;"	d
+VTRMpcnt	includes/cisis.h	2085;"	d
+VTRMpcpos	includes/cisis.h	2111;"	d
+VTRMpcurr	includes/cisis.h	2097;"	d
+VTRMpleft	includes/cisis.h	2096;"	d
+VTRMpmfn	includes/cisis.h	2082;"	d
+VTRMpocc	includes/cisis.h	2084;"	d
+VTRMpost	includes/cisis.h	2081;"	d
+VTRMptag	includes/cisis.h	2083;"	d
+VTRMrc	includes/cisis.h	2078;"	d
+VTRMrcase	includes/cisis.h	2090;"	d
+VTRMrseek	includes/cisis.h	2091;"	d
+VTRMrsize	includes/cisis.h	2092;"	d
+VTRMtype	includes/cisis.h	2069;"	d
+VTRMxytotp	includes/cisis.h	2117;"	d
+VTRMxytotp	includes/cisis.h	2119;"	d
+VTRMyaddr	includes/cisis.h	2101;"	d
+VTRMycase	includes/cisis.h	2103;"	d
+VTRMydisk	includes/cisis.h	2106;"	d
+VTRMydocs	includes/cisis.h	2105;"	d
+VTRMyleft	includes/cisis.h	2108;"	d
+VTRMypsts	includes/cisis.h	2102;"	d
+VTRMyread	includes/cisis.h	2107;"	d
+VTRMysize	includes/cisis.h	2104;"	d
+WLOCK	includes/cisis.h	1568;"	d
+WUNLOCK	includes/cisis.h	1567;"	d
+WWWISIS	includes/cisis.h	163;"	d
+XRBSIZ	includes/cisis.h	649;"	d
+XRMAXTIV	includes/cisis.h	652;"	d
+XRMAXTV1	includes/cisis.h	653;"	d
+XRPOS	includes/cisis.h	668;"	d
+XRPOSSIZ	includes/cisis.h	670;"	d
+XRPTR	includes/cisis.h	669;"	d
+XRPTRSIZ	includes/cisis.h	671;"	d
+XRSHIFT	includes/cisis.h	650;"	d
+XRSTRU	includes/cisis.h	676;"	t	typeref:struct:xrstru
+XRXDIVIDE	includes/cisis.h	658;"	d
+XRXMASK	includes/cisis.h	660;"	d
+XRXMASKN	includes/cisis.h	661;"	d
+XRXMASKU	includes/cisis.h	662;"	d
+XRXSHIFT	includes/cisis.h	659;"	d
+YES	includes/cisisx.c	59;"	d	file:
+ZAND	includes/cisis.h	2485;"	d
+ZAND	includes/cisis.h	2737;"	d
+ZAND	includes/cisis.h	2848;"	d
+ZANE	includes/cisis.h	2491;"	d
+ZANE	includes/cisis.h	2744;"	d
+ZANF	includes/cisis.h	2489;"	d
+ZANF	includes/cisis.h	2741;"	d
+ZANG	includes/cisis.h	2488;"	d
+ZANG	includes/cisis.h	2740;"	d
+ZANN	includes/cisis.h	2486;"	d
+ZANN	includes/cisis.h	2738;"	d
+ZANN	includes/cisis.h	2849;"	d
+ZANP	includes/cisis.h	2490;"	d
+ZANP	includes/cisis.h	2743;"	d
+ZASS	includes/cisis.h	2493;"	d
+ZASS	includes/cisis.h	2745;"	d
+ZLDV	includes/cisis.h	2494;"	d
+ZLDV	includes/cisis.h	2746;"	d
+ZLDV	includes/cisis.h	2850;"	d
+ZORX	includes/cisis.h	2484;"	d
+ZORX	includes/cisis.h	2736;"	d
+ZORX	includes/cisis.h	2847;"	d
+ZPDL	includes/cisis.h	2852;"	d
+ZPFX	includes/cisis.h	2495;"	d
+ZPFX	includes/cisis.h	2851;"	d
+ZQUA	includes/cisis.h	2496;"	d
+ZQUA	includes/cisis.h	2747;"	d
+ZTREE	includes/cisis.h	218;"	d
+ZTREE	includes/cisis.h	253;"	d
+_YOURCLASS	includes/cisis.h	282;"	d
+_YOURCLASS	includes/cisis.h	285;"	d
+_YOURCLASS	includes/cisis.h	287;"	d
+absent	includes/cisis.h	3051;"	e	enum:ins
+add	includes/cisis.h	3105;"	m	struct:intermediate_code
+align4	includes/cisis.h	2586;"	m	struct:b7hitbuf
+and2gf	includes/cisis.h	2621;"	m	struct:__anon4
+and_op	includes/cisis.h	3052;"	e	enum:ins
+ansiactab	includes/cirun.h	219;"	v
+ansimctab	includes/cirun.h	173;"	v
+ansiuctab	includes/cirun.h	199;"	v
+arabmctab	includes/cirun.h	192;"	v
+area	includes/cisis.h	2587;"	m	struct:b7hitbuf
+area	includes/cisis.h	2606;"	m	struct:b7hitbuf
+area	includes/cisis.h	2916;"	m	struct:b6hitbuf
+b6hitbuf	includes/cisis.h	2912;"	s
+b71error	includes/cisis.h	2633;"	m	struct:__anon4
+b71jumper	includes/cisis.h	2630;"	m	struct:__anon4
+b7_CIB7	includes/cisis.h	2691;"	t	typeref:struct:__anon4
+b7_gidbnp	includes/cisis.h	2656;"	m	struct:__anon4
+b7_pfxdbn	includes/cisis.h	2665;"	m	struct:__anon4
+b7_pfxlen	includes/cisis.h	2667;"	m	struct:__anon4
+b7_pfxmdl	includes/cisis.h	2670;"	m	struct:__anon4
+b7_pfxmsg	includes/cisis.h	2668;"	m	struct:__anon4
+b7_pfxopx	includes/cisis.h	2666;"	m	struct:__anon4
+b7_pfxtwx	includes/cisis.h	2669;"	m	struct:__anon4
+b7batchp	includes/cisis.h	2625;"	m	struct:__anon4
+b7bufferp	includes/cisis.h	2663;"	m	struct:__anon4
+b7error	includes/cisis.h	2662;"	m	struct:__anon4
+b7errxy	includes/cisis.h	2634;"	m	struct:__anon4
+b7fd	includes/cisis.h	2661;"	m	struct:__anon4
+b7hitbuf	includes/cisis.h	2580;"	s
+b7hitbuf	includes/cisis.h	2600;"	s
+b7hitlist	includes/cisis.h	2590;"	s
+b7hitlistshort	includes/cisis.h	2594;"	s
+b7itrm	includes/cisis.h	2660;"	m	struct:__anon4
+b7objp	includes/cisis.h	2618;"	m	struct:__anon4
+b7recp	includes/cisis.h	2626;"	m	struct:__anon4
+b7rootmsg	includes/cisis.h	2687;"	m	struct:__anon4
+b7setno	includes/cisis.h	2624;"	m	struct:__anon4
+b7setno1	includes/cisis.h	2623;"	m	struct:__anon4
+b7tell	includes/cisis.h	2659;"	m	struct:__anon4
+b7tw2mh	includes/cisis.h	2689;"	m	struct:__anon4
+basead	includes/cisis.h	2425;"	m	struct:isohstru
+basep	includes/cisis.h	752;"	m	struct:nxstru
+beg_init_not_rep	includes/cisis.h	3042;"	e	enum:ins
+beg_init_rep	includes/cisis.h	3044;"	e	enum:ins
+begin	includes/cisis.h	3040;"	e	enum:ins
+begin_rep_gr	includes/cisis.h	3047;"	e	enum:ins
+block	includes/cisis.h	2603;"	m	struct:b7hitbuf
+block	includes/cisis.h	2914;"	m	struct:b6hitbuf
+breakins	includes/cisis.h	3072;"	e	enum:ins
+bufsiz	includes/cisis.h	2582;"	m	struct:b7hitbuf
+bufsiz	includes/cisis.h	2605;"	m	struct:b7hitbuf
+bufsiz	includes/cisis.h	2915;"	m	struct:b6hitbuf
+c_spac	includes/cisis.h	3049;"	e	enum:ins
+cat_beg	includes/cisis.h	3084;"	e	enum:ins
+cat_end	includes/cisis.h	3084;"	e	enum:ins
+cc_offset	includes/cisis.h	809;"	m	struct:invmap
+ci_offset	includes/cisis.h	813;"	m	struct:invmap
+ciahcgi	includes/cirun.h	45;"	v
+ciapip	includes/cisis.h	2680;"	m	struct:__anon4
+ciawtfp	includes/cirun.h	44;"	v
+citype_beg	includes/cisis.h	3096;"	e	enum:ins
+citype_end	includes/cisis.h	3096;"	e	enum:ins
+cl_offset	includes/cisis.h	812;"	m	struct:invmap
+cn	includes/cisis.h	804;"	m	struct:invmap
+cn_offset	includes/cisis.h	811;"	m	struct:invmap
+cnopn	includes/cisis.h	784;"	m	struct:invmap
+cnopw	includes/cisis.h	796;"	m	struct:invmap
+cnstru	includes/cisis.h	715;"	s
+cntread	includes/cisisx.c	51;"	d	file:
+contains	includes/cisis.h	3051;"	e	enum:ins
+continueins	includes/cisis.h	3072;"	e	enum:ins
+d_dummy	includes/cisis.h	3047;"	e	enum:ins
+date_mktime_beg	includes/cisis.h	3057;"	e	enum:ins
+date_mktime_end	includes/cisis.h	3057;"	e	enum:ins
+datex_beg	includes/cisis.h	3079;"	e	enum:ins
+datex_end	includes/cisis.h	3079;"	e	enum:ins
+dbname_beg	includes/cisis.h	3068;"	e	enum:ins
+dbname_end	includes/cisis.h	3068;"	e	enum:ins
+dbxcinet	includes/cisisx.c	32;"	d	file:
+dbxcipar	includes/cisisx.c	44;"	d	file:
+dbxciset	includes/cisisx.c	43;"	d	file:
+dbxdelxx	includes/cisis.h	886;"	m	struct:dbxstru
+dbxewlxx	includes/cisis.h	887;"	m	struct:dbxstru
+dbxgicip	includes/cisis.h	876;"	m	struct:dbxstru
+dbxgipar	includes/cisisx.c	45;"	d	file:
+dbxiflush	includes/cisis.h	883;"	m	struct:dbxstru
+dbxiflxx	includes/cisis.h	893;"	m	struct:dbxstru
+dbxifmap	includes/cisis.h	891;"	m	struct:dbxstru
+dbxiinit	includes/cisis.h	908;"	m	struct:dbxstru
+dbxilock	includes/cisisx.c	33;"	d	file:
+dbxinit	includes/cisisx.c	34;"	d	file:
+dbxipadd	includes/cisis.h	913;"	m	struct:dbxstru
+dbxipdel	includes/cisis.h	914;"	m	struct:dbxstru
+dbxirang	includes/cisis.h	911;"	m	struct:dbxstru
+dbxirecs	includes/cisis.h	912;"	m	struct:dbxstru
+dbxitell	includes/cisis.h	910;"	m	struct:dbxstru
+dbxitrac	includes/cisis.h	909;"	m	struct:dbxstru
+dbxmclose	includes/cisis.h	882;"	m	struct:dbxstru
+dbxmflush	includes/cisis.h	881;"	m	struct:dbxstru
+dbxmsibp	includes/cisis.h	874;"	m	struct:dbxstru
+dbxmsmfn	includes/cisis.h	890;"	m	struct:dbxstru
+dbxmsopn	includes/cisis.h	869;"	m	struct:dbxstru
+dbxmsopv	includes/cisis.h	872;"	m	struct:dbxstru
+dbxmsopw	includes/cisis.h	871;"	m	struct:dbxstru
+dbxmstxl	includes/cisis.h	879;"	m	struct:dbxstru
+dbxmsyyp	includes/cisis.h	896;"	m	struct:dbxstru
+dbxmxtmp	includes/cisis.h	888;"	m	struct:dbxstru
+dbxname	includes/cisis.h	867;"	m	struct:dbxstru
+dbxnetws	includes/cisis.h	885;"	m	struct:dbxstru
+dbxopen	includes/cisisx.c	37;"	d	file:
+dbxopenc	includes/cisisx.c	39;"	d	file:
+dbxopenw	includes/cisisx.c	38;"	d	file:
+dbxsrchp	includes/cisisx.c	36;"	d	file:
+dbxstorp	includes/cisisx.c	35;"	d	file:
+dbxstru	includes/cisis.h	866;"	s
+dbxtmpnm	includes/cisisx.c	50;"	d	file:
+dbxvderp	includes/cisis.h	905;"	m	struct:dbxstru
+dbxvgzrp	includes/cisis.h	898;"	m	struct:dbxstru
+dbxxpn01	includes/cisis.h	901;"	m	struct:dbxstru
+dbxxpn02	includes/cisis.h	902;"	m	struct:dbxstru
+dbxxribp	includes/cisis.h	873;"	m	struct:dbxstru
+dbxxropn	includes/cisis.h	868;"	m	struct:dbxstru
+dbxxropw	includes/cisis.h	870;"	m	struct:dbxstru
+dbxxryyp	includes/cisis.h	895;"	m	struct:dbxstru
+ddbnp	includes/cisis.h	847;"	m	struct:vdecpstru
+decflush	includes/cisisx.c	47;"	d	file:
+dir_entry	includes/cisis.h	1255;"	s
+divide_op	includes/cisis.h	3053;"	e	enum:ins
+drdlm	includes/cisis.h	851;"	m	struct:vdecpstru
+drng1	includes/cisis.h	849;"	m	struct:vdecpstru
+drng2	includes/cisis.h	850;"	m	struct:vdecpstru
+drngs	includes/cisis.h	848;"	m	struct:vdecpstru
+dsfld	includes/cisis.h	853;"	m	struct:vdecpstru
+dsflds	includes/cisis.h	852;"	m	struct:vdecpstru
+dsfldv	includes/cisis.h	855;"	m	struct:vdecpstru
+dsfldx	includes/cisis.h	854;"	m	struct:vdecpstru
+dummy	includes/cisis.h	3038;"	e	enum:ins
+duptop	includes/cisis.h	3077;"	e	enum:ins
+eattrib_beg	includes/cisis.h	3093;"	e	enum:ins
+eattrib_end	includes/cisis.h	3093;"	e	enum:ins
+end	includes/cisis.h	3040;"	e	enum:ins
+end_else	includes/cisis.h	3054;"	e	enum:ins
+end_init_not_rep	includes/cisis.h	3043;"	e	enum:ins
+end_init_rep	includes/cisis.h	3045;"	e	enum:ins
+end_rep_gr	includes/cisis.h	3047;"	e	enum:ins
+end_select	includes/cisis.h	3078;"	e	enum:ins
+end_then	includes/cisis.h	3054;"	e	enum:ins
+eql_op	includes/cisis.h	3052;"	e	enum:ins
+escape_seq	includes/cisis.h	3051;"	e	enum:ins
+f_beg	includes/cisis.h	3060;"	e	enum:ins
+f_end	includes/cisis.h	3060;"	e	enum:ins
+fatal	includes/cisisx.c	41;"	d	file:
+fatal_errcod	includes/cisisx.c	66;"	v
+fatal_iomsg	includes/cisisx.c	67;"	v
+fatal_iomsg	includes/cisisx.c	75;"	v
+fatal_jumper	includes/cisisx.c	68;"	v
+fi	includes/cisis.h	3054;"	e	enum:ins
+fillerXm0mftype	includes/cisis.h	1247;"	m	struct:m0stru
+fillerXm1mfrl	includes/cisis.h	1278;"	m	struct:m1stru
+fmt_beg	includes/cisis.h	3060;"	e	enum:ins
+fmt_end	includes/cisis.h	3060;"	e	enum:ins
+fmtp	includes/cisis.h	3182;"	m	struct:fst_code
+forfut	includes/cisis.h	2429;"	m	struct:isohstru
+forusr	includes/cisis.h	2426;"	m	struct:isohstru
+fst_code	includes/cisis.h	3179;"	s
+gdbnp	includes/cisis.h	835;"	m	struct:vgizpstru
+geq_op	includes/cisis.h	3052;"	e	enum:ins
+getenv_beg	includes/cisis.h	3061;"	e	enum:ins
+getenv_end	includes/cisis.h	3061;"	e	enum:ins
+ghdrp	includes/cisis.h	831;"	m	struct:vgizpstru
+gizflush	includes/cisisx.c	46;"	d	file:
+gizmstru	includes/cisis.h	819;"	s
+grng1	includes/cisis.h	833;"	m	struct:vgizpstru
+grng2	includes/cisis.h	834;"	m	struct:vgizpstru
+grngs	includes/cisis.h	832;"	m	struct:vgizpstru
+gtr_op	includes/cisis.h	3052;"	e	enum:ins
+hcase	includes/cisis.h	2584;"	m	struct:b7hitbuf
+htype	includes/cisis.h	2585;"	m	struct:b7hitbuf
+icodes	includes/cisis.h	2422;"	m	struct:isohstru
+idx	includes/cisis.h	1821;"	m	struct:lxl1stru
+idx	includes/cisis.h	1833;"	m	struct:lxl2stru
+ifl1p	includes/cisis.h	775;"	m	struct:invmap
+ifl2p	includes/cisis.h	776;"	m	struct:invmap
+iflxn	includes/cisis.h	778;"	m	struct:invmap
+iflzx	includes/cisis.h	781;"	m	struct:invmap
+ifopn	includes/cisis.h	791;"	m	struct:invmap
+ifopn	includes/cisis.h	793;"	m	struct:invmap
+ifopv	includes/cisis.h	803;"	m	struct:invmap
+ifopw	includes/cisis.h	802;"	m	struct:invmap
+ifpblk	includes/cisis.h	1905;"	m	struct:ifpstru
+ifpblk	includes/cisis.h	1910;"	m	struct:ifpctrl
+ifpctrl	includes/cisis.h	1909;"	s
+ifphead	includes/cisis.h	1915;"	s
+ifpnxtb	includes/cisis.h	1916;"	m	struct:ifphead
+ifpnxtp	includes/cisis.h	1917;"	m	struct:ifphead
+ifprec	includes/cisis.h	1906;"	m	struct:ifpstru
+ifprec1	includes/cisis.h	1911;"	m	struct:ifpctrl
+ifprec2	includes/cisis.h	1912;"	m	struct:ifpctrl
+ifpsegc	includes/cisis.h	1920;"	m	struct:ifphead
+ifpsegp	includes/cisis.h	1919;"	m	struct:ifphead
+ifpstru	includes/cisis.h	1900;"	s
+ifpstru	includes/cisis.h	1904;"	s
+ifptotp	includes/cisis.h	1918;"	m	struct:ifphead
+ifpx	includes/cisis.h	1901;"	m	struct:ifpstru
+ign_cond	includes/cisis.h	3090;"	e	enum:ins
+indlen	includes/cisis.h	2423;"	m	struct:isohstru
+info	includes/cisis.h	3116;"	m	struct:lista
+info1	includes/cisis.h	1802;"	m	struct:lxidxe
+info2	includes/cisis.h	1803;"	m	struct:lxidxe
+info3	includes/cisis.h	1806;"	m	union:lxidxe::__anon3
+info3info4	includes/cisis.h	1757;"	m	struct:l1idxe	typeref:union:l1idxe::__anon1
+info3info4	includes/cisis.h	1772;"	m	struct:l2idxe	typeref:union:l2idxe::__anon2
+info3info4	includes/cisis.h	1808;"	m	struct:lxidxe	typeref:union:lxidxe::__anon3
+info4	includes/cisis.h	1807;"	m	union:lxidxe::__anon3
+init_if	includes/cisis.h	3054;"	e	enum:ins
+input_fld	includes/cisis.h	3067;"	e	enum:ins
+ins	includes/cisis.h	3037;"	g
+instr	includes/cisis.h	3104;"	m	struct:intermediate_code
+instr_beg	includes/cisis.h	3080;"	e	enum:ins
+instr_end	includes/cisis.h	3080;"	e	enum:ins
+instruction_code	includes/cisis.h	3098;"	t	typeref:enum:ins
+intermediate_code	includes/cisis.h	3102;"	s
+intvvalue	includes/cisis.h	3094;"	e	enum:ins
+invmap	includes/cisis.h	761;"	s
+invsetup	includes/cisisx.c	52;"	d	file:
+ioccins	includes/cisis.h	3071;"	e	enum:ins
+ipatt	includes/cisis.h	822;"	m	struct:gizmstru
+irxarea	includes/cisis.h	2794;"	m	struct:irxstru
+irxbytes	includes/cisis.h	2792;"	m	struct:irxstru
+irxhits	includes/cisis.h	2793;"	m	struct:irxstru
+irxstru	includes/cisis.h	2791;"	s
+isisactab	includes/cirun.h	145;"	v
+isisuctab	includes/cirun.h	54;"	d
+isisuctab	includes/cirun.h	85;"	v
+isiswctab	includes/cirun.h	144;"	v
+isiswctab	includes/cirun.h	53;"	d
+isiswctot	includes/cirun.h	143;"	v
+isiswctot	includes/cirun.h	52;"	d
+isize	includes/cisis.h	820;"	m	struct:gizmstru
+isodstru	includes/cisis.h	2432;"	s
+isohstru	includes/cisis.h	2419;"	s
+it	includes/cisis.h	1815;"	m	struct:lxl1stru
+it	includes/cisis.h	1827;"	m	struct:lxl2stru
+it	includes/cisis.h	3181;"	m	struct:fst_code
+iybasep	includes/cisis.h	808;"	m	struct:invmap
+jump	includes/cisis.h	3038;"	e	enum:ins
+jumpf	includes/cisis.h	3038;"	e	enum:ins
+jumpt	includes/cisis.h	3038;"	e	enum:ins
+key	includes/cisis.h	1820;"	m	struct:lxl1stru
+key	includes/cisis.h	1832;"	m	struct:lxl2stru
+key	includes/cisis.h	3187;"	m	struct:link1
+key	includes/cisis.h	3192;"	m	struct:link2
+l0stru	includes/cisis.h	737;"	s
+l1idxe	includes/cisis.h	1746;"	s
+l1opn	includes/cisis.h	788;"	m	struct:invmap
+l1opw	includes/cisis.h	800;"	m	struct:invmap
+l1stru	includes/cisis.h	1776;"	s
+l2idxe	includes/cisis.h	1761;"	s
+l2opn	includes/cisis.h	789;"	m	struct:invmap
+l2opw	includes/cisis.h	801;"	m	struct:invmap
+l2stru	includes/cisis.h	1787;"	s
+l_beg	includes/cisis.h	3060;"	e	enum:ins
+l_end	includes/cisis.h	3060;"	e	enum:ins
+lab	includes/cisis.h	3103;"	m	struct:intermediate_code
+label	includes/cisis.h	3100;"	t
+leafread	includes/cisisx.c	54;"	d	file:
+left	includes/cisis.h	751;"	m	struct:nxstru
+left_beg	includes/cisis.h	3081;"	e	enum:ins
+left_end	includes/cisis.h	3081;"	e	enum:ins
+lenfld	includes/cisis.h	2434;"	m	struct:isodstru
+length	includes/cisis.h	2420;"	m	struct:isohstru
+lenlef	includes/cisis.h	2427;"	m	struct:isohstru
+lenscp	includes/cisis.h	2428;"	m	struct:isohstru
+leq_op	includes/cisis.h	3052;"	e	enum:ins
+link1	includes/cisis.h	3186;"	s
+link2	includes/cisis.h	3191;"	s
+lista	includes/cisis.h	3115;"	s
+load_core	includes/cisis.h	3055;"	e	enum:ins
+load_date	includes/cisis.h	3076;"	e	enum:ins
+load_field_all	includes/cisis.h	3048;"	e	enum:ins
+load_field_occ	includes/cisis.h	3048;"	e	enum:ins
+load_float	includes/cisis.h	3068;"	e	enum:ins
+load_maxmfn	includes/cisis.h	3055;"	e	enum:ins
+load_mfn	includes/cisis.h	3051;"	e	enum:ins
+load_mstnam	includes/cisis.h	3075;"	e	enum:ins
+load_number	includes/cisis.h	3048;"	e	enum:ins
+load_string	includes/cisis.h	3048;"	e	enum:ins
+loadfile	includes/cisisx.c	48;"	d	file:
+loadstw	includes/cisisx.c	49;"	d	file:
+locfld	includes/cisis.h	2435;"	m	struct:isodstru
+lss_op	includes/cisis.h	3052;"	e	enum:ins
+ltxpages	includes/cisis.h	764;"	m	struct:invmap
+ltxthresh	includes/cisis.h	763;"	m	struct:invmap
+ltxvpagp	includes/cisis.h	765;"	m	struct:invmap
+luxpages	includes/cisis.h	767;"	m	struct:invmap
+luxthresh	includes/cisis.h	766;"	m	struct:invmap
+luxvpagp	includes/cisis.h	768;"	m	struct:invmap
+lvxfplog	includes/cisis.h	773;"	m	struct:invmap
+lvxiflind	includes/cisis.h	769;"	m	struct:invmap
+lvxmaxmfn	includes/cisis.h	770;"	m	struct:invmap
+lvxpages	includes/cisis.h	771;"	m	struct:invmap
+lvxvpagp	includes/cisis.h	772;"	m	struct:invmap
+lw_beg	includes/cisis.h	3067;"	e	enum:ins
+lw_end	includes/cisis.h	3067;"	e	enum:ins
+lxidxe	includes/cisis.h	1801;"	s
+lxl1stru	includes/cisis.h	1812;"	s
+lxl2stru	includes/cisis.h	1824;"	s
+lybasep	includes/cisis.h	807;"	m	struct:invmap
+lzstru	includes/cisis.h	1844;"	s
+m0	includes/cisis.h	1313;"	m	union:mfunion
+m0stru	includes/cisis.h	1240;"	s
+m1	includes/cisis.h	1314;"	m	union:mfunion
+m1base	includes/cisis.h	1267;"	m	struct:m1stru
+m1dir	includes/cisis.h	1270;"	m	struct:m1stru
+m1mfbwb	includes/cisis.h	1264;"	m	struct:m1stru
+m1mfbwp	includes/cisis.h	1266;"	m	struct:m1stru
+m1mfn	includes/cisis.h	1263;"	m	struct:m1stru
+m1mfrl	includes/cisis.h	1265;"	m	struct:m1stru
+m1nvf	includes/cisis.h	1268;"	m	struct:m1stru
+m1status	includes/cisis.h	1269;"	m	struct:m1stru
+m1stru	includes/cisis.h	1262;"	s
+m1stru	includes/cisis.h	1273;"	s
+m_add	includes/cisis.h	3117;"	m	struct:lista
+mask	includes/cisis.h	2655;"	m	struct:__anon4
+maxndbx	includes/cirun.h	29;"	v
+maxnrec	includes/cirun.h	33;"	v
+maxntrm	includes/cirun.h	37;"	v
+mdl_par	includes/cisis.h	3050;"	e	enum:ins
+mdu_par	includes/cisis.h	3050;"	e	enum:ins
+mfnlist	includes/cisis.h	2591;"	m	struct:b7hitlist
+mfnlist	includes/cisis.h	2595;"	m	struct:b7hitlistshort
+mfunion	includes/cisis.h	1312;"	u
+mhl_par	includes/cisis.h	3050;"	e	enum:ins
+mhu_par	includes/cisis.h	3050;"	e	enum:ins
+mid_beg	includes/cisis.h	3083;"	e	enum:ins
+mid_end	includes/cisis.h	3083;"	e	enum:ins
+minus_op	includes/cisis.h	3053;"	e	enum:ins
+mpl_par	includes/cisis.h	3050;"	e	enum:ins
+mpu_par	includes/cisis.h	3050;"	e	enum:ins
+msbuff	includes/cisis.h	679;"	m	struct:msstru
+msbufn	includes/cisis.h	680;"	m	struct:msstru
+msstru	includes/cisis.h	678;"	s
+mx	includes/cisis.h	1315;"	m	union:mfunion
+n0stru	includes/cisis.h	730;"	s
+n1idxe	includes/cisis.h	1721;"	s
+n1opn	includes/cisis.h	786;"	m	struct:invmap
+n1opw	includes/cisis.h	798;"	m	struct:invmap
+n1stru	includes/cisis.h	1731;"	s
+n2idxe	includes/cisis.h	1726;"	s
+n2opn	includes/cisis.h	787;"	m	struct:invmap
+n2opw	includes/cisis.h	799;"	m	struct:invmap
+n2stru	includes/cisis.h	1738;"	s
+n_dummy	includes/cisis.h	3047;"	e	enum:ins
+n_sign_spac	includes/cisis.h	3049;"	e	enum:ins
+n_sigx_spac	includes/cisis.h	3049;"	e	enum:ins
+namp	includes/cisis.h	3475;"	m	struct:__anon5
+nb7oprs	includes/cisis.h	2652;"	m	struct:__anon4
+ndbxs	includes/cirun.h	28;"	v
+ndocs	includes/cisis.h	2583;"	m	struct:b7hitbuf
+neq_op	includes/cisis.h	3052;"	e	enum:ins
+newrecp	includes/cirun.h	66;"	d
+newtrmp	includes/cirun.h	67;"	d
+next	includes/cisis.h	3118;"	m	struct:lista
+nextp	includes/cisis.h	3183;"	m	struct:fst_code	typeref:struct:fst_code::fst_code
+nextp	includes/cisis.h	825;"	m	struct:gizmstru	typeref:struct:gizmstru::gizmstru
+nextp	includes/cisis.h	836;"	m	struct:vgizpstru	typeref:struct:vgizpstru::vgizpstru
+nextp	includes/cisis.h	856;"	m	struct:vdecpstru	typeref:struct:vdecpstru::vdecpstru
+nl_beg	includes/cisis.h	3089;"	e	enum:ins
+nl_end	includes/cisis.h	3089;"	e	enum:ins
+noccins	includes/cisis.h	3069;"	e	enum:ins
+noderead	includes/cisisx.c	53;"	d	file:
+nop	includes/cisis.h	2677;"	m	struct:__anon4
+not_op	includes/cisis.h	3052;"	e	enum:ins
+np_beg	includes/cisis.h	3070;"	e	enum:ins
+np_end	includes/cisis.h	3070;"	e	enum:ins
+npdls	includes/cisis.h	2658;"	m	struct:__anon4
+nqualts	includes/cisis.h	2685;"	m	struct:__anon4
+nrecs	includes/cirun.h	32;"	v
+ntrms	includes/cirun.h	36;"	v
+nused	includes/cisis.h	824;"	m	struct:gizmstru
+nx	includes/cisis.h	805;"	m	struct:invmap
+nxstru	includes/cisis.h	749;"	s
+nybasep	includes/cisis.h	806;"	m	struct:invmap
+occins	includes/cisis.h	3092;"	e	enum:ins
+ock	includes/cisis.h	1814;"	m	struct:lxl1stru
+ock	includes/cisis.h	1826;"	m	struct:lxl2stru
+opatt	includes/cisis.h	823;"	m	struct:gizmstru
+or_op	includes/cisis.h	3052;"	e	enum:ins
+osize	includes/cisis.h	821;"	m	struct:gizmstru
+pages	includes/cisis.h	750;"	m	struct:nxstru
+pcnt	includes/cisis.h	1930;"	m	struct:poststru
+pdldocs	includes/cisis.h	2556;"	m	struct:pdlstru
+pdlisiz	includes/cisis.h	2559;"	m	struct:pdlstru
+pdlleft	includes/cisis.h	2555;"	m	struct:pdlstru
+pdllmfn	includes/cisis.h	2557;"	m	struct:pdlstru
+pdllvel	includes/cisis.h	2554;"	m	struct:pdlstru
+pdlnxtp	includes/cisis.h	2561;"	m	struct:pdlstru
+pdlplen	includes/cisis.h	2560;"	m	struct:pdlstru
+pdlsize	includes/cisis.h	2558;"	m	struct:pdlstru
+pdlstru	includes/cisis.h	2553;"	s
+percent_spac	includes/cisis.h	3049;"	e	enum:ins
+pgm_node	includes/cisis.h	3106;"	t	typeref:struct:intermediate_code
+plus_op	includes/cisis.h	3053;"	e	enum:ins
+pmfn	includes/cisis.h	1927;"	m	struct:poststru
+pocc	includes/cisis.h	1929;"	m	struct:poststru
+pos	includes/cisis.h	1813;"	m	struct:lxl1stru
+pos	includes/cisis.h	1825;"	m	struct:lxl2stru
+post	includes/cisis.h	3188;"	m	struct:link1
+post	includes/cisis.h	3193;"	m	struct:link2
+poststru	includes/cisis.h	1926;"	s
+pre_cond	includes/cisis.h	3038;"	e	enum:ins
+pre_r_lit	includes/cisis.h	3038;"	e	enum:ins
+pre_r_lit_plus	includes/cisis.h	3038;"	e	enum:ins
+present	includes/cisis.h	3051;"	e	enum:ins
+print_core	includes/cisis.h	3055;"	e	enum:ins
+print_field	includes/cisis.h	3047;"	e	enum:ins
+print_maxmfn	includes/cisis.h	3055;"	e	enum:ins
+print_mfn	includes/cisis.h	3051;"	e	enum:ins
+prt_str_f	includes/cisis.h	3063;"	e	enum:ins
+ps	includes/cisis.h	1816;"	m	struct:lxl1stru
+ps	includes/cisis.h	1828;"	m	struct:lxl2stru
+psb	includes/cisis.h	1818;"	m	struct:lxl1stru
+psb	includes/cisis.h	1830;"	m	struct:lxl2stru
+ptag	includes/cisis.h	1928;"	m	struct:poststru
+putenv_beg	includes/cisis.h	3062;"	e	enum:ins
+putenv_end	includes/cisis.h	3062;"	e	enum:ins
+qualtp	includes/cisis.h	2685;"	m	struct:__anon4
+ravr_beg	includes/cisis.h	3059;"	e	enum:ins
+ravr_end	includes/cisis.h	3059;"	e	enum:ins
+read_mfn	includes/cisis.h	3066;"	e	enum:ins
+recdbxp	includes/cisis.h	1329;"	m	struct:recstru
+recgdbl	includes/cisis.h	1335;"	m	struct:recstru
+recgdbw	includes/cisis.h	1336;"	m	struct:recstru
+reclock	includes/cisis.h	1332;"	m	struct:recstru
+recmf	includes/cisis.h	1337;"	m	struct:recstru
+recnbytes	includes/cisis.h	1327;"	m	struct:recstru
+recrc	includes/cisis.h	1330;"	m	struct:recstru
+recstru	includes/cisis.h	1326;"	s
+rectype	includes/cisis.h	1328;"	m	struct:recstru
+recwlock	includes/cisis.h	1333;"	m	struct:recstru
+ref_beg	includes/cisis.h	3064;"	e	enum:ins
+ref_end	includes/cisis.h	3064;"	e	enum:ins
+refu_beg	includes/cisis.h	3065;"	e	enum:ins
+refu_end	includes/cisis.h	3065;"	e	enum:ins
+replac_beg	includes/cisis.h	3085;"	e	enum:ins
+replac_end	includes/cisis.h	3085;"	e	enum:ins
+right_beg	includes/cisis.h	3082;"	e	enum:ins
+right_end	includes/cisis.h	3082;"	e	enum:ins
+rmax_beg	includes/cisis.h	3058;"	e	enum:ins
+rmax_end	includes/cisis.h	3058;"	e	enum:ins
+rmin_beg	includes/cisis.h	3059;"	e	enum:ins
+rmin_end	includes/cisis.h	3059;"	e	enum:ins
+rsum_beg	includes/cisis.h	3058;"	e	enum:ins
+rsum_end	includes/cisis.h	3058;"	e	enum:ins
+rupd_beg	includes/cisis.h	3056;"	e	enum:ins
+rupd_end	includes/cisis.h	3056;"	e	enum:ins
+rupx_beg	includes/cisis.h	3056;"	e	enum:ins
+rupx_end	includes/cisis.h	3056;"	e	enum:ins
+s_beg	includes/cisis.h	3060;"	e	enum:ins
+s_end	includes/cisis.h	3060;"	e	enum:ins
+sattrib_beg	includes/cisis.h	3093;"	e	enum:ins
+sattrib_end	includes/cisis.h	3093;"	e	enum:ins
+set_false_rep	includes/cisis.h	3040;"	e	enum:ins
+set_true_rep	includes/cisis.h	3040;"	e	enum:ins
+setno	includes/cisis.h	2581;"	m	struct:b7hitbuf
+setno	includes/cisis.h	2601;"	m	struct:b7hitbuf
+setno	includes/cisis.h	2913;"	m	struct:b6hitbuf
+sirec	includes/cisis.h	2683;"	m	struct:__anon4
+size_beg	includes/cisis.h	3073;"	e	enum:ins
+size_end	includes/cisis.h	3073;"	e	enum:ins
+size_t	includes/cisis.h	446;"	d
+slash_spac	includes/cisis.h	3049;"	e	enum:ins
+smfn	includes/cisis.h	2682;"	m	struct:__anon4
+ss_beg	includes/cisis.h	3095;"	e	enum:ins
+ss_end	includes/cisis.h	3095;"	e	enum:ins
+status	includes/cisis.h	2421;"	m	struct:isohstru
+str_cat	includes/cisis.h	3060;"	e	enum:ins
+strvvalue	includes/cisis.h	3094;"	e	enum:ins
+sublen	includes/cisis.h	2424;"	m	struct:isohstru
+subst_and	includes/cisis.h	2622;"	m	struct:__anon4
+suf_cond	includes/cisis.h	3039;"	e	enum:ins
+suf_cond_null	includes/cisis.h	3039;"	e	enum:ins
+suf_r_lit	includes/cisis.h	3039;"	e	enum:ins
+suf_r_lit_plus	includes/cisis.h	3039;"	e	enum:ins
+syst_beg	includes/cisis.h	3056;"	e	enum:ins
+syst_end	includes/cisis.h	3056;"	e	enum:ins
+tag	includes/cisis.h	3180;"	m	struct:fst_code
+tagfld	includes/cisis.h	2433;"	m	struct:isodstru
+test_occ	includes/cisis.h	3047;"	e	enum:ins
+test_rep	includes/cisis.h	3040;"	e	enum:ins
+times_op	includes/cisis.h	3053;"	e	enum:ins
+tokbackp	includes/cisis.h	2637;"	m	struct:__anon4
+token	includes/cisis.h	2639;"	m	struct:__anon4
+toklen	includes/cisis.h	2643;"	m	struct:__anon4
+tokmassp	includes/cisis.h	2649;"	m	struct:__anon4
+toknextp	includes/cisis.h	2638;"	m	struct:__anon4
+tokopr	includes/cisis.h	2641;"	m	struct:__anon4
+tokqty	includes/cisis.h	2642;"	m	struct:__anon4
+tokquall	includes/cisis.h	2646;"	m	struct:__anon4
+tokqualn	includes/cisis.h	2647;"	m	struct:__anon4
+tokqualp	includes/cisis.h	2645;"	m	struct:__anon4
+toktyp	includes/cisis.h	2640;"	m	struct:__anon4
+trmdbxp	includes/cisis.h	1968;"	m	struct:trmstru
+trmifbuf	includes/cisis.h	2004;"	m	struct:trmstru
+trmifhdr	includes/cisis.h	2002;"	m	struct:trmstru
+trmifseg	includes/cisis.h	2001;"	m	struct:trmstru
+trmkey	includes/cisis.h	1970;"	m	struct:trmstru
+trml1buf	includes/cisis.h	1976;"	m	struct:trmstru
+trml1nul	includes/cisis.h	1977;"	m	struct:trmstru
+trml2buf	includes/cisis.h	1978;"	m	struct:trmstru
+trml2nul	includes/cisis.h	1979;"	m	struct:trmstru
+trmlcase	includes/cisis.h	1980;"	m	struct:trmstru
+trmlidxp	includes/cisis.h	1985;"	m	struct:trmstru
+trmliock	includes/cisis.h	1984;"	m	struct:trmstru
+trmnbytes	includes/cisis.h	1966;"	m	struct:trmstru
+trmpcblk	includes/cisis.h	1999;"	m	struct:trmstru
+trmpchar	includes/cisis.h	1988;"	m	struct:trmstru
+trmpcnt	includes/cisis.h	1975;"	m	struct:trmstru
+trmpcpos	includes/cisis.h	2000;"	m	struct:trmstru
+trmpcurr	includes/cisis.h	1987;"	m	struct:trmstru
+trmpleft	includes/cisis.h	1986;"	m	struct:trmstru
+trmpmfn	includes/cisis.h	1972;"	m	struct:trmstru
+trmpocc	includes/cisis.h	1974;"	m	struct:trmstru
+trmpost	includes/cisis.h	1971;"	m	struct:trmstru
+trmptag	includes/cisis.h	1973;"	m	struct:trmstru
+trmrc	includes/cisis.h	1969;"	m	struct:trmstru
+trmrcase	includes/cisis.h	1981;"	m	struct:trmstru
+trmrseek	includes/cisis.h	1982;"	m	struct:trmstru
+trmrsize	includes/cisis.h	1983;"	m	struct:trmstru
+trmstru	includes/cisis.h	1965;"	s
+trmtype	includes/cisis.h	1967;"	m	struct:trmstru
+trmyaddr	includes/cisis.h	1990;"	m	struct:trmstru
+trmycase	includes/cisis.h	1992;"	m	struct:trmstru
+trmydisk	includes/cisis.h	1995;"	m	struct:trmstru
+trmydocs	includes/cisis.h	1994;"	m	struct:trmstru
+trmyleft	includes/cisis.h	1997;"	m	struct:trmstru
+trmypsts	includes/cisis.h	1991;"	m	struct:trmstru
+trmyread	includes/cisis.h	1996;"	m	struct:trmstru
+trmysize	includes/cisis.h	1993;"	m	struct:trmstru
+type_beg	includes/cisis.h	3074;"	e	enum:ins
+type_end	includes/cisis.h	3074;"	e	enum:ins
+u_cond	includes/cisis.h	3051;"	e	enum:ins
+uint16_t	includes/cisis.h	3518;"	d
+update_fld	includes/cisis.h	3067;"	e	enum:ins
+val_beg	includes/cisis.h	3054;"	e	enum:ins
+val_end	includes/cisis.h	3054;"	e	enum:ins
+valp	includes/cisis.h	3476;"	m	struct:__anon5
+vdbxp	includes/cirun.h	27;"	v
+vdecpstru	includes/cisis.h	846;"	s
+vetcas	includes/cisis.h	2676;"	m	struct:__anon4
+vetopp	includes/cisis.h	2676;"	m	struct:__anon4
+vetopr	includes/cisis.h	2676;"	m	struct:__anon4
+vgizpstru	includes/cisis.h	830;"	s
+vpdlp	includes/cisis.h	2657;"	m	struct:__anon4
+vqualt	includes/cisis.h	2685;"	m	struct:__anon4
+vrecp	includes/cirun.h	31;"	v
+vtrmp	includes/cirun.h	35;"	v
+while_beg	includes/cisis.h	3091;"	e	enum:ins
+while_end	includes/cisis.h	3091;"	e	enum:ins
+x_spac	includes/cisis.h	3049;"	e	enum:ins
+xcntread	includes/cisisx.c	1914;"	f	class:CISISX
+xdbxcinet	includes/cisisx.c	152;"	f	class:CISISX
+xdbxcipar	includes/cisisx.c	995;"	f	class:CISISX
+xdbxciset	includes/cisisx.c	954;"	f	class:CISISX
+xdbxgipar	includes/cisisx.c	823;"	f	class:CISISX
+xdbxilock	includes/cisisx.c	195;"	f	class:CISISX
+xdbxinit	includes/cisisx.c	347;"	f	class:CISISX
+xdbxopen	includes/cisisx.c	589;"	f	class:CISISX
+xdbxopenc	includes/cisisx.c	751;"	f	class:CISISX
+xdbxopenw	includes/cisisx.c	690;"	f	class:CISISX
+xdbxsrchp	includes/cisisx.c	487;"	f	class:CISISX
+xdbxstorp	includes/cisisx.c	512;"	f	class:CISISX
+xdbxtmpnm	includes/cisisx.c	1405;"	f	class:CISISX
+xdecflush	includes/cisisx.c	1192;"	f	class:CISISX
+xfatal	includes/cisisx.c	94;"	f	class:CISISX
+xgizflush	includes/cisisx.c	1137;"	f	class:CISISX
+xinvsetup	includes/cisisx.c	2124;"	f	class:CISISX
+xleafread	includes/cisisx.c	2675;"	f	class:CISISX
+xloadfile	includes/cisisx.c	1225;"	f	class:CISISX
+xloadstw	includes/cisisx.c	1333;"	f	class:CISISX
+xmlelem_beg	includes/cisis.h	3087;"	e	enum:ins
+xmlelem_end	includes/cisis.h	3087;"	e	enum:ins
+xnoderead	includes/cisisx.c	2496;"	f	class:CISISX
+xpostread	includes/cisisx.c	3111;"	f	class:CISISX
+xrecisis0	includes/cisisx.c	1518;"	f	class:CISISX
+xrecreset	includes/cisisx.c	1690;"	f	class:CISISX
+xrmfptr	includes/cisis.h	675;"	m	struct:xrstru
+xrstru	includes/cisis.h	673;"	s
+xrxrpos	includes/cisis.h	674;"	m	struct:xrstru
+xtrac	includes/cisis.h	2673;"	m	struct:__anon4
+zzzzzz	includes/cisis.h	3097;"	e	enum:ins
